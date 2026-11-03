@@ -1,0 +1,51 @@
+id,state,postal,status,leader,leader_party,leader_pct,runner_up,runner_up_party,runner_up_pct,margin_pts,pct_reporting,called,updated_utc
+AL,Alabama,AL,Rep lead,Demo Republican,R,67.0,Demo Democrat,D,33.0,34.0,78,no,2026-11-03 18:02 UTC
+AK,Alaska,AK,Dem lead,Demo Democrat,D,77.0,Demo Republican,R,23.0,54.0,78,no,2026-11-03 18:02 UTC
+AZ,Arizona,AZ,Dem lead,Demo Democrat,D,57.3,Demo Republican,R,42.7,14.6,45,no,2026-11-03 18:02 UTC
+AR,Arkansas,AR,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+CA,California,CA,Rep lead,Demo Republican,R,51.2,Demo Democrat,D,48.8,2.4,78,no,2026-11-03 18:02 UTC
+CO,Colorado,CO,Too early,Demo Democrat,D,,Demo Republican,R,,,0,no,2026-11-03 18:02 UTC
+CT,Connecticut,CT,Rep lead,Demo Republican,R,62.6,Demo Democrat,D,37.4,25.2,78,no,2026-11-03 18:02 UTC
+DE,Delaware,DE,Rep lead,Demo Republican,R,62.2,Demo Democrat,D,37.8,24.4,45,no,2026-11-03 18:02 UTC
+FL,Florida,FL,Rep lead,Demo Republican,R,53.9,Demo Democrat,D,46.1,7.8,45,no,2026-11-03 18:02 UTC
+GA,Georgia,GA,Rep lead,Demo Republican,R,61.9,Demo Democrat,D,38.1,23.8,45,no,2026-11-03 18:02 UTC
+HI,Hawaii,HI,Too early,Demo Democrat,D,,Demo Republican,R,,,0,no,2026-11-03 18:02 UTC
+ID,Idaho,ID,Rep lead,Demo Republican,R,73.3,Demo Democrat,D,26.7,46.6,78,no,2026-11-03 18:02 UTC
+IL,Illinois,IL,Rep lead,Demo Republican,R,64.7,Demo Democrat,D,35.3,29.4,12,no,2026-11-03 18:02 UTC
+IN,Indiana,IN,Dem win,Demo Democrat,D,89.4,Demo Republican,R,10.6,78.8,100,yes,2026-11-03 18:02 UTC
+IA,Iowa,IA,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+KS,Kansas,KS,Dem win,Demo Democrat,D,69.9,Demo Republican,R,30.1,39.8,100,yes,2026-11-03 18:02 UTC
+KY,Kentucky,KY,Dem lead,Demo Democrat,D,60.7,Demo Republican,R,39.3,21.4,78,no,2026-11-03 18:02 UTC
+LA,Louisiana,LA,Too early,Demo Democrat,D,,Demo Republican,R,,,0,no,2026-11-03 18:02 UTC
+ME,Maine,ME,Dem lead,Demo Democrat,D,78.8,Demo Republican,R,21.2,57.6,78,no,2026-11-03 18:02 UTC
+MD,Maryland,MD,Dem lead,Demo Democrat,D,69.7,Demo Republican,R,30.3,39.4,12,no,2026-11-03 18:02 UTC
+MA,Massachusetts,MA,Dem win,Demo Democrat,D,56.9,Demo Republican,R,43.1,13.8,100,yes,2026-11-03 18:02 UTC
+MI,Michigan,MI,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+MN,Minnesota,MN,Rep lead,Demo Republican,R,59.9,Demo Democrat,D,40.1,19.8,45,no,2026-11-03 18:02 UTC
+MS,Mississippi,MS,Dem lead,Demo Democrat,D,60.0,Demo Republican,R,40.0,20.0,78,no,2026-11-03 18:02 UTC
+MO,Missouri,MO,Rep lead,Demo Republican,R,73.7,Demo Democrat,D,26.3,47.4,45,no,2026-11-03 18:02 UTC
+MT,Montana,MT,Too early,Demo Democrat,D,,Demo Republican,R,,,0,no,2026-11-03 18:02 UTC
+NE,Nebraska,NE,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+NV,Nevada,NV,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+NH,New Hampshire,NH,Rep lead,Demo Republican,R,54.9,Demo Democrat,D,45.1,9.8,45,no,2026-11-03 18:02 UTC
+NJ,New Jersey,NJ,Dem lead,Demo Democrat,D,69.3,Demo Republican,R,30.7,38.6,45,no,2026-11-03 18:02 UTC
+NM,New Mexico,NM,Too early,Demo Democrat,D,,Demo Republican,R,,,0,no,2026-11-03 18:02 UTC
+NY,New York,NY,Dem lead,Demo Democrat,D,64.1,Demo Republican,R,35.9,28.2,12,no,2026-11-03 18:02 UTC
+NC,North Carolina,NC,Dem lead,Demo Democrat,D,62.8,Demo Republican,R,37.2,25.6,12,no,2026-11-03 18:02 UTC
+ND,North Dakota,ND,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+OH,Ohio,OH,Rep lead,Demo Republican,R,66.1,Demo Democrat,D,33.9,32.2,45,no,2026-11-03 18:02 UTC
+OK,Oklahoma,OK,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+OR,Oregon,OR,Rep lead,Demo Republican,R,56.9,Demo Democrat,D,43.1,13.8,78,no,2026-11-03 18:02 UTC
+PA,Pennsylvania,PA,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+RI,Rhode Island,RI,Too early,Demo Democrat,D,,Demo Republican,R,,,0,no,2026-11-03 18:02 UTC
+SC,South Carolina,SC,Rep lead,Demo Republican,R,80.0,Demo Democrat,D,20.0,60.0,12,no,2026-11-03 18:02 UTC
+SD,South Dakota,SD,Too early,Demo Democrat,D,,Demo Republican,R,,,0,no,2026-11-03 18:02 UTC
+TN,Tennessee,TN,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+TX,Texas,TX,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+UT,Utah,UT,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+VT,Vermont,VT,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+VA,Virginia,VA,Dem lead,Demo Democrat,D,76.1,Demo Republican,R,23.9,52.2,12,no,2026-11-03 18:02 UTC
+WA,Washington,WA,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+WV,West Virginia,WV,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+WI,Wisconsin,WI,No race,,,,,,,,,no,2026-11-03 18:02 UTC
+WY,Wyoming,WY,Rep lead,Demo Republican,R,92.0,Demo Democrat,D,8.0,84.0,45,no,2026-11-03 18:02 UTC
