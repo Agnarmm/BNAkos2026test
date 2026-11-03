@@ -1,1 +1,436 @@
 id,state,postal,status,leader,leader_party,leader_pct,runner_up,runner_up_party,runner_up_pct,margin_pts,pct_reporting,called,updated_utc
+AK-AL,Alaska,AK,Too early,Nick Begich III,R,,Eric Hafner,D,,,0,no,2026-11-03 18:17 UTC
+AL-01,Alabama,AL,Too early,Jerry Carl,R,,Clyde Jones,D,,,0,no,2026-11-03 18:17 UTC
+AL-02,Alabama,AL,Too early,Shomari Figures,D,,Rhett Marques,R,,,0,no,2026-11-03 18:17 UTC
+AL-03,Alabama,AL,Too early,Mike Rogers,R,,Lee McInnis,D,,,0,no,2026-11-03 18:17 UTC
+AL-04,Alabama,AL,Too early,Robert Aderholt,R,,Amanda Pusczek,D,,,0,no,2026-11-03 18:17 UTC
+AL-05,Alabama,AL,Too early,Dale Strong,R,,Andrew Sneed,D,,,0,no,2026-11-03 18:17 UTC
+AL-06,Alabama,AL,Too early,Gary Palmer,R,,Maurice Mercer,D,,,0,no,2026-11-03 18:17 UTC
+AL-07,Alabama,AL,Too early,Terri Sewell,D,,Ammie Akin,R,,,0,no,2026-11-03 18:17 UTC
+AR-01,Arkansas,AR,Too early,Terri Yarbrough Green,D,,Rick Crawford,R,,,0,no,2026-11-03 18:17 UTC
+AR-02,Arkansas,AR,Too early,French Hill,R,,Chris Jones,D,,,0,no,2026-11-03 18:17 UTC
+AR-03,Arkansas,AR,Too early,Robb Ryerse,D,,Steve Womack,R,,,0,no,2026-11-03 18:17 UTC
+AR-04,Arkansas,AR,Too early,James Russell,D,,Bruce Westerman,R,,,0,no,2026-11-03 18:17 UTC
+AZ-01,Arizona,AZ,Too early,Amish Shah,D,,Jay Feely,R,,,0,no,2026-11-03 18:17 UTC
+AZ-02,Arizona,AZ,Too early,Eli Crane,R,,Jonathan Nez,D,,,0,no,2026-11-03 18:17 UTC
+AZ-03,Arizona,AZ,Too early,Jacob Parkman,R,,Yassamin Ansari,D,,,0,no,2026-11-03 18:17 UTC
+AZ-04,Arizona,AZ,Too early,Greg Stanton,D,,Zuhdi Jasser,R,,,0,no,2026-11-03 18:17 UTC
+AZ-05,Arizona,AZ,Too early,Elizabeth Lee,D,,Mark Lamb,R,,,0,no,2026-11-03 18:17 UTC
+AZ-06,Arizona,AZ,Too early,JoAnna Mendoza,D,,Juan Ciscomani,R,,,0,no,2026-11-03 18:17 UTC
+AZ-07,Arizona,AZ,Too early,Adelita Grijalva,D,,Daniel Butierez,R,,,0,no,2026-11-03 18:17 UTC
+AZ-08,Arizona,AZ,Too early,Abraham Hamadeh,R,,Bernadette Greene-Placentia,D,,,0,no,2026-11-03 18:17 UTC
+AZ-09,Arizona,AZ,Too early,Danielle Sterbinsky,D,,Paul Gosar,R,,,0,no,2026-11-03 18:17 UTC
+CA-01,California,CA,Too early,Mike McGuire,D,,James Gallagher,R,,,0,no,2026-11-03 18:17 UTC
+CA-02,California,CA,Too early,Jared Huffman,D,,Robin Littau,R,,,0,no,2026-11-03 18:17 UTC
+CA-03,California,CA,Too early,Ami Bera,D,,Robb Tucker,R,,,0,no,2026-11-03 18:17 UTC
+CA-04,California,CA,Too early,Mike Thompson,D,,Eric Jones,D,,,0,no,2026-11-03 18:17 UTC
+CA-05,California,CA,Too early,Michael Masuda,D,,Tom McClintock,R,,,0,no,2026-11-03 18:17 UTC
+CA-06,California,CA,Too early,Richard Pan,D,,Kevin Kiley,I,,,0,no,2026-11-03 18:17 UTC
+CA-07,California,CA,Too early,Mai Vang,D,,Doris Matsui,D,,,0,no,2026-11-03 18:17 UTC
+CA-08,California,CA,Too early,John Garamendi,D,,Rudy Recile,R,,,0,no,2026-11-03 18:17 UTC
+CA-09,California,CA,Too early,John McBride,R,,Josh Harder,D,,,0,no,2026-11-03 18:17 UTC
+CA-10,California,CA,Too early,Mark DeSaulnier,D,,Jeff Frese,R,,,0,no,2026-11-03 18:17 UTC
+CA-11,California,CA,Too early,Connie Chan,D,,Scott Wiener,D,,,0,no,2026-11-03 18:17 UTC
+CA-12,California,CA,Too early,Lateefah Simon,D,,Jamie Joyce,D,,,0,no,2026-11-03 18:17 UTC
+CA-13,California,CA,Too early,Adam Gray,D,,Kevin Lincoln,R,,,0,no,2026-11-03 18:17 UTC
+CA-14,California,CA,Too early,Melissa Hernandez,D,,Aisha Wahab,D,,,0,no,2026-11-03 18:17 UTC
+CA-15,California,CA,Too early,Charles Hoelter,R,,Kevin Mullin,D,,,0,no,2026-11-03 18:17 UTC
+CA-16,California,CA,Too early,Peter Sundin Soulé,R,,Sam Liccardo,D,,,0,no,2026-11-03 18:17 UTC
+CA-17,California,CA,Too early,Ro Khanna,D,,Ritesh Tandon,R,,,0,no,2026-11-03 18:17 UTC
+CA-18,California,CA,Too early,Shane Lewis,R,,Zoe Lofgren,D,,,0,no,2026-11-03 18:17 UTC
+CA-19,California,CA,Too early,Peter Verbica,R,,Jimmy Panetta,D,,,0,no,2026-11-03 18:17 UTC
+CA-20,California,CA,Too early,Sandra Van Scotter,D,,Vince Fong,R,,,0,no,2026-11-03 18:17 UTC
+CA-21,California,CA,Too early,Kyle Kirkland,R,,Jim Costa,D,,,0,no,2026-11-03 18:17 UTC
+CA-22,California,CA,Too early,Randy Villegas,D,,David Valadao,R,,,0,no,2026-11-03 18:17 UTC
+CA-23,California,CA,Too early,Jay Obernolte,R,,Tessa Lynn Hodge,D,,,0,no,2026-11-03 18:17 UTC
+CA-24,California,CA,Too early,Bob Smith,R,,Salud Carbajal,D,,,0,no,2026-11-03 18:17 UTC
+CA-25,California,CA,Too early,Raul Ruiz,D,,Joe Males,R,,,0,no,2026-11-03 18:17 UTC
+CA-26,California,CA,Too early,Jacqui Irwin,D,,Sam Gallucci,R,,,0,no,2026-11-03 18:17 UTC
+CA-27,California,CA,Too early,George Whitesides,D,,Jason Gibbs,R,,,0,no,2026-11-03 18:17 UTC
+CA-28,California,CA,Too early,Judy Chu,D,,April Verlato,R,,,0,no,2026-11-03 18:17 UTC
+CA-29,California,CA,Too early,Luz Rivas,D,,Angélica María Dueñas,D,,,0,no,2026-11-03 18:17 UTC
+CA-30,California,CA,Too early,Scott Meyers,R,,Laura Friedman,D,,,0,no,2026-11-03 18:17 UTC
+CA-31,California,CA,Too early,Eric Ching,R,,Gil Cisneros,D,,,0,no,2026-11-03 18:17 UTC
+CA-32,California,CA,Too early,Larry Thompson,R,,Brad Sherman,D,,,0,no,2026-11-03 18:17 UTC
+CA-33,California,CA,Too early,Stephanie Vargas,R,,Pete Aguilar,D,,,0,no,2026-11-03 18:17 UTC
+CA-34,California,CA,Too early,Jimmy Gomez,D,,Angela Gonzales-Torres,D,,,0,no,2026-11-03 18:17 UTC
+CA-35,California,CA,Too early,Norma Torres,D,,Mike Cargile,R,,,0,no,2026-11-03 18:17 UTC
+CA-36,California,CA,Too early,Houston Brignano,R,,Ted Lieu,D,,,0,no,2026-11-03 18:17 UTC
+CA-37,California,CA,Too early,Sydney Kamlager-Dove,D,,Samantha Mota,D,,,0,no,2026-11-03 18:17 UTC
+CA-38,California,CA,Too early,Hilda Solis,D,,Pedro Antonio Casas,R,,,0,no,2026-11-03 18:17 UTC
+CA-39,California,CA,Too early,Mark Takano,D,,Steve Manos,R,,,0,no,2026-11-03 18:17 UTC
+CA-40,California,CA,Too early,Ken Calvert,R,,Young Kim,R,,,0,no,2026-11-03 18:17 UTC
+CA-41,California,CA,Too early,Linda Sánchez,D,,Mitch Clemmons,R,,,0,no,2026-11-03 18:17 UTC
+CA-42,California,CA,Too early,Brian Burley,R,,Robert Garcia,D,,,0,no,2026-11-03 18:17 UTC
+CA-43,California,CA,Too early,Maxine Waters,D,,Cristian Morales,R,,,0,no,2026-11-03 18:17 UTC
+CA-44,California,CA,Too early,Nanette Barragán,D,,Genevieve Angel,R,,,0,no,2026-11-03 18:17 UTC
+CA-45,California,CA,Too early,Chuong Vo,R,,Derek Tran,D,,,0,no,2026-11-03 18:17 UTC
+CA-46,California,CA,Too early,Lou Correa,D,,David Pan,R,,,0,no,2026-11-03 18:17 UTC
+CA-47,California,CA,Too early,Dave Min,D,,Jenny Le Roux,R,,,0,no,2026-11-03 18:17 UTC
+CA-48,California,CA,Too early,Marni von Wilpert,D,,Jim Desmond,R,,,0,no,2026-11-03 18:17 UTC
+CA-49,California,CA,Too early,Mike Levin,D,,Armen Kurdian,R,,,0,no,2026-11-03 18:17 UTC
+CA-50,California,CA,Too early,Scott Peters,D,,Steve Cohen,R,,,0,no,2026-11-03 18:17 UTC
+CA-51,California,CA,Too early,Sara Jacobs,D,,Ricardo Cabrera,R,,,0,no,2026-11-03 18:17 UTC
+CA-52,California,CA,Too early,Juan Vargas,D,,Jeff Belle,R,,,0,no,2026-11-03 18:17 UTC
+CO-01,Colorado,CO,Too early,Melat Kiros,D,,Christy Peterson,R,,,0,no,2026-11-03 18:17 UTC
+CO-02,Colorado,CO,Too early,Joe Neguse,D,,Kelley Anne Dennison,R,,,0,no,2026-11-03 18:17 UTC
+CO-03,Colorado,CO,Too early,Dwayne L. Romero,D,,Jeff Hurd,R,,,0,no,2026-11-03 18:17 UTC
+CO-04,Colorado,CO,Too early,Lauren Boebert,R,,Eileen Laubacher,D,,,0,no,2026-11-03 18:17 UTC
+CO-05,Colorado,CO,Too early,Jeff Crank,R,,Jessica Killin,D,,,0,no,2026-11-03 18:17 UTC
+CO-06,Colorado,CO,Too early,Jason Crow,D,,Jason Clark,R,,,0,no,2026-11-03 18:17 UTC
+CO-07,Colorado,CO,Too early,Tim Bennett,R,,Brittany Pettersen,D,,,0,no,2026-11-03 18:17 UTC
+CO-08,Colorado,CO,Too early,Gabe Evans,R,,Manny Rutinel,D,,,0,no,2026-11-03 18:17 UTC
+CT-01,Connecticut,CT,Too early,Luke Bronin,D,,Amy Chai,R,,,0,no,2026-11-03 18:17 UTC
+CT-02,Connecticut,CT,Too early,Joe Courtney,D,,George Austin,R,,,0,no,2026-11-03 18:17 UTC
+CT-03,Connecticut,CT,Too early,Rosa DeLauro,D,,Christopher Lancia,R,,,0,no,2026-11-03 18:17 UTC
+CT-04,Connecticut,CT,Too early,Jim Himes,D,,Michael Goldstein,R,,,0,no,2026-11-03 18:17 UTC
+CT-05,Connecticut,CT,Too early,Jahana Hayes,D,,Chris Shea,R,,,0,no,2026-11-03 18:17 UTC
+DE-AL,Delaware,DE,Too early,Sarah McBride,D,,"Joseph ""Dr. Joe"" Arminio",R,,,0,no,2026-11-03 18:17 UTC
+FL-01,Florida,FL,Too early,Jimmy Patronis,R,,Gay Valimont,D,,,0,no,2026-11-03 18:17 UTC
+FL-02,Florida,FL,Too early,Amanda Green,D,,Austin Rogers,R,,,0,no,2026-11-03 18:17 UTC
+FL-03,Florida,FL,Too early,Kat Cammack,R,,Seth Harp,D,,,0,no,2026-11-03 18:17 UTC
+FL-04,Florida,FL,Too early,Aaron Bean,R,,LaShonda Holloway,D,,,0,no,2026-11-03 18:17 UTC
+FL-05,Florida,FL,Too early,Rachel Grage,D,,John Rutherford,R,,,0,no,2026-11-03 18:17 UTC
+FL-06,Florida,FL,Too early,Randy Fine,R,,Eric Yonce,D,,,0,no,2026-11-03 18:17 UTC
+FL-07,Florida,FL,Too early,Bale Dalton,D,,Ryan Elijah,R,,,0,no,2026-11-03 18:17 UTC
+FL-08,Florida,FL,Too early,Mike Haridopolos,R,,Jennifer Jenkins,D,,,0,no,2026-11-03 18:17 UTC
+FL-09,Florida,FL,Too early,Dan Green,R,,Darren Soto,D,,,0,no,2026-11-03 18:17 UTC
+FL-10,Florida,FL,Too early,Maxwell Frost,D,,,,,,0,no,2026-11-03 18:17 UTC
+FL-11,Florida,FL,Too early,James Pericola,D,,Joe Strada,R,,,0,no,2026-11-03 18:17 UTC
+FL-12,Florida,FL,Too early,Gus Bilirakis,R,,Kimberly Overman,D,,,0,no,2026-11-03 18:17 UTC
+FL-13,Florida,FL,Too early,Leela Gray,D,,Anna Paulina Luna,R,,,0,no,2026-11-03 18:17 UTC
+FL-14,Florida,FL,Too early,Mike Beltran,R,,Kathy Castor,D,,,0,no,2026-11-03 18:17 UTC
+FL-15,Florida,FL,Too early,Laurel Lee,R,,Robert People,D,,,0,no,2026-11-03 18:17 UTC
+FL-16,Florida,FL,Too early,Sydney Gruters,R,,Kelly Kirschner,D,,,0,no,2026-11-03 18:17 UTC
+FL-17,Florida,FL,Too early,Matthew Montavon,D,,Greg Steube,R,,,0,no,2026-11-03 18:17 UTC
+FL-18,Florida,FL,Too early,Scott Franklin,R,,Curtis Gibson,D,,,0,no,2026-11-03 18:17 UTC
+FL-19,Florida,FL,Too early,Victor Arias,D,,Jim Schwartzel,R,,,0,no,2026-11-03 18:17 UTC
+FL-20,Florida,FL,Too early,Brent Andersen,R,,Debbie Wasserman Schultz,D,,,0,no,2026-11-03 18:17 UTC
+FL-21,Florida,FL,Too early,James Martin,D,,Brian Mast,R,,,0,no,2026-11-03 18:17 UTC
+FL-22,Florida,FL,Too early,Casey Askar,R,,Pia Dandiya,D,,,0,no,2026-11-03 18:17 UTC
+FL-23,Florida,FL,Too early,Deborah Adeimy,R,,Lois Frankel,D,,,0,no,2026-11-03 18:17 UTC
+FL-24,Florida,FL,Too early,Mayonna Te Brown,R,,Oliver Gilbert,D,,,0,no,2026-11-03 18:17 UTC
+FL-25,Florida,FL,Too early,Jared Moskowitz,D,,Scott Singer,R,,,0,no,2026-11-03 18:17 UTC
+FL-26,Florida,FL,Too early,Mario Diaz-Balart,R,,Nicole Locklin,D,,,0,no,2026-11-03 18:17 UTC
+FL-27,Florida,FL,Too early,Eliott Rodriguez,D,,Maria Elvira Salazar,R,,,0,no,2026-11-03 18:17 UTC
+FL-28,Florida,FL,Too early,Phil Ehr,D,,Carlos Giménez,R,,,0,no,2026-11-03 18:17 UTC
+GA-01,Georgia,GA,Too early,Jim Kingston,R,,Amanda Hollowell,D,,,0,no,2026-11-03 18:17 UTC
+GA-02,Georgia,GA,Too early,Sanford Bishop,D,,Matt Day,R,,,0,no,2026-11-03 18:17 UTC
+GA-03,Georgia,GA,Too early,Brian Jack,R,,Maura Keller,D,,,0,no,2026-11-03 18:17 UTC
+GA-04,Georgia,GA,Too early,Hank Johnson,D,,James Duffie,R,,,0,no,2026-11-03 18:17 UTC
+GA-05,Georgia,GA,Too early,Nikema Williams,D,,John Salvesen,R,,,0,no,2026-11-03 18:17 UTC
+GA-06,Georgia,GA,Too early,Lucy McBath,D,,Kevin Martin,R,,,0,no,2026-11-03 18:17 UTC
+GA-07,Georgia,GA,Too early,Rich McCormick,R,,Anthony Kozycki,D,,,0,no,2026-11-03 18:17 UTC
+GA-08,Georgia,GA,Too early,Austin Scott,R,,Kelly Etsi,D,,,0,no,2026-11-03 18:17 UTC
+GA-09,Georgia,GA,Too early,Andrew Clyde,R,,Caitlyn Gegen,D,,,0,no,2026-11-03 18:17 UTC
+GA-10,Georgia,GA,Too early,Houston Gaines,R,,Pamela DeLancy,D,,,0,no,2026-11-03 18:17 UTC
+GA-11,Georgia,GA,Too early,John Cowan,R,,Chris Harden,D,,,0,no,2026-11-03 18:17 UTC
+GA-12,Georgia,GA,Too early,Rick Allen,R,,Ceretta Smith,D,,,0,no,2026-11-03 18:17 UTC
+GA-13,Georgia,GA,Too early,Jasmine Clark,D,,Jonathan Chavez,R,,,0,no,2026-11-03 18:17 UTC
+GA-14,Georgia,GA,Too early,Clay Fuller,R,,Shawn Harris,D,,,0,no,2026-11-03 18:17 UTC
+HI-01,Hawaii,HI,Too early,Ed Case,D,,Adriel Lam,R,,,0,no,2026-11-03 18:17 UTC
+HI-02,Hawaii,HI,Too early,Brenton Awa,R,,Jill Tokuda,D,,,0,no,2026-11-03 18:17 UTC
+IA-01,Iowa,IA,Too early,Mariannette Miller-Meeks,R,,Christina Bohannan,D,,,0,no,2026-11-03 18:17 UTC
+IA-02,Iowa,IA,Too early,Joe Mitchell,R,,Lindsay James,D,,,0,no,2026-11-03 18:17 UTC
+IA-03,Iowa,IA,Too early,Zach Nunn,R,,Sarah Trone Garriott,D,,,0,no,2026-11-03 18:17 UTC
+IA-04,Iowa,IA,Too early,Chris McGowan,R,,Dave Dawson,D,,,0,no,2026-11-03 18:17 UTC
+ID-01,Idaho,ID,Too early,Kaylee Peterson,D,,Russ Fulcher,R,,,0,no,2026-11-03 18:17 UTC
+ID-02,Idaho,ID,Too early,Ellie Gilbreath,D,,Mike Simpson,R,,,0,no,2026-11-03 18:17 UTC
+IL-01,Illinois,IL,Too early,Jonathan Jackson,D,,Christian Maxwell,R,,,0,no,2026-11-03 18:17 UTC
+IL-02,Illinois,IL,Too early,Donna Miller,D,,Mike Noack,R,,,0,no,2026-11-03 18:17 UTC
+IL-03,Illinois,IL,Too early,Delia Ramirez,D,,Angel Oakley,R,,,0,no,2026-11-03 18:17 UTC
+IL-04,Illinois,IL,Too early,Patty Garcia,D,,Lupe Castillo,R,,,0,no,2026-11-03 18:17 UTC
+IL-05,Illinois,IL,Too early,Mike Quigley,D,,Tom Hanson,R,,,0,no,2026-11-03 18:17 UTC
+IL-06,Illinois,IL,Too early,Sean Casten,D,,Niki Conforti,R,,,0,no,2026-11-03 18:17 UTC
+IL-07,Illinois,IL,Too early,La Shawn Ford,D,,Chad Koppie,R,,,0,no,2026-11-03 18:17 UTC
+IL-08,Illinois,IL,Too early,Melissa Bean,D,,Jennifer Davis,R,,,0,no,2026-11-03 18:17 UTC
+IL-09,Illinois,IL,Too early,Daniel K. Biss,D,,John Elleson,R,,,0,no,2026-11-03 18:17 UTC
+IL-10,Illinois,IL,Too early,Brad Schneider,D,,Carl Lambrecht,R,,,0,no,2026-11-03 18:17 UTC
+IL-11,Illinois,IL,Too early,Bill Foster,D,,Jeffrey Walter,R,,,0,no,2026-11-03 18:17 UTC
+IL-12,Illinois,IL,Too early,Julie Fortier,D,,Mike Bost,R,,,0,no,2026-11-03 18:17 UTC
+IL-13,Illinois,IL,Too early,Nikki Budzinski,D,,Jeff Wilson,R,,,0,no,2026-11-03 18:17 UTC
+IL-14,Illinois,IL,Too early,Lauren Underwood,D,,James Marter,R,,,0,no,2026-11-03 18:17 UTC
+IL-15,Illinois,IL,Too early,Jennifer Todd,D,,Mary Miller,R,,,0,no,2026-11-03 18:17 UTC
+IL-16,Illinois,IL,Too early,Paul Nolley,D,,Darin LaHood,R,,,0,no,2026-11-03 18:17 UTC
+IL-17,Illinois,IL,Too early,Eric Sorensen,D,,Dillan Vancil,R,,,0,no,2026-11-03 18:17 UTC
+IN-01,Indiana,IN,Too early,Frank Mrvan,D,,Barb Regnitz,R,,,0,no,2026-11-03 18:17 UTC
+IN-02,Indiana,IN,Too early,Jamee Decio,D,,Rudy Yakym,R,,,0,no,2026-11-03 18:17 UTC
+IN-03,Indiana,IN,Too early,Kelly Thompson,D,,Marlin Stutzman,R,,,0,no,2026-11-03 18:17 UTC
+IN-04,Indiana,IN,Too early,Drew Cox,D,,Jim Baird,R,,,0,no,2026-11-03 18:17 UTC
+IN-05,Indiana,IN,Too early,J. D. Ford,D,,Victoria Spartz,R,,,0,no,2026-11-03 18:17 UTC
+IN-06,Indiana,IN,Too early,Cinde Wirth,D,,Jefferson Shreve,R,,,0,no,2026-11-03 18:17 UTC
+IN-07,Indiana,IN,Too early,André Carson,D,,Patrick McAuley,R,,,0,no,2026-11-03 18:17 UTC
+IN-08,Indiana,IN,Too early,Mary Allen,D,,Mark Messmer,R,,,0,no,2026-11-03 18:17 UTC
+IN-09,Indiana,IN,Too early,Brad Meyer,D,,Erin Houchin,R,,,0,no,2026-11-03 18:17 UTC
+KS-01,Kansas,KS,Too early,Lauren Reinhold,D,,Tracey Mann,R,,,0,no,2026-11-03 18:17 UTC
+KS-02,Kansas,KS,Too early,Don Coover,D,,Derek Schmidt,R,,,0,no,2026-11-03 18:17 UTC
+KS-03,Kansas,KS,Too early,Sharice Davids,D,,Eric Jenkins,R,,,0,no,2026-11-03 18:17 UTC
+KS-04,Kansas,KS,Too early,Katy Tyndell,D,,Ron Estes,R,,,0,no,2026-11-03 18:17 UTC
+KY-01,Kentucky,KY,Too early,James Comer,R,,Drew Williams,D,,,0,no,2026-11-03 18:17 UTC
+KY-02,Kentucky,KY,Too early,Brett Guthrie,R,,Megan Wingfield,D,,,0,no,2026-11-03 18:17 UTC
+KY-03,Kentucky,KY,Too early,Morgan McGarvey,D,,Maria Teresa Rodriguez,R,,,0,no,2026-11-03 18:17 UTC
+KY-04,Kentucky,KY,Too early,Ed Gallrein,R,,Melissa Strange,D,,,0,no,2026-11-03 18:17 UTC
+KY-05,Kentucky,KY,Too early,Hal Rogers,R,,Ned Pillersdorf,D,,,0,no,2026-11-03 18:17 UTC
+KY-06,Kentucky,KY,Too early,Ralph Alvarado,R,,Zach Dembo,D,,,0,no,2026-11-03 18:17 UTC
+LA-01,Louisiana,LA,Too early,Randall Arrington,R,,Lauren Jewett,D,,,0,no,2026-11-03 18:17 UTC
+LA-02,Louisiana,LA,Too early,Troy Carter,D,,Peter Williams,R,,,0,no,2026-11-03 18:17 UTC
+LA-03,Louisiana,LA,Too early,Kate Cotten,R,,John Day,D,,,0,no,2026-11-03 18:17 UTC
+LA-04,Louisiana,LA,Too early,Conrad Cable,D,,Matt Gromlich,D,,,0,no,2026-11-03 18:17 UTC
+LA-05,Louisiana,LA,Too early,"Stewart Cathey, Jr.",R,,Misti Cordell,R,,,0,no,2026-11-03 18:17 UTC
+LA-06,Louisiana,LA,Too early,Monique Appeaning,R,,Chauna Banks,D,,,0,no,2026-11-03 18:17 UTC
+MA-01,Massachusetts,MA,Too early,Richard E. Neal,D,,Nadia Donya Milleron,I,,,0,no,2026-11-03 18:17 UTC
+MA-02,Massachusetts,MA,Too early,James P. McGovern,D,,,,,,0,no,2026-11-03 18:17 UTC
+MA-03,Massachusetts,MA,Too early,Lori Loureiro Trahan,D,,Gary J. Grossi,R,,,0,no,2026-11-03 18:17 UTC
+MA-04,Massachusetts,MA,Too early,Jake Auchincloss,D,,Thomas Stalcup,R,,,0,no,2026-11-03 18:17 UTC
+MA-05,Massachusetts,MA,Too early,Katherine M. Clark,D,,,,,,0,no,2026-11-03 18:17 UTC
+MA-06,Massachusetts,MA,Too early,Micah Quinney Jones,R,,Dan Koh,D,,,0,no,2026-11-03 18:17 UTC
+MA-07,Massachusetts,MA,Too early,Ayanna S. Pressley,D,,,,,,0,no,2026-11-03 18:17 UTC
+MA-08,Massachusetts,MA,Too early,Stephen F. Lynch,D,,Robert G. Burke,R,,,0,no,2026-11-03 18:17 UTC
+MA-09,Massachusetts,MA,Too early,Bill Keating,D,,R. Tyler Macallister,R,,,0,no,2026-11-03 18:17 UTC
+MD-01,Maryland,MD,Too early,Dan Schwartz,D,,Andy Harris,R,,,0,no,2026-11-03 18:17 UTC
+MD-02,Maryland,MD,Too early,Johnny Olszewski,D,,Dave Wallace,R,,,0,no,2026-11-03 18:17 UTC
+MD-03,Maryland,MD,Too early,Sarah Elfreth,D,,Berney Flowers,R,,,0,no,2026-11-03 18:17 UTC
+MD-04,Maryland,MD,Too early,Glenn Ivey,D,,George McDermott,R,,,0,no,2026-11-03 18:17 UTC
+MD-05,Maryland,MD,Too early,Adrian Boafo,D,,Chris Chaffee,R,,,0,no,2026-11-03 18:17 UTC
+MD-06,Maryland,MD,Too early,April McClain Delaney,D,,Robin Ficker,R,,,0,no,2026-11-03 18:17 UTC
+MD-07,Maryland,MD,Too early,Kweisi Mfume,D,,Scott Collier,R,,,0,no,2026-11-03 18:17 UTC
+MD-08,Maryland,MD,Too early,Jamie Raskin,D,,Cheryl Riley,R,,,0,no,2026-11-03 18:17 UTC
+ME-01,Maine,ME,Too early,Chellie Pingree,D,,Ronald Russell,R,,,0,no,2026-11-03 18:17 UTC
+ME-02,Maine,ME,Too early,Matthew Dunlap,D,,Paul LePage,R,,,0,no,2026-11-03 18:17 UTC
+MI-01,Michigan,MI,Too early,Callie Barr,D,,Jack Bergman,R,,,0,no,2026-11-03 18:17 UTC
+MI-02,Michigan,MI,Too early,Benjamin Ambrose,D,,John Moolenaar,R,,,0,no,2026-11-03 18:17 UTC
+MI-03,Michigan,MI,Too early,Hillary Scholten,D,,Terri DeBoer,R,,,0,no,2026-11-03 18:17 UTC
+MI-04,Michigan,MI,Too early,Sean McCann,D,,Bill Huizenga,R,,,0,no,2026-11-03 18:17 UTC
+MI-05,Michigan,MI,Too early,Christian Vukasovich,D,,Tim Walberg,R,,,0,no,2026-11-03 18:17 UTC
+MI-06,Michigan,MI,Too early,Debbie Dingell,D,,Heather Smiley,R,,,0,no,2026-11-03 18:17 UTC
+MI-07,Michigan,MI,Too early,William Lawrence,D,,Tom Barrett,R,,,0,no,2026-11-03 18:17 UTC
+MI-08,Michigan,MI,Too early,Kristen McDonald Rivet,D,,Tom Smith,R,,,0,no,2026-11-03 18:17 UTC
+MI-09,Michigan,MI,Too early,Ray Pooley,D,,Lisa McClain,R,,,0,no,2026-11-03 18:17 UTC
+MI-10,Michigan,MI,Too early,Christina Hines,D,,Michael Bouchard Jr.,R,,,0,no,2026-11-03 18:17 UTC
+MI-11,Michigan,MI,Too early,Jeremy Moss,D,,Ethan Baker,R,,,0,no,2026-11-03 18:17 UTC
+MI-12,Michigan,MI,Too early,Rashida Tlaib,D,,James Hooper,R,,,0,no,2026-11-03 18:17 UTC
+MI-13,Michigan,MI,Too early,Donavan McKinney,D,,T.P. Nykoriak,R,,,0,no,2026-11-03 18:17 UTC
+MN-01,Minnesota,MN,Too early,Jake Johnson,D,,Brad Finstad,R,,,0,no,2026-11-03 18:17 UTC
+MN-02,Minnesota,MN,Too early,Matt Little,D,,Eric Pratt,R,,,0,no,2026-11-03 18:17 UTC
+MN-03,Minnesota,MN,Too early,Tyler Bass,R,,Kelly Morrison,D,,,0,no,2026-11-03 18:17 UTC
+MN-04,Minnesota,MN,Too early,Betty McCollum,D,,Paul Wikstrom,R,,,0,no,2026-11-03 18:17 UTC
+MN-05,Minnesota,MN,Too early,Ilhan Omar,D,,John Nagel,R,,,0,no,2026-11-03 18:17 UTC
+MN-06,Minnesota,MN,Too early,Tom Emmer,R,,Doug Chapin,D,,,0,no,2026-11-03 18:17 UTC
+MN-07,Minnesota,MN,Too early,Michelle Fischbach,R,,Erik Osberg,D,,,0,no,2026-11-03 18:17 UTC
+MN-08,Minnesota,MN,Too early,Pete Stauber,R,,Trina Swanson,D,,,0,no,2026-11-03 18:17 UTC
+MO-01,Missouri,MO,Too early,Paul Berry,R,,Wesley Bell,D,,,0,no,2026-11-03 18:17 UTC
+MO-02,Missouri,MO,Too early,Ann Wagner,R,,Fred Wellman,D,,,0,no,2026-11-03 18:17 UTC
+MO-03,Missouri,MO,Too early,Bob Onder,R,,Bethany Mann,D,,,0,no,2026-11-03 18:17 UTC
+MO-04,Missouri,MO,Too early,Mark Alford,R,,Jordan Herrera,D,,,0,no,2026-11-03 18:17 UTC
+MO-05,Missouri,MO,Too early,Rick Brattin,R,,Emanuel Cleaver,D,,,0,no,2026-11-03 18:17 UTC
+MO-06,Missouri,MO,Too early,Chris Stigall,R,,Josh Smead,D,,,0,no,2026-11-03 18:17 UTC
+MO-07,Missouri,MO,Too early,Eric Burlison,R,,Missi Hesketh,D,,,0,no,2026-11-03 18:17 UTC
+MO-08,Missouri,MO,Too early,Jason Smith,R,,Christopher Reichard,D,,,0,no,2026-11-03 18:17 UTC
+MS-01,Mississippi,MS,Too early,Cliff Johnson,D,,Trent Kelly,R,,,0,no,2026-11-03 18:17 UTC
+MS-02,Mississippi,MS,Too early,Ron Eller,R,,Bennie Thompson,D,,,0,no,2026-11-03 18:17 UTC
+MS-03,Mississippi,MS,Too early,Michael Chiaradio,D,,Michael Guest,R,,,0,no,2026-11-03 18:17 UTC
+MS-04,Mississippi,MS,Too early,Mike Ezell,R,,Jeffrey Hulum,D,,,0,no,2026-11-03 18:17 UTC
+MT-01,Montana,MT,Too early,Aaron Flint,R,,Sam Forstag,D,,,0,no,2026-11-03 18:17 UTC
+MT-02,Montana,MT,Too early,Troy Downing,R,,Brian Miller,D,,,0,no,2026-11-03 18:17 UTC
+NC-01,North Carolina,NC,Too early,Don Davis,D,,Laurie Buckhout,R,,,0,no,2026-11-03 18:17 UTC
+NC-02,North Carolina,NC,Too early,Deborah Ross,D,,Gene Douglass,R,,,0,no,2026-11-03 18:17 UTC
+NC-03,North Carolina,NC,Too early,Greg Murphy,R,,Raymond Smith Jr.,D,,,0,no,2026-11-03 18:17 UTC
+NC-04,North Carolina,NC,Too early,Max Ganorkar,R,,Valerie Foushee,D,,,0,no,2026-11-03 18:17 UTC
+NC-05,North Carolina,NC,Too early,Chuck Hubbard,D,,Virginia Foxx,R,,,0,no,2026-11-03 18:17 UTC
+NC-06,North Carolina,NC,Too early,Addison McDowell,R,,Cyril Jefferson,D,,,0,no,2026-11-03 18:17 UTC
+NC-07,North Carolina,NC,Too early,David Rouzer,R,,Kim Hardy,D,,,0,no,2026-11-03 18:17 UTC
+NC-08,North Carolina,NC,Too early,Colby Watson,D,,Mark Harris,R,,,0,no,2026-11-03 18:17 UTC
+NC-09,North Carolina,NC,Too early,Richard Hudson,R,,Richard Ojeda,D,,,0,no,2026-11-03 18:17 UTC
+NC-10,North Carolina,NC,Too early,Ashley Bell,D,,Pat Harrigan,R,,,0,no,2026-11-03 18:17 UTC
+NC-11,North Carolina,NC,Too early,Jamie Ager,D,,Jennifer Balkcom,R,,,0,no,2026-11-03 18:17 UTC
+NC-12,North Carolina,NC,Too early,Alma Adams,D,,Jack Codiga,R,,,0,no,2026-11-03 18:17 UTC
+NC-13,North Carolina,NC,Too early,Brad Knott,R,,Paul Barringer,D,,,0,no,2026-11-03 18:17 UTC
+NC-14,North Carolina,NC,Too early,Lakesha Womack,D,,Tim Moore,R,,,0,no,2026-11-03 18:17 UTC
+ND-AL,North Dakota,ND,Too early,Julie Fedorchak,R,,Trygve Hammer,D,,,0,no,2026-11-03 18:17 UTC
+NE-01,Nebraska,NE,Too early,Mike  Flood,R,,Chris  Backemeyer,D,,,0,no,2026-11-03 18:17 UTC
+NE-02,Nebraska,NE,Too early,Brinker  Harding,R,,Denise  Powell,D,,,0,no,2026-11-03 18:17 UTC
+NE-03,Nebraska,NE,Too early,Adrian  Smith,R,,Becky Stille,D,,,0,no,2026-11-03 18:17 UTC
+NH-01,New Hampshire,NH,Too early,Anthony DiLorenzo,R,,Stefany Shaheen,D,,,0,no,2026-11-03 18:17 UTC
+NH-02,New Hampshire,NH,Too early,Lily Tang Williams,R,,Maggie Goodlander,D,,,0,no,2026-11-03 18:17 UTC
+NJ-01,New Jersey,NJ,Too early,Donald Norcross,D,,Damon Galdo,R,,,0,no,2026-11-03 18:17 UTC
+NJ-02,New Jersey,NJ,Too early,Jeff Van Drew,R,,Zack Mullock,D,,,0,no,2026-11-03 18:17 UTC
+NJ-03,New Jersey,NJ,Too early,Herb Conaway,D,,Michael McGuire,R,,,0,no,2026-11-03 18:17 UTC
+NJ-04,New Jersey,NJ,Too early,Chris Smith,R,,Rachel Peace,D,,,0,no,2026-11-03 18:17 UTC
+NJ-05,New Jersey,NJ,Too early,Josh Gottheimer,D,,Sean Kirrane,R,,,0,no,2026-11-03 18:17 UTC
+NJ-06,New Jersey,NJ,Too early,Frank Pallone,D,,Hillary Herzig,R,,,0,no,2026-11-03 18:17 UTC
+NJ-07,New Jersey,NJ,Too early,Thomas Kean Jr.,R,,Rebecca Bennett,D,,,0,no,2026-11-03 18:17 UTC
+NJ-08,New Jersey,NJ,Too early,Rob Menendez,D,,Craig Honts,Other,,,0,no,2026-11-03 18:17 UTC
+NJ-09,New Jersey,NJ,Too early,Nellie Pou,D,,Rosie Pino,R,,,0,no,2026-11-03 18:17 UTC
+NJ-10,New Jersey,NJ,Too early,LaMonica McIver,D,,Carmen Bucco,R,,,0,no,2026-11-03 18:17 UTC
+NJ-11,New Jersey,NJ,Too early,Analilia Mejia,D,,Joe Hathaway,R,,,0,no,2026-11-03 18:17 UTC
+NJ-12,New Jersey,NJ,Too early,Adam Hamawy,D,,Gregg Mele,R,,,0,no,2026-11-03 18:17 UTC
+NM-01,New Mexico,NM,Too early,Didi Okpareke,R,,Melanie Stansbury,D,,,0,no,2026-11-03 18:17 UTC
+NM-02,New Mexico,NM,Too early,Greg Cunningham,R,,Gabe Vasquez,D,,,0,no,2026-11-03 18:17 UTC
+NM-03,New Mexico,NM,Too early,Martin Zamora,R,,Teresa Leger Fernandez,D,,,0,no,2026-11-03 18:17 UTC
+NV-01,Nevada,NV,Too early,Carrie Buck,R,,Dina Titus,D,,,0,no,2026-11-03 18:17 UTC
+NV-02,Nevada,NV,Too early,Teresa Benitez-Thompson,D,,Dave Flippo,R,,,0,no,2026-11-03 18:17 UTC
+NV-03,Nevada,NV,Too early,Susie Lee,D,,Martin O'Donnell,R,,,0,no,2026-11-03 18:17 UTC
+NV-04,Nevada,NV,Too early,Steven Horsford,D,,Cody Whipple,R,,,0,no,2026-11-03 18:17 UTC
+NY-01,New York,NY,Too early,Chris Gallant,D,,Nick LaLota,R,,,0,no,2026-11-03 18:17 UTC
+NY-02,New York,NY,Too early,Patrick Halpin,D,,Andrew Garbarino,R,,,0,no,2026-11-03 18:17 UTC
+NY-03,New York,NY,Too early,Tom Suozzi,D,,Mike LiPetri,R,,,0,no,2026-11-03 18:17 UTC
+NY-04,New York,NY,Too early,Laura Gillen,D,,Jeanine Driscoll,R,,,0,no,2026-11-03 18:17 UTC
+NY-05,New York,NY,Too early,Gregory Meeks,D,,George Marsh,R,,,0,no,2026-11-03 18:17 UTC
+NY-06,New York,NY,Too early,Grace Meng,D,,Joseph Chou,R,,,0,no,2026-11-03 18:17 UTC
+NY-07,New York,NY,Too early,Claire Valdez,D,,Melvin Rivera,R,,,0,no,2026-11-03 18:17 UTC
+NY-08,New York,NY,Too early,Hakeem Jeffries,D,,Lewis Mizrahi,R,,,0,no,2026-11-03 18:17 UTC
+NY-09,New York,NY,Too early,Yvette Clarke,D,,Joel Anabilah-Azumah,R,,,0,no,2026-11-03 18:17 UTC
+NY-10,New York,NY,Too early,Brad Lander,D,,Jennifer Moore,R,,,0,no,2026-11-03 18:17 UTC
+NY-11,New York,NY,Too early,Michael DeCillis,D,,Nicole Malliotakis,R,,,0,no,2026-11-03 18:17 UTC
+NY-12,New York,NY,Too early,Micah Lasher,D,,Caroline Shinkle,R,,,0,no,2026-11-03 18:17 UTC
+NY-13,New York,NY,Too early,Darializa Avila Chevalier,D,,"Manual ""Jomo"" Williams",R,,,0,no,2026-11-03 18:17 UTC
+NY-14,New York,NY,Too early,Alexandria Ocasio-Cortez,D,,Diamant Hysenaj,R,,,0,no,2026-11-03 18:17 UTC
+NY-15,New York,NY,Too early,Ritchie Torres,D,,Stylo Sapaskis,R,,,0,no,2026-11-03 18:17 UTC
+NY-16,New York,NY,Too early,George Latimer,D,,Joseph Cinquemani,R,,,0,no,2026-11-03 18:17 UTC
+NY-17,New York,NY,Too early,Cait Conley,D,,Mike Lawler,R,,,0,no,2026-11-03 18:17 UTC
+NY-18,New York,NY,Too early,Pat Ryan,D,,Jacqueline Auringer,R,,,0,no,2026-11-03 18:17 UTC
+NY-19,New York,NY,Too early,Josh Riley,D,,Peter Oberacker,R,,,0,no,2026-11-03 18:17 UTC
+NY-20,New York,NY,Too early,Paul Tonko,D,,Ralph Ambrosio,R,,,0,no,2026-11-03 18:17 UTC
+NY-21,New York,NY,Too early,Blake Gendebien,D,,Anthony Constantino,R,,,0,no,2026-11-03 18:17 UTC
+NY-22,New York,NY,Too early,John Mannion,D,,Kailee Buller,R,,,0,no,2026-11-03 18:17 UTC
+NY-23,New York,NY,Too early,Aaron Gies,D,,Nick Langworthy,R,,,0,no,2026-11-03 18:17 UTC
+NY-24,New York,NY,Too early,Alissa Ellman,D,,Claudia Tenney,R,,,0,no,2026-11-03 18:17 UTC
+NY-25,New York,NY,Too early,Joseph Morelle,D,,Virginia McIntyre,R,,,0,no,2026-11-03 18:17 UTC
+NY-26,New York,NY,Too early,Tim Kennedy,D,,Dennis Hannon,R,,,0,no,2026-11-03 18:17 UTC
+OH-01,Ohio,OH,Too early,Eric Conroy,R,,Greg Landsman,D,,,0,no,2026-11-03 18:17 UTC
+OH-02,Ohio,OH,Too early,Jen Mazzuckelli,D,,David J. Taylor,R,,,0,no,2026-11-03 18:17 UTC
+OH-03,Ohio,OH,Too early,Joyce Beatty,D,,Cleophus Dulaney,R,,,0,no,2026-11-03 18:17 UTC
+OH-04,Ohio,OH,Too early,Jim Jordan,R,,Joshua D. Kolasinski,D,,,0,no,2026-11-03 18:17 UTC
+OH-05,Ohio,OH,Too early,Bob Latta,R,,Brian A. Shaver,D,,,0,no,2026-11-03 18:17 UTC
+OH-06,Ohio,OH,Too early,Elizabeth Kirtley,D,,Michael A. Rulli,R,,,0,no,2026-11-03 18:17 UTC
+OH-07,Ohio,OH,Too early,Thahbia Asad,Other,,Andrey Joseph Martinichin,Other,,,0,no,2026-11-03 18:17 UTC
+OH-08,Ohio,OH,Too early,Warren Davidson,R,,Vanessa Enoch,D,,,0,no,2026-11-03 18:17 UTC
+OH-09,Ohio,OH,Too early,Marcy Kaptur,D,,Kathy McKinstry,Other,,,0,no,2026-11-03 18:17 UTC
+OH-10,Ohio,OH,Too early,Kristina Knickerbocker,D,,Thomas F. McMasters,Other,,,0,no,2026-11-03 18:17 UTC
+OH-11,Ohio,OH,Too early,Shontel M. Brown,D,,Mike Kirchner,R,,,0,no,2026-11-03 18:17 UTC
+OH-12,Ohio,OH,Too early,Troy Balderson,R,,Jerrad Christian,D,,,0,no,2026-11-03 18:17 UTC
+OH-13,Ohio,OH,Too early,Carey Coleman,R,,Sandeep Dixit,I,,,0,no,2026-11-03 18:17 UTC
+OH-14,Ohio,OH,Too early,David P. Joyce,R,,Maria Jukic,D,,,0,no,2026-11-03 18:17 UTC
+OH-15,Ohio,OH,Too early,Brennan Barrington,Other,,Mike Carey,R,,,0,no,2026-11-03 18:17 UTC
+OK-01,Oklahoma,OK,Too early,Mark Tedford,R,,John Croisant,D,,,0,no,2026-11-03 18:17 UTC
+OK-02,Oklahoma,OK,Too early,Josh Brecheen,R,,Brandon Wade,D,,,0,no,2026-11-03 18:17 UTC
+OK-03,Oklahoma,OK,Too early,Frank Lucas,R,,Suzie Byrd,D,,,0,no,2026-11-03 18:17 UTC
+OK-04,Oklahoma,OK,Too early,Tom Cole,R,,Mitchell Jacob,D,,,0,no,2026-11-03 18:17 UTC
+OK-05,Oklahoma,OK,Too early,Stephanie Bice,R,,Jena Nelson,D,,,0,no,2026-11-03 18:17 UTC
+OR-01,Oregon,OR,Too early,Suzanne Bonamici,D,,Barbara Kahl,R,,,0,no,2026-11-03 18:17 UTC
+OR-02,Oregon,OR,Too early,Cliff Bentz,R,,Chris Beck,D,,,0,no,2026-11-03 18:17 UTC
+OR-03,Oregon,OR,Too early,Maxine Dexter,D,,Loran Ayles,R,,,0,no,2026-11-03 18:17 UTC
+OR-04,Oregon,OR,Too early,Val Hoyle,D,,Monique DeSpain,R,,,0,no,2026-11-03 18:17 UTC
+OR-05,Oregon,OR,Too early,Janelle Bynum,D,,Patti Adair,R,,,0,no,2026-11-03 18:17 UTC
+OR-06,Oregon,OR,Too early,Andrea Salinas,D,,David Russ,R,,,0,no,2026-11-03 18:17 UTC
+PA-01,Pennsylvania,PA,Too early,Bob Harvie,D,,Brian Fitzpatrick,R,,,0,no,2026-11-03 18:17 UTC
+PA-02,Pennsylvania,PA,Too early,Brendan Boyle,D,,Jessica Arriaga,R,,,0,no,2026-11-03 18:17 UTC
+PA-03,Pennsylvania,PA,Too early,Chris Rabb,D,,Dennis Mahoney,Other,,,0,no,2026-11-03 18:17 UTC
+PA-04,Pennsylvania,PA,Too early,Madeleine Dean,D,,Aurora Stuski,R,,,0,no,2026-11-03 18:17 UTC
+PA-05,Pennsylvania,PA,Too early,Mary Gay Scanlon,D,,Nicholas Manganaro,R,,,0,no,2026-11-03 18:17 UTC
+PA-06,Pennsylvania,PA,Too early,Chrissy Houlahan,D,,Marty Young,R,,,0,no,2026-11-03 18:17 UTC
+PA-07,Pennsylvania,PA,Too early,Bob Brooks,D,,Ryan Mackenzie,R,,,0,no,2026-11-03 18:17 UTC
+PA-08,Pennsylvania,PA,Too early,Paige Cognetti,D,,Rob Bresnahan,R,,,0,no,2026-11-03 18:17 UTC
+PA-09,Pennsylvania,PA,Too early,Rachel Wallace,D,,Dan Meuser,R,,,0,no,2026-11-03 18:17 UTC
+PA-10,Pennsylvania,PA,Too early,Janelle Stelson,D,,Scott Perry,R,,,0,no,2026-11-03 18:17 UTC
+PA-11,Pennsylvania,PA,Too early,Nancy Mannion,D,,Lloyd Smucker,R,,,0,no,2026-11-03 18:17 UTC
+PA-12,Pennsylvania,PA,Too early,Summer Lee,D,,James Hayes,R,,,0,no,2026-11-03 18:17 UTC
+PA-13,Pennsylvania,PA,Too early,Beth Farnham,D,,John Joyce,R,,,0,no,2026-11-03 18:17 UTC
+PA-14,Pennsylvania,PA,Too early,Alan Bradstock,D,,Guy Reschenthaler,R,,,0,no,2026-11-03 18:17 UTC
+PA-15,Pennsylvania,PA,Too early,Ray Bilger,D,,Glenn Thompson,R,,,0,no,2026-11-03 18:17 UTC
+PA-16,Pennsylvania,PA,Too early,Justin Wagner,D,,Mike Kelly,R,,,0,no,2026-11-03 18:17 UTC
+PA-17,Pennsylvania,PA,Too early,Chris Deluzio,D,,Tony Guy,R,,,0,no,2026-11-03 18:17 UTC
+RI-01,Rhode Island,RI,Too early,Gabriel Amo,D,,Kellie Keenan,R,,,0,no,2026-11-03 18:17 UTC
+RI-02,Rhode Island,RI,Too early,Seth Magaziner,D,,Victor Mellor,R,,,0,no,2026-11-03 18:17 UTC
+SC-01,South Carolina,SC,Too early,Jenny Costa Honeycutt,R,,Nancy Lacore,D,,,0,no,2026-11-03 18:17 UTC
+SC-02,South Carolina,SC,Too early,Zyon Khalifa,D,,Joe Wilson,R,,,0,no,2026-11-03 18:17 UTC
+SC-03,South Carolina,SC,Too early,Sheri Biggs,R,,Eunice Lehmacher,D,,,0,no,2026-11-03 18:17 UTC
+SC-04,South Carolina,SC,Too early,Courtney McClain,D,,William Timmons,R,,,0,no,2026-11-03 18:17 UTC
+SC-05,South Carolina,SC,Too early,Wes Climer,R,,Mallory Dittmer,D,,,0,no,2026-11-03 18:17 UTC
+SC-06,South Carolina,SC,Too early,Jim Clyburn,D,,John Peterson,R,,,0,no,2026-11-03 18:17 UTC
+SC-07,South Carolina,SC,Too early,Russell Fry,R,,John Vincent,D,,,0,no,2026-11-03 18:17 UTC
+SD-AL,South Dakota,SD,Too early,Marty Jackley,R,,Nikki Gronli,D,,,0,no,2026-11-03 18:17 UTC
+TN-01,Tennessee,TN,Too early,Diana Harshbarger,R,,Kristi Burke,D,,,0,no,2026-11-03 18:17 UTC
+TN-02,Tennessee,TN,Too early,Tim Burchett,R,,Michaela Barnett,D,,,0,no,2026-11-03 18:17 UTC
+TN-03,Tennessee,TN,Too early,Chuck Fleischmann,R,,Anna Golladay,D,,,0,no,2026-11-03 18:17 UTC
+TN-04,Tennessee,TN,Too early,Scott DesJarlais,R,,Victoria Broderick,D,,,0,no,2026-11-03 18:17 UTC
+TN-05,Tennessee,TN,Too early,Charlie Hatcher,R,,Chaz Molder,D,,,0,no,2026-11-03 18:17 UTC
+TN-06,Tennessee,TN,Too early,Johnny Garrett,R,,Mike Croley,D,,,0,no,2026-11-03 18:17 UTC
+TN-07,Tennessee,TN,Too early,Matt Van Epps,R,,Darden Copeland,D,,,0,no,2026-11-03 18:17 UTC
+TN-08,Tennessee,TN,Too early,David Kustoff,R,,Heidi Kuhn,D,,,0,no,2026-11-03 18:17 UTC
+TN-09,Tennessee,TN,Too early,Justin Pearson,D,,Brent Taylor,R,,,0,no,2026-11-03 18:17 UTC
+TX-01,Texas,TX,Too early,Yolanda Prince,D,,Nathaniel Moran,R,,,0,no,2026-11-03 18:17 UTC
+TX-02,Texas,TX,Too early,Shaun Finnie,D,,Steve Toth,R,,,0,no,2026-11-03 18:17 UTC
+TX-03,Texas,TX,Too early,Evan Hunt,D,,Keith Self,R,,,0,no,2026-11-03 18:17 UTC
+TX-04,Texas,TX,Too early,Jason Pearce,D,,Pat Fallon,R,,,0,no,2026-11-03 18:17 UTC
+TX-05,Texas,TX,Too early,Chelsey Hockett,D,,Lance Gooden,R,,,0,no,2026-11-03 18:17 UTC
+TX-06,Texas,TX,Too early,Danny Minton,D,,Jake Ellzey,R,,,0,no,2026-11-03 18:17 UTC
+TX-07,Texas,TX,Too early,Lizzie Fletcher,D,,Alexander Hale,R,,,0,no,2026-11-03 18:17 UTC
+TX-08,Texas,TX,Too early,Laura Jones,D,,Jessica Steinmann,R,,,0,no,2026-11-03 18:17 UTC
+TX-09,Texas,TX,Too early,Leticia Gutierrez,D,,Alex Mealer,R,,,0,no,2026-11-03 18:17 UTC
+TX-10,Texas,TX,Too early,Caitlin Rourk,D,,Chris Gober,R,,,0,no,2026-11-03 18:17 UTC
+TX-11,Texas,TX,Too early,Claire Reynolds,D,,August Pfluger,R,,,0,no,2026-11-03 18:17 UTC
+TX-12,Texas,TX,Too early,Angela Rodriguez Prilliman,D,,Craig Goldman,R,,,0,no,2026-11-03 18:17 UTC
+TX-13,Texas,TX,Too early,Mark Nair,D,,Ronny Jackson,R,,,0,no,2026-11-03 18:17 UTC
+TX-14,Texas,TX,Too early,Thurman Bartie,D,,Randy Weber,R,,,0,no,2026-11-03 18:17 UTC
+TX-15,Texas,TX,Too early,Bobby Pulido,D,,Monica De La Cruz,R,,,0,no,2026-11-03 18:17 UTC
+TX-16,Texas,TX,Too early,Adam Bauman,R,,Veronica Escobar,D,,,0,no,2026-11-03 18:17 UTC
+TX-17,Texas,TX,Too early,Pete Sessions,R,,Casey Shepard,D,,,0,no,2026-11-03 18:17 UTC
+TX-18,Texas,TX,Too early,Christian Menefee,D,,Ronald Whitfield,R,,,0,no,2026-11-03 18:17 UTC
+TX-19,Texas,TX,Too early,Kyle Rable,D,,Tom Sell,R,,,0,no,2026-11-03 18:17 UTC
+TX-20,Texas,TX,Too early,Joaquin Castro,D,,Edgardo Baez,R,,,0,no,2026-11-03 18:17 UTC
+TX-21,Texas,TX,Too early,Kristin Hook,D,,Mark Teixeira,R,,,0,no,2026-11-03 18:17 UTC
+TX-22,Texas,TX,Too early,Marquette Greene-Scott,D,,Trever Nehls,R,,,0,no,2026-11-03 18:17 UTC
+TX-23,Texas,TX,Too early,Katy Padilla Stout,D,,Brandon Herrera,R,,,0,no,2026-11-03 18:17 UTC
+TX-24,Texas,TX,Too early,Kevin Burge,D,,Beth Van Duyne,R,,,0,no,2026-11-03 18:17 UTC
+TX-25,Texas,TX,Too early,Dione Sims,D,,Roger Williams,R,,,0,no,2026-11-03 18:17 UTC
+TX-26,Texas,TX,Too early,Steven Shook,D,,Brandon Gill,R,,,0,no,2026-11-03 18:17 UTC
+TX-27,Texas,TX,Too early,Tanya Lloyd,D,,Michael Cloud,R,,,0,no,2026-11-03 18:17 UTC
+TX-28,Texas,TX,Too early,Henry Cuellar,D,,Tano Tijerina,R,,,0,no,2026-11-03 18:17 UTC
+TX-29,Texas,TX,Too early,Martha Fierro,R,,Sylvia Garcia,D,,,0,no,2026-11-03 18:17 UTC
+TX-30,Texas,TX,Too early,Frederick Haynes III,D,,Everett Jackson,R,,,0,no,2026-11-03 18:17 UTC
+TX-31,Texas,TX,Too early,Justin Early,D,,John Carter,R,,,0,no,2026-11-03 18:17 UTC
+TX-32,Texas,TX,Too early,Dan Barrios,D,,Jace Yarbrough,R,,,0,no,2026-11-03 18:17 UTC
+TX-33,Texas,TX,Too early,Colin Allred,D,,Patrick Gillespie,R,,,0,no,2026-11-03 18:17 UTC
+TX-34,Texas,TX,Too early,Vicente Gonzalez,D,,Eric Flores,R,,,0,no,2026-11-03 18:17 UTC
+TX-35,Texas,TX,Too early,Johnny Garcia,D,,Carlos De La Cruz,R,,,0,no,2026-11-03 18:17 UTC
+TX-36,Texas,TX,Too early,Rhonda Hart,D,,Brian Babin,R,,,0,no,2026-11-03 18:17 UTC
+TX-37,Texas,TX,Too early,Greg Casar,D,,Lauren Peña,R,,,0,no,2026-11-03 18:17 UTC
+TX-38,Texas,TX,Too early,Jon Bonck,R,,Melissa McDonough,D,,,0,no,2026-11-03 18:17 UTC
+UT-01,Utah,UT,Too early,Riley Owen,R,,Ben McAdams,D,,,0,no,2026-11-03 18:17 UTC
+UT-02,Utah,UT,Too early,Blake Moore,R,,Peter Crosby,D,,,0,no,2026-11-03 18:17 UTC
+UT-03,Utah,UT,Too early,Celeste Maloy,R,,Kent Udell,D,,,0,no,2026-11-03 18:17 UTC
+UT-04,Utah,UT,Too early,Mike Kennedy,R,,Jonny Larsen,D,,,0,no,2026-11-03 18:17 UTC
+VA-01,Virginia,VA,Too early,Shannon Taylor,D,,Rob Wittman,R,,,0,no,2026-11-03 18:17 UTC
+VA-02,Virginia,VA,Too early,Elaine Luria,D,,Jen Kiggans,R,,,0,no,2026-11-03 18:17 UTC
+VA-03,Virginia,VA,Too early,Bobby Scott,D,,Edwin Rivera,R,,,0,no,2026-11-03 18:17 UTC
+VA-04,Virginia,VA,Too early,Jennifer McClellan,D,,Robert Murray,R,,,0,no,2026-11-03 18:17 UTC
+VA-05,Virginia,VA,Too early,Tom Perriello,D,,John McGuire,R,,,0,no,2026-11-03 18:17 UTC
+VA-06,Virginia,VA,Too early,Beth Macy,D,,Ben Cline,R,,,0,no,2026-11-03 18:17 UTC
+VA-07,Virginia,VA,Too early,Eugene Vindman,D,,Doug Ollivant,R,,,0,no,2026-11-03 18:17 UTC
+VA-08,Virginia,VA,Too early,Don Beyer,D,,Tony Sabio,R,,,0,no,2026-11-03 18:17 UTC
+VA-09,Virginia,VA,Too early,Joy Powers,D,,Morgan Griffith,R,,,0,no,2026-11-03 18:17 UTC
+VA-10,Virginia,VA,Too early,Suhas Subramanyam,D,,Dave Beckwith,R,,,0,no,2026-11-03 18:17 UTC
+VA-11,Virginia,VA,Too early,James Walkinshaw,D,,Arthur Purves,R,,,0,no,2026-11-03 18:17 UTC
+VT-AL,Vermont,VT,Too early,Phoenix K. Altair,I,,Becca Balint,D,,,0,no,2026-11-03 18:17 UTC
+WA-01,Washington,WA,Too early,Suzan DelBene,D,,Mary Silva,R,,,0,no,2026-11-03 18:17 UTC
+WA-02,Washington,WA,Too early,Rick Larsen,D,,Edwin H. Feller,R,,,0,no,2026-11-03 18:17 UTC
+WA-03,Washington,WA,Too early,John Braun,R,,Marie Gluesenkamp Perez,D,,,0,no,2026-11-03 18:17 UTC
+WA-04,Washington,WA,Too early,Amanda McKinney,R,,John Duresky,D,,,0,no,2026-11-03 18:17 UTC
+WA-05,Washington,WA,Too early,Michael Baumgartner,R,,Carmela Conroy,D,,,0,no,2026-11-03 18:17 UTC
+WA-06,Washington,WA,Too early,Emily Randall,D,,Teresa Fox,R,,,0,no,2026-11-03 18:17 UTC
+WA-07,Washington,WA,Too early,Pramila Jayapal,D,,Nirav Sheth,R,,,0,no,2026-11-03 18:17 UTC
+WA-08,Washington,WA,Too early,Kim Schrier,D,,Spencer Meline,R,,,0,no,2026-11-03 18:17 UTC
+WA-09,Washington,WA,Too early,Adam Smith,D,,Doug Basler,R,,,0,no,2026-11-03 18:17 UTC
+WA-10,Washington,WA,Too early,Marilyn Strickland,D,,Chris D. Chung,D,,,0,no,2026-11-03 18:17 UTC
+WI-01,Wisconsin,WI,Too early,Bryan Steil,R,,Mitchell Berman,D,,,0,no,2026-11-03 18:17 UTC
+WI-02,Wisconsin,WI,Too early,Mark Pocan,D,,,,,,0,no,2026-11-03 18:17 UTC
+WI-03,Wisconsin,WI,Too early,Derrick Van Orden,R,,Rebecca Cooke,D,,,0,no,2026-11-03 18:17 UTC
+WI-04,Wisconsin,WI,Too early,Gwen Moore,D,,Tim Rogers,R,,,0,no,2026-11-03 18:17 UTC
+WI-05,Wisconsin,WI,Too early,Scott Fitzgerald,R,,Andrew Beck,D,,,0,no,2026-11-03 18:17 UTC
+WI-06,Wisconsin,WI,Too early,Glenn Grothman,R,,Brad Smith,D,,,0,no,2026-11-03 18:17 UTC
+WI-07,Wisconsin,WI,Too early,Michael Alfonso,R,,Fred Clark,D,,,0,no,2026-11-03 18:17 UTC
+WI-08,Wisconsin,WI,Too early,Tony Wied,R,,Rick Crosson,D,,,0,no,2026-11-03 18:17 UTC
+WV-01,West Virginia,WV,Too early,Carol Miller,R,,Vince George,D,,,0,no,2026-11-03 18:17 UTC
+WV-02,West Virginia,WV,Too early,Riley Moore,R,,Ace Parsi,D,,,0,no,2026-11-03 18:17 UTC
+WY-AL,Wyoming,WY,Too early,Chuck Gray,R,,Lisa F. Kinney,D,,,0,no,2026-11-03 18:17 UTC
