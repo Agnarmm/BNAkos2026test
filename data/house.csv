@@ -1,436 +1,436 @@
 id,state,postal,status,leader,leader_party,leader_pct,runner_up,runner_up_party,runner_up_pct,margin_pts,pct_reporting,called,updated_utc
-AK-AL,Alaska,AK,Rep lead,Nick Begich III,R,49.6,Bill Hill,Other,40.4,9.2,73.3,no,2026-11-07 01:00 UTC
-AL-01,Alabama,AL,Rep win,Jerry Carl,R,59.1,Clyde Jones,D,40.9,18.2,94.41,yes,2026-11-07 01:00 UTC
-AL-02,Alabama,AL,Dem win,Shomari Figures,D,53.8,Rhett Marques,R,46.2,7.6,93.53,yes,2026-11-07 01:00 UTC
-AL-03,Alabama,AL,Rep win,Mike Rogers,R,64.0,Lee McInnis,D,36.0,28.0,90.58,yes,2026-11-07 01:00 UTC
-AL-04,Alabama,AL,Rep win,Robert Aderholt,R,74.9,Amanda Pusczek,D,25.1,49.8,88.1,yes,2026-11-07 01:00 UTC
-AL-05,Alabama,AL,Rep win,Dale Strong,R,53.2,Andrew Sneed,D,46.8,6.4,99,yes,2026-11-07 01:00 UTC
-AL-06,Alabama,AL,Rep win,Gary Palmer,R,57.5,Maurice Mercer,D,42.5,15.0,99,yes,2026-11-07 01:00 UTC
-AL-07,Alabama,AL,Dem win,Terri Sewell,D,69.4,Ammie Akin,R,30.6,38.8,99,yes,2026-11-07 01:00 UTC
-AR-01,Arkansas,AR,Rep win,Rick Crawford,R,65.5,Terri Yarbrough Green,D,31.0,34.5,78.4,yes,2026-11-07 01:00 UTC
-AR-02,Arkansas,AR,Rep win,French Hill,R,50.9,Chris Jones,D,49.1,1.8,99,yes,2026-11-07 01:00 UTC
-AR-03,Arkansas,AR,Rep win,Steve Womack,R,54.9,Robb Ryerse,D,41.5,13.4,94.28,yes,2026-11-07 01:00 UTC
-AR-04,Arkansas,AR,Rep win,Bruce Westerman,R,65.5,James Russell,D,34.5,31.0,81.11,yes,2026-11-07 01:00 UTC
-AZ-01,Arizona,AZ,Dem win,Amish Shah,D,52.4,Jay Feely,R,45.4,7.0,96.94,yes,2026-11-07 01:00 UTC
-AZ-02,Arizona,AZ,Rep lead,Eli Crane,R,49.6,Jonathan Nez,D,48.6,1.0,91.56,no,2026-11-07 01:00 UTC
-AZ-03,Arizona,AZ,Dem win,Yassamin Ansari,D,86.5,Alan Aversa,Other,6.0,80.5,38.68,yes,2026-11-07 01:00 UTC
-AZ-04,Arizona,AZ,Dem win,Greg Stanton,D,62.1,Zuhdi Jasser,R,35.3,26.8,69.43,yes,2026-11-07 01:00 UTC
-AZ-05,Arizona,AZ,Rep win,Mark Lamb,R,51.5,Elizabeth Lee,D,48.4,3.1,88.42,yes,2026-11-07 01:00 UTC
-AZ-06,Arizona,AZ,Dem win,JoAnna Mendoza,D,53.1,Juan Ciscomani,R,44.7,8.4,96.4,yes,2026-11-07 01:00 UTC
-AZ-07,Arizona,AZ,Dem win,Adelita Grijalva,D,71.9,Daniel Butierez,R,27.9,44.0,52.26,yes,2026-11-07 01:00 UTC
-AZ-08,Arizona,AZ,Rep win,Abraham Hamadeh,R,51.2,Bernadette Greene-Placentia,D,48.6,2.6,80.28,yes,2026-11-07 01:00 UTC
-AZ-09,Arizona,AZ,Rep win,Paul Gosar,R,57.5,Danielle Sterbinsky,D,42.4,15.1,79.63,yes,2026-11-07 01:00 UTC
-CA-01,California,CA,Dem win,Mike McGuire,D,55.5,James Gallagher,R,44.5,11.0,68.28,yes,2026-11-07 01:00 UTC
-CA-02,California,CA,Dem win,Jared Huffman,D,65.0,Robin Littau,R,35.0,30.0,69.9,yes,2026-11-07 01:00 UTC
-CA-03,California,CA,Dem win,Ami Bera,D,58.0,Robb Tucker,R,42.0,16.0,81,yes,2026-11-07 01:00 UTC
-CA-04,California,CA,Dem lead,Eric Jones,D,51.7,Mike Thompson,D,48.3,3.4,51.77,no,2026-11-07 01:00 UTC
-CA-05,California,CA,Rep win,Tom McClintock,R,55.9,Michael Masuda,D,44.1,11.8,84.2,yes,2026-11-07 01:00 UTC
-CA-06,California,CA,Dem win,Richard Pan,D,58.5,Kevin Kiley,I,41.5,17.0,70.91,yes,2026-11-07 01:00 UTC
-CA-07,California,CA,Dem lead,Doris Matsui,D,55.6,Mai Vang,D,44.4,11.2,67.45,no,2026-11-07 01:00 UTC
-CA-08,California,CA,Dem win,John Garamendi,D,72.9,Rudy Recile,R,27.1,45.8,80.37,yes,2026-11-07 01:00 UTC
-CA-09,California,CA,Dem win,Josh Harder,D,66.9,John McBride,R,33.1,33.8,52.01,yes,2026-11-07 01:00 UTC
-CA-10,California,CA,Dem win,Mark DeSaulnier,D,69.5,Jeff Frese,R,30.5,39.0,95.29,yes,2026-11-07 01:00 UTC
-CA-11,California,CA,Dem win,Scott Wiener,D,54.0,Connie Chan,D,46.0,8.0,94.33,yes,2026-11-07 01:00 UTC
-CA-12,California,CA,Dem win,Lateefah Simon,D,79.8,Jamie Joyce,D,20.2,59.6,47.8,yes,2026-11-07 01:00 UTC
-CA-13,California,CA,Dem win,Adam Gray,D,61.0,Kevin Lincoln,R,39.0,22.0,42.83,yes,2026-11-07 01:00 UTC
-CA-14,California,CA,Dem lead,Aisha Wahab,D,56.5,Melissa Hernandez,D,43.5,13.0,45.87,no,2026-11-07 01:00 UTC
-CA-15,California,CA,Dem win,Kevin Mullin,D,78.5,Charles Hoelter,R,21.5,57.0,60.34,yes,2026-11-07 01:00 UTC
-CA-16,California,CA,Dem win,Sam Liccardo,D,76.6,Peter Sundin Soulé,R,23.4,53.2,63.32,yes,2026-11-07 01:00 UTC
-CA-17,California,CA,Dem win,Ro Khanna,D,70.8,Ritesh Tandon,R,29.2,41.6,45.13,yes,2026-11-07 01:00 UTC
-CA-18,California,CA,Dem win,Zoe Lofgren,D,71.8,Shane Lewis,R,28.2,43.6,44.34,yes,2026-11-07 01:00 UTC
-CA-19,California,CA,Dem win,Jimmy Panetta,D,72.4,Peter Verbica,R,27.6,44.8,80.37,yes,2026-11-07 01:00 UTC
-CA-20,California,CA,Rep win,Vince Fong,R,61.9,Sandra Van Scotter,D,38.1,23.8,69.77,yes,2026-11-07 01:00 UTC
-CA-21,California,CA,Dem win,Jim Costa,D,62.7,Kyle Kirkland,R,37.3,25.4,39.27,yes,2026-11-07 01:00 UTC
-CA-22,California,CA,Dem win,Randy Villegas,D,66.6,David Valadao,R,33.4,33.2,37.07,yes,2026-11-07 01:00 UTC
-CA-23,California,CA,Rep lead,Jay Obernolte,R,51.2,Tessa Lynn Hodge,D,48.8,2.4,61.97,no,2026-11-07 01:00 UTC
-CA-24,California,CA,Dem win,Salud Carbajal,D,65.9,Bob Smith,R,34.1,31.8,71.2,yes,2026-11-07 01:00 UTC
-CA-25,California,CA,Dem win,Raul Ruiz,D,64.8,Joe Males,R,35.2,29.6,50.64,yes,2026-11-07 01:00 UTC
-CA-26,California,CA,Dem win,Jacqui Irwin,D,61.9,Sam Gallucci,R,38.1,23.8,77.22,yes,2026-11-07 01:00 UTC
-CA-27,California,CA,Dem win,George Whitesides,D,63.4,Jason Gibbs,R,36.6,26.8,81.14,yes,2026-11-07 01:00 UTC
-CA-28,California,CA,Dem win,Judy Chu,D,70.2,April Verlato,R,29.8,40.4,84.2,yes,2026-11-07 01:00 UTC
-CA-29,California,CA,Dem win,Luz Rivas,D,58.4,Angélica María Dueñas,D,41.6,16.8,56.54,yes,2026-11-07 01:00 UTC
-CA-30,California,CA,Dem win,Laura Friedman,D,76.9,Scott Meyers,R,23.1,53.8,85.49,yes,2026-11-07 01:00 UTC
-CA-31,California,CA,Dem win,Gil Cisneros,D,65.4,Eric Ching,R,34.6,30.8,78.6,yes,2026-11-07 01:00 UTC
-CA-32,California,CA,Dem win,Brad Sherman,D,67.3,Larry Thompson,R,32.7,34.6,88.02,yes,2026-11-07 01:00 UTC
-CA-33,California,CA,Dem win,Pete Aguilar,D,68.0,Stephanie Vargas,R,32.0,36.0,53.31,yes,2026-11-07 01:00 UTC
-CA-34,California,CA,Dem win,Angela Gonzales-Torres,D,61.0,Jimmy Gomez,D,39.0,22.0,54.99,yes,2026-11-07 01:00 UTC
-CA-35,California,CA,Dem win,Norma Torres,D,66.0,Mike Cargile,R,34.0,32.0,50.89,yes,2026-11-07 01:00 UTC
-CA-36,California,CA,Dem win,Ted Lieu,D,72.3,Houston Brignano,R,27.7,44.6,99,yes,2026-11-07 01:00 UTC
-CA-37,California,CA,Dem win,Sydney Kamlager-Dove,D,61.5,Samantha Mota,D,38.5,23.0,57.69,yes,2026-11-07 01:00 UTC
-CA-38,California,CA,Dem win,Hilda Solis,D,67.1,Pedro Antonio Casas,R,32.9,34.2,72.01,yes,2026-11-07 01:00 UTC
-CA-39,California,CA,Dem win,Mark Takano,D,66.1,Steve Manos,R,33.9,32.2,36,yes,2026-11-07 01:00 UTC
-CA-40,California,CA,Rep lead,Ken Calvert,R,54.2,Young Kim,R,45.8,8.4,60.43,no,2026-11-07 01:00 UTC
-CA-41,California,CA,Dem win,Linda Sánchez,D,67.0,Mitch Clemmons,R,33.0,34.0,84.04,yes,2026-11-07 01:00 UTC
-CA-42,California,CA,Dem win,Robert Garcia,D,61.4,Brian Burley,R,38.6,22.8,87.39,yes,2026-11-07 01:00 UTC
-CA-43,California,CA,Dem win,Maxine Waters,D,82.4,Cristian Morales,R,17.6,64.8,59.55,yes,2026-11-07 01:00 UTC
-CA-44,California,CA,Dem win,Nanette Barragán,D,81.1,Genevieve Angel,R,18.9,62.2,58.74,yes,2026-11-07 01:00 UTC
-CA-45,California,CA,Dem win,Derek Tran,D,59.8,Chuong Vo,R,40.2,19.6,77.8,yes,2026-11-07 01:00 UTC
-CA-46,California,CA,Dem win,Lou Correa,D,69.2,David Pan,R,30.8,38.4,54.15,yes,2026-11-07 01:00 UTC
-CA-47,California,CA,Dem win,Dave Min,D,57.4,Jenny Le Roux,R,42.6,14.8,87.67,yes,2026-11-07 01:00 UTC
-CA-48,California,CA,Dem win,Marni von Wilpert,D,59.4,Jim Desmond,R,40.6,18.8,67.79,yes,2026-11-07 01:00 UTC
-CA-49,California,CA,Dem win,Mike Levin,D,57.7,Armen Kurdian,R,42.3,15.4,87.4,yes,2026-11-07 01:00 UTC
-CA-50,California,CA,Dem win,Scott Peters,D,61.4,Steve Cohen,R,38.6,22.8,79.31,yes,2026-11-07 01:00 UTC
-CA-51,California,CA,Dem win,Sara Jacobs,D,63.4,Ricardo Cabrera,R,36.6,26.8,71.29,yes,2026-11-07 01:00 UTC
-CA-52,California,CA,Dem win,Juan Vargas,D,69.2,Jeff Belle,R,30.8,38.4,54.01,yes,2026-11-07 01:00 UTC
-CO-01,Colorado,CO,Dem win,Melat Kiros,D,78.3,Christy Peterson,R,14.1,64.2,85.63,yes,2026-11-07 01:00 UTC
-CO-02,Colorado,CO,Dem win,Joe Neguse,D,74.5,Kelley Anne Dennison,R,23.7,50.8,99,yes,2026-11-07 01:00 UTC
-CO-03,Colorado,CO,Rep win,Jeff Hurd,R,49.3,Dwayne L. Romero,D,47.4,1.9,93.41,yes,2026-11-07 01:00 UTC
-CO-04,Colorado,CO,Dem lead,Eileen Laubacher,D,48.8,Lauren Boebert,R,47.9,0.9,99,no,2026-11-07 01:00 UTC
-CO-05,Colorado,CO,Dem win,Jessica Killin,D,50.5,Jeff Crank,R,45.8,4.7,86.63,yes,2026-11-07 01:00 UTC
-CO-06,Colorado,CO,Dem win,Jason Crow,D,65.7,Jason Clark,R,31.2,34.5,81.02,yes,2026-11-07 01:00 UTC
-CO-07,Colorado,CO,Dem win,Brittany Pettersen,D,60.7,Tim Bennett,R,36.1,24.6,99,yes,2026-11-07 01:00 UTC
-CO-08,Colorado,CO,Dem win,Manny Rutinel,D,55.4,Gabe Evans,R,40.7,14.7,80.61,yes,2026-11-07 01:00 UTC
-CT-01,Connecticut,CT,Dem win,Luke Bronin,D,67.3,Amy Chai,R,31.0,36.3,86.34,yes,2026-11-07 01:00 UTC
-CT-02,Connecticut,CT,Dem win,Joe Courtney,D,62.4,George Austin,R,37.6,24.8,99,yes,2026-11-07 01:00 UTC
-CT-03,Connecticut,CT,Dem win,Rosa DeLauro,D,61.3,Christopher Lancia,R,35.5,25.8,85.27,yes,2026-11-07 01:00 UTC
-CT-04,Connecticut,CT,Dem win,Jim Himes,D,65.6,Michael Goldstein,R,32.5,33.1,81.82,yes,2026-11-07 01:00 UTC
-CT-05,Connecticut,CT,Dem win,Jahana Hayes,D,57.8,Chris Shea,R,42.1,15.7,88.01,yes,2026-11-07 01:00 UTC
-DE-AL,Delaware,DE,Dem win,Sarah McBride,D,64.3,"Joseph ""Dr. Joe"" Arminio",R,35.7,28.6,90.47,yes,2026-11-07 01:00 UTC
-FL-01,Florida,FL,Rep win,Jimmy Patronis,R,62.6,Gay Valimont,D,35.6,27.0,83.74,yes,2026-11-07 01:00 UTC
-FL-02,Florida,FL,Rep win,Austin Rogers,R,52.1,Amanda Green,D,47.9,4.2,94.68,yes,2026-11-07 01:00 UTC
-FL-03,Florida,FL,Rep win,Kat Cammack,R,55.1,Seth Harp,D,43.0,12.1,91.14,yes,2026-11-07 01:00 UTC
-FL-04,Florida,FL,Rep win,Aaron Bean,R,50.2,LaShonda Holloway,D,48.1,2.1,93.95,yes,2026-11-07 01:00 UTC
-FL-05,Florida,FL,Rep win,John Rutherford,R,56.4,Rachel Grage,D,43.6,12.8,99,yes,2026-11-07 01:00 UTC
-FL-06,Florida,FL,Rep win,Randy Fine,R,58.9,Eric Yonce,D,39.9,19.0,98.08,yes,2026-11-07 01:00 UTC
-FL-07,Florida,FL,Rep lead,Ryan Elijah,R,49.7,Bale Dalton,D,49.2,0.5,99,no,2026-11-07 01:00 UTC
-FL-08,Florida,FL,Rep win,Mike Haridopolos,R,53.2,Jennifer Jenkins,D,46.8,6.4,98.46,yes,2026-11-07 01:00 UTC
-FL-09,Florida,FL,Dem lead,Darren Soto,D,50.3,Dan Green,R,49.7,0.6,87.42,no,2026-11-07 01:00 UTC
-FL-10,Florida,FL,Dem win,Maxwell Frost,D,,,,,,0,yes,2026-11-07 01:00 UTC
-FL-11,Florida,FL,Rep win,Joe Strada,R,52.9,James Pericola,D,46.0,6.9,99,yes,2026-11-07 01:00 UTC
-FL-12,Florida,FL,Rep win,Gus Bilirakis,R,52.7,Kimberly Overman,D,45.9,6.8,88.34,yes,2026-11-07 01:00 UTC
-FL-13,Florida,FL,Rep win,Anna Paulina Luna,R,49.5,Leela Gray,D,48.7,0.8,97.45,yes,2026-11-07 01:00 UTC
-FL-14,Florida,FL,Dem win,Kathy Castor,D,51.2,Mike Beltran,R,45.9,5.3,93.98,yes,2026-11-07 01:00 UTC
-FL-15,Florida,FL,Rep win,Laurel Lee,R,54.3,Robert People,D,45.7,8.6,91.76,yes,2026-11-07 01:00 UTC
-FL-16,Florida,FL,Rep win,Sydney Gruters,R,51.2,Kelly Kirschner,D,47.0,4.2,99,yes,2026-11-07 01:00 UTC
-FL-17,Florida,FL,Rep win,Greg Steube,R,58.5,Matthew Montavon,D,40.1,18.4,99,yes,2026-11-07 01:00 UTC
-FL-18,Florida,FL,Rep win,Scott Franklin,R,50.4,Curtis Gibson,D,46.7,3.7,84.04,yes,2026-11-07 01:00 UTC
-FL-19,Florida,FL,Rep win,Jim Schwartzel,R,61.1,Victor Arias,D,37.6,23.5,96.26,yes,2026-11-07 01:00 UTC
-FL-20,Florida,FL,Dem win,Debbie Wasserman Schultz,D,74.4,Brent Andersen,R,21.7,52.7,89.46,yes,2026-11-07 01:00 UTC
-FL-21,Florida,FL,Rep win,Brian Mast,R,53.9,James Martin,D,44.7,9.2,99,yes,2026-11-07 01:00 UTC
-FL-22,Florida,FL,Dem win,Pia Dandiya,D,51.9,Casey Askar,R,48.1,3.8,92.45,yes,2026-11-07 01:00 UTC
-FL-23,Florida,FL,Dem win,Lois Frankel,D,65.6,Deborah Adeimy,R,34.4,31.2,87.13,yes,2026-11-07 01:00 UTC
-FL-24,Florida,FL,Dem win,Oliver Gilbert,D,80.7,Mayonna Te Brown,R,19.3,61.4,74.94,yes,2026-11-07 01:00 UTC
-FL-25,Florida,FL,Dem win,Jared Moskowitz,D,51.3,Scott Singer,R,46.6,4.7,88.23,yes,2026-11-07 01:00 UTC
-FL-26,Florida,FL,Rep lead,Mario Diaz-Balart,R,49.9,Nicole Locklin,D,49.1,0.8,70.34,no,2026-11-07 01:00 UTC
-FL-27,Florida,FL,Rep lead,Maria Elvira Salazar,R,50.2,Eliott Rodriguez,D,49.8,0.4,76.75,no,2026-11-07 01:00 UTC
-FL-28,Florida,FL,Rep win,Carlos Giménez,R,52.9,Phil Ehr,D,45.6,7.3,70.95,yes,2026-11-07 01:00 UTC
-GA-01,Georgia,GA,Rep win,Jim Kingston,R,51.4,Amanda Hollowell,D,48.6,2.8,81.35,yes,2026-11-07 01:00 UTC
-GA-02,Georgia,GA,Dem win,Sanford Bishop,D,60.8,Matt Day,R,39.2,21.6,72.81,yes,2026-11-07 01:00 UTC
-GA-03,Georgia,GA,Rep win,Brian Jack,R,58.6,Maura Keller,D,41.4,17.2,95.93,yes,2026-11-07 01:00 UTC
-GA-04,Georgia,GA,Dem win,Hank Johnson,D,82.6,James Duffie,R,17.4,65.2,78.55,yes,2026-11-07 01:00 UTC
-GA-05,Georgia,GA,Dem win,Nikema Williams,D,90.2,John Salvesen,R,9.8,80.4,91.06,yes,2026-11-07 01:00 UTC
-GA-06,Georgia,GA,Dem win,Lucy McBath,D,80.9,Kevin Martin,R,19.1,61.8,97.49,yes,2026-11-07 01:00 UTC
-GA-07,Georgia,GA,Rep win,Rich McCormick,R,56.2,Anthony Kozycki,D,43.8,12.4,99,yes,2026-11-07 01:00 UTC
-GA-08,Georgia,GA,Rep win,Austin Scott,R,60.4,Kelly Esti,D,39.6,20.8,79.05,yes,2026-11-07 01:00 UTC
-GA-09,Georgia,GA,Rep win,Andrew Clyde,R,59.3,Caitlyn Gegen,D,40.7,18.6,91.98,yes,2026-11-07 01:00 UTC
-GA-10,Georgia,GA,Rep win,Houston Gaines,R,53.6,Pamela DeLancy,D,46.4,7.2,97,yes,2026-11-07 01:00 UTC
-GA-11,Georgia,GA,Rep win,John Cowan,R,55.4,Chris Harden,D,44.6,10.8,98.12,yes,2026-11-07 01:00 UTC
-GA-12,Georgia,GA,Rep win,Rick Allen,R,52.1,Ceretta Smith,D,47.9,4.2,80.67,yes,2026-11-07 01:00 UTC
-GA-13,Georgia,GA,Dem win,Jasmine Clark,D,79.8,Jonathan Chavez,R,20.2,59.6,92.78,yes,2026-11-07 01:00 UTC
-GA-14,Georgia,GA,Rep win,Clay Fuller,R,58.8,Shawn Harris,D,41.2,17.6,85.59,yes,2026-11-07 01:00 UTC
-HI-01,Hawaii,HI,Dem win,Ed Case,D,71.8,Adriel Lam,R,22.9,48.9,75.18,yes,2026-11-07 01:00 UTC
-HI-02,Hawaii,HI,Dem win,Jill Tokuda,D,66.5,Brenton Awa,R,33.5,33.0,86.95,yes,2026-11-07 01:00 UTC
-IA-01,Iowa,IA,Dem win,Christina Bohannan,D,52.7,Mariannette Miller-Meeks,R,43.5,9.2,99,yes,2026-11-07 01:00 UTC
-IA-02,Iowa,IA,Dem win,Lindsay James,D,49.5,Joe Mitchell,R,45.5,4.0,99,yes,2026-11-07 01:00 UTC
-IA-03,Iowa,IA,Dem win,Sarah Trone Garriott,D,53.5,Zach Nunn,R,46.2,7.3,99,yes,2026-11-07 01:00 UTC
-IA-04,Iowa,IA,Rep win,Chris McGowan,R,59.0,Dave Dawson,D,40.9,18.1,88.63,yes,2026-11-07 01:00 UTC
-ID-01,Idaho,ID,Rep win,Russ Fulcher,R,64.3,Kaylee Peterson,D,28.8,35.5,99,yes,2026-11-07 01:00 UTC
-ID-02,Idaho,ID,Rep win,Mike Simpson,R,51.7,Ellie Gilbreath,D,40.3,11.4,88.76,yes,2026-11-07 01:00 UTC
-IL-01,Illinois,IL,Dem win,Jonathan Jackson,D,71.7,Christian Maxwell,R,28.3,43.4,88.11,yes,2026-11-07 01:00 UTC
-IL-02,Illinois,IL,Dem win,Donna Miller,D,73.2,Mike Noack,R,26.8,46.4,81.36,yes,2026-11-07 01:00 UTC
-IL-03,Illinois,IL,Dem win,Delia Ramirez,D,76.6,Angel Oakley,R,23.4,53.2,72.98,yes,2026-11-07 01:00 UTC
-IL-04,Illinois,IL,Dem win,Patty Garcia,D,71.1,Lupe Castillo,R,16.1,55.0,59.47,yes,2026-11-07 01:00 UTC
-IL-05,Illinois,IL,Dem win,Mike Quigley,D,76.0,Tom Hanson,R,24.0,52.0,97.95,yes,2026-11-07 01:00 UTC
-IL-06,Illinois,IL,Dem win,Sean Casten,D,62.8,Niki Conforti,R,37.2,25.6,93.21,yes,2026-11-07 01:00 UTC
-IL-07,Illinois,IL,Dem win,La Shawn Ford,D,89.2,Chad Koppie,R,10.8,78.4,80.83,yes,2026-11-07 01:00 UTC
-IL-08,Illinois,IL,Dem win,Melissa Bean,D,64.1,Jennifer Davis,R,35.9,28.2,76.94,yes,2026-11-07 01:00 UTC
-IL-09,Illinois,IL,Dem win,Daniel K. Biss,D,76.2,John Elleson,R,23.8,52.4,96.62,yes,2026-11-07 01:00 UTC
-IL-10,Illinois,IL,Dem win,Brad Schneider,D,70.0,Carl Lambrecht,R,30.0,40.0,87.04,yes,2026-11-07 01:00 UTC
-IL-11,Illinois,IL,Dem win,Bill Foster,D,64.3,Jeffrey Walter,R,35.7,28.6,96.67,yes,2026-11-07 01:00 UTC
-IL-12,Illinois,IL,Rep win,Mike Bost,R,69.7,Julie Fortier,D,30.3,39.4,90.54,yes,2026-11-07 01:00 UTC
-IL-13,Illinois,IL,Dem win,Nikki Budzinski,D,62.6,Jeff Wilson,R,37.4,25.2,91.14,yes,2026-11-07 01:00 UTC
-IL-14,Illinois,IL,Dem win,Lauren Underwood,D,62.6,James Marter,R,37.4,25.2,88.02,yes,2026-11-07 01:00 UTC
-IL-15,Illinois,IL,Rep win,Mary Miller,R,66.9,Jennifer Todd,D,33.1,33.8,93.98,yes,2026-11-07 01:00 UTC
-IL-16,Illinois,IL,Rep win,Darin LaHood,R,58.8,Paul Nolley,D,41.2,17.6,99,yes,2026-11-07 01:00 UTC
-IL-17,Illinois,IL,Dem win,Eric Sorensen,D,60.2,Dillan Vancil,R,39.8,20.4,84.72,yes,2026-11-07 01:00 UTC
-IN-01,Indiana,IN,Dem win,Frank Mrvan,D,62.9,Barb Regnitz,R,37.1,25.8,99,yes,2026-11-07 01:00 UTC
-IN-02,Indiana,IN,Rep win,Rudy Yakym,R,51.1,Jamee Decio,D,46.2,4.9,93.02,yes,2026-11-07 01:00 UTC
-IN-03,Indiana,IN,Rep win,Marlin Stutzman,R,54.9,Kelly Thompson,D,45.1,9.8,96.12,yes,2026-11-07 01:00 UTC
-IN-04,Indiana,IN,Rep win,Jim Baird,R,54.2,Drew Cox,D,45.8,8.4,99,yes,2026-11-07 01:00 UTC
-IN-05,Indiana,IN,Dem win,J. D. Ford,D,51.6,Victoria Spartz,R,48.4,3.2,99,yes,2026-11-07 01:00 UTC
-IN-06,Indiana,IN,Rep win,Jefferson Shreve,R,55.1,Cinde Wirth,D,44.9,10.2,96.8,yes,2026-11-07 01:00 UTC
-IN-07,Indiana,IN,Dem win,André Carson,D,77.0,Patrick McAuley,R,20.4,56.6,99,yes,2026-11-07 01:00 UTC
-IN-08,Indiana,IN,Rep win,Mark Messmer,R,55.3,Mary Allen,D,44.7,10.6,99,yes,2026-11-07 01:00 UTC
-IN-09,Indiana,IN,Rep win,Erin Houchin,R,54.0,Brad Meyer,D,43.5,10.5,99,yes,2026-11-07 01:00 UTC
-KS-01,Kansas,KS,Rep win,Tracey Mann,R,59.4,Lauren Reinhold,D,37.9,21.5,87.85,yes,2026-11-07 01:00 UTC
-KS-02,Kansas,KS,Rep win,Derek Schmidt,R,51.2,Don Coover,D,45.0,6.2,85.13,yes,2026-11-07 01:00 UTC
-KS-03,Kansas,KS,Dem win,Sharice Davids,D,59.6,Eric Jenkins,R,38.4,21.2,99,yes,2026-11-07 01:00 UTC
-KS-04,Kansas,KS,Rep win,Ron Estes,R,53.5,Katy Tyndell,D,44.1,9.4,90.06,yes,2026-11-07 01:00 UTC
-KY-01,Kentucky,KY,Rep win,James Comer,R,67.6,Drew Williams,D,32.4,35.2,83.22,yes,2026-11-07 01:00 UTC
-KY-02,Kentucky,KY,Rep win,Brett Guthrie,R,62.8,Megan Wingfield,D,35.1,27.7,83.98,yes,2026-11-07 01:00 UTC
-KY-03,Kentucky,KY,Dem win,Morgan McGarvey,D,70.3,Maria Teresa Rodriguez,R,29.7,40.6,86.82,yes,2026-11-07 01:00 UTC
-KY-04,Kentucky,KY,Rep win,Ed Gallrein,R,54.2,Melissa Strange,D,40.9,13.3,91.94,yes,2026-11-07 01:00 UTC
-KY-05,Kentucky,KY,Rep win,Hal Rogers,R,71.1,Ned Pillersdorf,D,25.3,45.8,72.95,yes,2026-11-07 01:00 UTC
-KY-06,Kentucky,KY,Dem win,Zach Dembo,D,52.7,Ralph Alvarado,R,43.3,9.4,93.96,yes,2026-11-07 01:00 UTC
-LA-01,Louisiana,LA,Rep win,Steve Scalise,R,60.7,Lauren Jewett,D,34.0,26.7,99,yes,2026-11-07 01:00 UTC
-LA-02,Louisiana,LA,Dem win,Troy Carter,D,79.9,Peter Williams,R,15.1,64.8,93.36,yes,2026-11-07 01:00 UTC
-LA-03,Louisiana,LA,Rep win,Clay Higgins,R,55.0,John Day,D,20.9,34.1,92.79,yes,2026-11-07 01:00 UTC
-LA-04,Louisiana,LA,Rep win,Mike Johnson,R,58.5,Conrad Cable,D,23.0,35.5,90.9,yes,2026-11-07 01:00 UTC
-LA-05,Louisiana,LA,Dem lead,"Patricia ""Pat"" Moore",D,17.9,Gabe Firment,R,17.2,0.7,89.93,no,2026-11-07 01:00 UTC
-LA-06,Louisiana,LA,Dem lead,Chauna Banks,D,19.4,Blake Miguez,R,19.2,0.2,99,no,2026-11-07 01:00 UTC
-MA-01,Massachusetts,MA,Dem win,Richard E. Neal,D,65.4,Nadia Donya Milleron,I,34.6,30.8,83.21,yes,2026-11-07 01:00 UTC
-MA-02,Massachusetts,MA,Dem win,James P. McGovern,D,100.0,,,,,62.2,yes,2026-11-07 01:00 UTC
-MA-03,Massachusetts,MA,Dem win,Lori Loureiro Trahan,D,67.2,Gary J. Grossi,R,30.3,36.9,79.97,yes,2026-11-07 01:00 UTC
-MA-04,Massachusetts,MA,Dem win,Jake Auchincloss,D,66.4,Thomas Stalcup,R,33.6,32.8,90.14,yes,2026-11-07 01:00 UTC
-MA-05,Massachusetts,MA,Dem win,Katherine M. Clark,D,100.0,,,,,67.68,yes,2026-11-07 01:00 UTC
-MA-06,Massachusetts,MA,Dem win,Dan Koh,D,63.4,Micah Quinney Jones,R,36.6,26.8,99,yes,2026-11-07 01:00 UTC
-MA-07,Massachusetts,MA,Dem win,Ayanna S. Pressley,D,100.0,,,,,54.33,yes,2026-11-07 01:00 UTC
-MA-08,Massachusetts,MA,Dem win,Stephen F. Lynch,D,69.4,Robert G. Burke,R,26.8,42.6,88.5,yes,2026-11-07 01:00 UTC
-MA-09,Massachusetts,MA,Dem win,Bill Keating,D,60.9,R. Tyler Macallister,R,39.1,21.8,99,yes,2026-11-07 01:00 UTC
-MD-01,Maryland,MD,Rep win,Andy Harris,R,53.4,Dan Schwartz,D,46.4,7.0,88.37,yes,2026-11-07 01:00 UTC
-MD-02,Maryland,MD,Dem win,Johnny Olszewski,D,62.1,Dave Wallace,R,37.7,24.4,76.45,yes,2026-11-07 01:00 UTC
-MD-03,Maryland,MD,Dem win,Sarah Elfreth,D,66.8,Berney Flowers,R,32.9,33.9,90.56,yes,2026-11-07 01:00 UTC
-MD-04,Maryland,MD,Dem win,Glenn Ivey,D,89.0,George McDermott,R,6.3,82.7,58.47,yes,2026-11-07 01:00 UTC
-MD-05,Maryland,MD,Dem win,Adrian Boafo,D,69.1,Chris Chaffee,R,30.2,38.9,92.48,yes,2026-11-07 01:00 UTC
-MD-06,Maryland,MD,Dem win,April McClain Delaney,D,57.2,Robin Ficker,R,39.8,17.4,76.67,yes,2026-11-07 01:00 UTC
-MD-07,Maryland,MD,Dem win,Kweisi Mfume,D,83.9,Scott Collier,R,15.7,68.2,60.38,yes,2026-11-07 01:00 UTC
-MD-08,Maryland,MD,Dem win,Jamie Raskin,D,82.7,Cheryl Riley,R,15.4,67.3,82.12,yes,2026-11-07 01:00 UTC
-ME-01,Maine,ME,Dem win,Chellie Pingree,D,66.1,Ronald Russell,R,33.9,32.2,97.15,yes,2026-11-07 01:00 UTC
-ME-02,Maine,ME,Rep lead,Paul LePage,R,50.8,Matthew Dunlap,D,49.2,1.6,94.18,no,2026-11-07 01:00 UTC
-MI-01,Michigan,MI,Rep win,Jack Bergman,R,53.8,Callie Barr,D,44.2,9.6,99,yes,2026-11-07 01:00 UTC
-MI-02,Michigan,MI,Rep win,John Moolenaar,R,61.4,Benjamin Ambrose,D,36.9,24.5,92.05,yes,2026-11-07 01:00 UTC
-MI-03,Michigan,MI,Dem win,Hillary Scholten,D,57.1,Terri DeBoer,R,41.4,15.7,97.79,yes,2026-11-07 01:00 UTC
-MI-04,Michigan,MI,Dem win,Sean McCann,D,50.1,Bill Huizenga,R,48.3,1.8,97.21,yes,2026-11-07 01:00 UTC
-MI-05,Michigan,MI,Rep win,Tim Walberg,R,59.1,Christian Vukasovich,D,38.5,20.6,86.85,yes,2026-11-07 01:00 UTC
-MI-06,Michigan,MI,Dem win,Debbie Dingell,D,67.4,Heather Smiley,R,30.3,37.1,99,yes,2026-11-07 01:00 UTC
-MI-07,Michigan,MI,Dem win,William Lawrence,D,51.0,Tom Barrett,R,47.7,3.3,99,yes,2026-11-07 01:00 UTC
-MI-08,Michigan,MI,Dem win,Kristen McDonald Rivet,D,55.5,Tom Smith,R,41.9,13.6,92.6,yes,2026-11-07 01:00 UTC
-MI-09,Michigan,MI,Rep win,Lisa McClain,R,62.6,Ray Pooley,D,34.7,27.9,99,yes,2026-11-07 01:00 UTC
-MI-10,Michigan,MI,Dem win,Christina Hines,D,52.4,Michael Bouchard Jr.,R,45.2,7.2,93.9,yes,2026-11-07 01:00 UTC
-MI-11,Michigan,MI,Dem win,Jeremy Moss,D,60.9,Ethan Baker,R,36.8,24.1,99,yes,2026-11-07 01:00 UTC
-MI-12,Michigan,MI,Dem win,Rashida Tlaib,D,75.8,James Hooper,R,21.2,54.6,88.25,yes,2026-11-07 01:00 UTC
-MI-13,Michigan,MI,Dem win,Donavan McKinney,D,76.3,T.P. Nykoriak,R,19.8,56.5,74.72,yes,2026-11-07 01:00 UTC
-MN-01,Minnesota,MN,Dem lead,Jake Johnson,D,50.0,Brad Finstad,R,49.9,0.1,93.57,no,2026-11-07 01:00 UTC
-MN-02,Minnesota,MN,Dem win,Matt Little,D,57.1,Eric Pratt,R,42.8,14.3,99,yes,2026-11-07 01:00 UTC
-MN-03,Minnesota,MN,Dem win,Kelly Morrison,D,64.0,Tyler Bass,R,35.8,28.2,99,yes,2026-11-07 01:00 UTC
-MN-04,Minnesota,MN,Dem win,Betty McCollum,D,73.1,Paul Wikstrom,R,26.8,46.3,96.02,yes,2026-11-07 01:00 UTC
-MN-05,Minnesota,MN,Dem win,Ilhan Omar,D,76.5,John Nagel,R,16.2,60.3,97.76,yes,2026-11-07 01:00 UTC
-MN-06,Minnesota,MN,Rep win,Tom Emmer,R,55.7,Doug Chapin,D,44.2,11.5,99,yes,2026-11-07 01:00 UTC
-MN-07,Minnesota,MN,Rep win,Michelle Fischbach,R,64.9,Erik Osberg,D,35.0,29.9,95.08,yes,2026-11-07 01:00 UTC
-MN-08,Minnesota,MN,Rep win,Pete Stauber,R,53.0,Trina Swanson,D,46.9,6.1,99,yes,2026-11-07 01:00 UTC
-MO-01,Missouri,MO,Dem win,Wesley Bell,D,81.5,Paul Berry,R,13.9,67.6,99,yes,2026-11-07 01:00 UTC
-MO-02,Missouri,MO,Dem win,Fred Wellman,D,51.1,Ann Wagner,R,46.2,4.9,99,yes,2026-11-07 01:00 UTC
-MO-03,Missouri,MO,Rep win,Bob Onder,R,52.9,Bethany Mann,D,44.4,8.5,99,yes,2026-11-07 01:00 UTC
-MO-04,Missouri,MO,Rep win,Mark Alford,R,61.5,Jordan Herrera,D,35.6,25.9,99,yes,2026-11-07 01:00 UTC
-MO-05,Missouri,MO,Dem win,Emanuel Cleaver,D,69.5,Rick Brattin,R,28.1,41.4,99,yes,2026-11-07 01:00 UTC
-MO-06,Missouri,MO,Rep win,Chris Stigall,R,58.7,Josh Smead,D,39.0,19.7,99,yes,2026-11-07 01:00 UTC
-MO-07,Missouri,MO,Rep win,Eric Burlison,R,62.2,Missi Hesketh,D,35.4,26.8,99,yes,2026-11-07 01:00 UTC
-MO-08,Missouri,MO,Rep win,Jason Smith,R,67.7,Christopher Reichard,D,29.2,38.5,94.51,yes,2026-11-07 01:00 UTC
-MS-01,Mississippi,MS,Rep win,Trent Kelly,R,58.3,Cliff Johnson,D,40.3,18.0,98.82,yes,2026-11-07 01:00 UTC
-MS-02,Mississippi,MS,Dem win,Bennie Thompson,D,67.6,Ron Eller,R,30.0,37.6,99,yes,2026-11-07 01:00 UTC
-MS-03,Mississippi,MS,Rep win,Michael Guest,R,57.5,Michael Chiaradio,D,41.2,16.3,99,yes,2026-11-07 01:00 UTC
-MS-04,Mississippi,MS,Rep win,Mike Ezell,R,61.1,Jeffrey Hulum,D,35.8,25.3,88.77,yes,2026-11-07 01:00 UTC
-MT-01,Montana,MT,Dem win,Sam Forstag,D,50.3,Aaron Flint,R,46.8,3.5,92.7,yes,2026-11-07 01:00 UTC
-MT-02,Montana,MT,Rep win,Troy Downing,R,58.2,Brian Miller,D,32.2,26.0,76.98,yes,2026-11-07 01:00 UTC
-NC-01,North Carolina,NC,Dem win,Don Davis,D,50.1,Laurie Buckhout,R,46.8,3.3,99,yes,2026-11-07 01:00 UTC
-NC-02,North Carolina,NC,Dem win,Deborah Ross,D,75.1,Gene Douglass,R,23.5,51.6,99,yes,2026-11-07 01:00 UTC
-NC-03,North Carolina,NC,Rep lead,Greg Murphy,R,49.4,Raymond Smith Jr.,D,49.3,0.1,75.48,no,2026-11-07 01:00 UTC
-NC-04,North Carolina,NC,Dem win,Valerie Foushee,D,79.1,Max Ganorkar,R,18.9,60.2,99,yes,2026-11-07 01:00 UTC
-NC-05,North Carolina,NC,Dem lead,Chuck Hubbard,D,48.7,Virginia Foxx,R,48.7,0.0,90.72,no,2026-11-07 01:00 UTC
-NC-06,North Carolina,NC,Dem win,Cyril Jefferson,D,51.1,Addison McDowell,R,48.9,2.2,86.97,yes,2026-11-07 01:00 UTC
-NC-07,North Carolina,NC,Rep lead,David Rouzer,R,49.9,Kim Hardy,D,49.1,0.8,99,no,2026-11-07 01:00 UTC
-NC-08,North Carolina,NC,Rep win,Mark Harris,R,50.4,Colby Watson,D,48.6,1.8,92.81,yes,2026-11-07 01:00 UTC
-NC-09,North Carolina,NC,Dem win,Richard Ojeda,D,51.1,Richard Hudson,R,48.9,2.2,86.15,yes,2026-11-07 01:00 UTC
-NC-10,North Carolina,NC,Rep lead,Pat Harrigan,R,49.7,Ashley Bell,D,48.7,1.0,93.45,no,2026-11-07 01:00 UTC
-NC-11,North Carolina,NC,Dem win,Jamie Ager,D,57.1,Jennifer Balkcom,R,41.3,15.8,99,yes,2026-11-07 01:00 UTC
-NC-12,North Carolina,NC,Dem win,Alma Adams,D,81.2,Jack Codiga,R,18.8,62.4,83.26,yes,2026-11-07 01:00 UTC
-NC-13,North Carolina,NC,Dem win,Paul Barringer,D,50.5,Brad Knott,R,48.1,2.4,99,yes,2026-11-07 01:00 UTC
-NC-14,North Carolina,NC,Dem win,Lakesha Womack,D,51.1,Tim Moore,R,48.9,2.2,91.48,yes,2026-11-07 01:00 UTC
-ND-AL,North Dakota,ND,Rep win,Julie Fedorchak,R,57.3,Trygve Hammer,D,36.6,20.7,99,yes,2026-11-07 01:00 UTC
-NE-01,Nebraska,NE,Rep win,Mike  Flood,R,50.0,Chris  Backemeyer,D,46.5,3.5,99,yes,2026-11-07 01:00 UTC
-NE-02,Nebraska,NE,Dem win,Denise  Powell,D,56.6,Brinker  Harding,R,40.8,15.8,99,yes,2026-11-07 01:00 UTC
-NE-03,Nebraska,NE,Rep win,Adrian  Smith,R,71.0,Becky Stille,D,20.0,51.0,91.84,yes,2026-11-07 01:00 UTC
-NH-01,New Hampshire,NH,Dem win,Stefany Shaheen,D,57.0,Anthony DiLorenzo,R,42.9,14.1,91.77,yes,2026-11-07 01:00 UTC
-NH-02,New Hampshire,NH,Dem win,Maggie Goodlander,D,59.0,Lily Tang Williams,R,38.6,20.4,92.37,yes,2026-11-07 01:00 UTC
-NJ-01,New Jersey,NJ,Dem win,Donald Norcross,D,70.3,Damon Galdo,R,29.6,40.7,89.5,yes,2026-11-07 01:00 UTC
-NJ-02,New Jersey,NJ,Dem win,Zack Mullock,D,50.8,Jeff Van Drew,R,48.1,2.7,85.58,yes,2026-11-07 01:00 UTC
-NJ-03,New Jersey,NJ,Dem win,Herb Conaway,D,62.6,Michael McGuire,R,35.3,27.3,92.71,yes,2026-11-07 01:00 UTC
-NJ-04,New Jersey,NJ,Rep win,Chris Smith,R,58.9,Rachel Peace,D,40.9,18.0,80.17,yes,2026-11-07 01:00 UTC
-NJ-05,New Jersey,NJ,Dem win,Josh Gottheimer,D,62.4,Sean Kirrane,R,34.7,27.7,89.17,yes,2026-11-07 01:00 UTC
-NJ-06,New Jersey,NJ,Dem win,Frank Pallone,D,69.1,Hillary Herzig,R,30.5,38.6,71.12,yes,2026-11-07 01:00 UTC
-NJ-07,New Jersey,NJ,Dem win,Rebecca Bennett,D,57.2,Thomas Kean Jr.,R,41.2,16.0,99,yes,2026-11-07 01:00 UTC
-NJ-08,New Jersey,NJ,Dem win,Rob Menendez,D,88.0,Craig Honts,Other,4.2,83.8,43.8,yes,2026-11-07 01:00 UTC
-NJ-09,New Jersey,NJ,Dem win,Nellie Pou,D,66.6,Rosie Pino,R,31.8,34.8,60.5,yes,2026-11-07 01:00 UTC
-NJ-10,New Jersey,NJ,Dem win,LaMonica McIver,D,84.5,Carmen Bucco,R,15.4,69.1,70.22,yes,2026-11-07 01:00 UTC
-NJ-11,New Jersey,NJ,Dem win,Analilia Mejia,D,60.7,Joe Hathaway,R,38.3,22.4,94.46,yes,2026-11-07 01:00 UTC
-NJ-12,New Jersey,NJ,Dem win,Adam Hamawy,D,70.2,Gregg Mele,R,28.0,42.2,82.85,yes,2026-11-07 01:00 UTC
-NM-01,New Mexico,NM,Dem win,Melanie Stansbury,D,63.6,Didi Okpareke,R,36.4,27.2,99,yes,2026-11-07 01:00 UTC
-NM-02,New Mexico,NM,Dem win,Gabe Vasquez,D,58.8,Greg Cunningham,R,41.2,17.6,78.82,yes,2026-11-07 01:00 UTC
-NM-03,New Mexico,NM,Dem win,Teresa Leger Fernandez,D,61.7,Martin Zamora,R,38.3,23.4,84.41,yes,2026-11-07 01:00 UTC
-NV-01,Nevada,NV,Dem win,Dina Titus,D,59.2,Carrie Buck,R,37.7,21.5,78.25,yes,2026-11-07 01:00 UTC
-NV-02,Nevada,NV,Dem win,Teresa Benitez-Thompson,D,50.1,Dave Flippo,R,44.4,5.7,98.41,yes,2026-11-07 01:00 UTC
-NV-03,Nevada,NV,Dem win,Susie Lee,D,59.6,Martin O'Donnell,R,38.1,21.5,88.31,yes,2026-11-07 01:00 UTC
-NV-04,Nevada,NV,Dem win,Steven Horsford,D,60.7,Cody Whipple,R,37.4,23.3,81.98,yes,2026-11-07 01:00 UTC
-NY-01,New York,NY,Rep win,Nick LaLota,R,51.1,Chris Gallant,D,48.9,2.2,99,yes,2026-11-07 01:00 UTC
-NY-02,New York,NY,Rep win,Andrew Garbarino,R,51.1,Patrick Halpin,D,48.8,2.3,80.68,yes,2026-11-07 01:00 UTC
-NY-03,New York,NY,Dem win,Tom Suozzi,D,55.0,Mike LiPetri,R,44.7,10.3,88.46,yes,2026-11-07 01:00 UTC
-NY-04,New York,NY,Dem win,Laura Gillen,D,56.6,Jeanine Driscoll,R,43.1,13.5,90.66,yes,2026-11-07 01:00 UTC
-NY-05,New York,NY,Dem win,Gregory Meeks,D,80.5,George Marsh,R,19.3,61.2,67.22,yes,2026-11-07 01:00 UTC
-NY-06,New York,NY,Dem win,Grace Meng,D,68.6,Joseph Chou,R,30.6,38.0,48,yes,2026-11-07 01:00 UTC
-NY-07,New York,NY,Dem win,Claire Valdez,D,83.3,Melvin Rivera,R,15.0,68.3,69.05,yes,2026-11-07 01:00 UTC
-NY-08,New York,NY,Dem win,Hakeem Jeffries,D,78.9,Lewis Mizrahi,R,19.7,59.2,68.34,yes,2026-11-07 01:00 UTC
-NY-09,New York,NY,Dem win,Yvette Clarke,D,82.1,Joel Anabilah-Azumah,R,17.0,65.1,73.51,yes,2026-11-07 01:00 UTC
-NY-10,New York,NY,Dem win,Brad Lander,D,83.2,Jennifer Moore,R,15.9,67.3,93.46,yes,2026-11-07 01:00 UTC
-NY-11,New York,NY,Rep win,Nicole Malliotakis,R,56.1,Michael DeCillis,D,43.8,12.3,57.79,yes,2026-11-07 01:00 UTC
-NY-12,New York,NY,Dem win,Micah Lasher,D,77.2,Caroline Shinkle,R,20.0,57.2,99,yes,2026-11-07 01:00 UTC
-NY-13,New York,NY,Dem win,Darializa Avila Chevalier,D,87.5,"Manual ""Jomo"" Williams",R,11.4,76.1,74.34,yes,2026-11-07 01:00 UTC
-NY-14,New York,NY,Dem win,Alexandria Ocasio-Cortez,D,78.2,Diamant Hysenaj,R,21.5,56.7,54.32,yes,2026-11-07 01:00 UTC
-NY-15,New York,NY,Dem win,Ritchie Torres,D,76.8,Stylo Sapaskis,R,10.6,66.2,52.83,yes,2026-11-07 01:00 UTC
-NY-16,New York,NY,Dem win,George Latimer,D,77.3,Joseph Cinquemani,R,22.3,55.0,62.54,yes,2026-11-07 01:00 UTC
-NY-17,New York,NY,Dem win,Cait Conley,D,52.9,Mike Lawler,R,47.0,5.9,99,yes,2026-11-07 01:00 UTC
-NY-18,New York,NY,Dem win,Pat Ryan,D,62.9,Jacqueline Auringer,R,37.1,25.8,94.63,yes,2026-11-07 01:00 UTC
-NY-19,New York,NY,Dem win,Josh Riley,D,57.3,Peter Oberacker,R,42.6,14.7,99,yes,2026-11-07 01:00 UTC
-NY-20,New York,NY,Dem win,Paul Tonko,D,63.6,Ralph Ambrosio,R,36.3,27.3,99,yes,2026-11-07 01:00 UTC
-NY-21,New York,NY,Rep win,Anthony Constantino,R,50.8,Blake Gendebien,D,48.9,1.9,89.02,yes,2026-11-07 01:00 UTC
-NY-22,New York,NY,Dem win,John Mannion,D,58.3,Kailee Buller,R,41.6,16.7,98.12,yes,2026-11-07 01:00 UTC
-NY-23,New York,NY,Rep win,Nick Langworthy,R,60.2,Aaron Gies,D,39.7,20.5,97.4,yes,2026-11-07 01:00 UTC
-NY-24,New York,NY,Rep win,Claudia Tenney,R,60.4,Alissa Ellman,D,39.5,20.9,90.77,yes,2026-11-07 01:00 UTC
-NY-25,New York,NY,Dem win,Joseph Morelle,D,62.9,Virginia McIntyre,R,36.9,26.0,99,yes,2026-11-07 01:00 UTC
-NY-26,New York,NY,Dem win,Tim Kennedy,D,65.8,Dennis Hannon,R,34.0,31.8,93.21,yes,2026-11-07 01:00 UTC
-OH-01,Ohio,OH,Dem win,Greg Landsman,D,54.4,Eric Conroy,R,42.9,11.5,99,yes,2026-11-07 01:00 UTC
-OH-02,Ohio,OH,Rep win,David J. Taylor,R,64.2,Jen Mazzuckelli,D,35.8,28.4,85.26,yes,2026-11-07 01:00 UTC
-OH-03,Ohio,OH,Dem win,Joyce Beatty,D,77.2,Cleophus Dulaney,R,22.8,54.4,95.36,yes,2026-11-07 01:00 UTC
-OH-04,Ohio,OH,Rep win,Jim Jordan,R,64.5,Joshua D. Kolasinski,D,31.3,33.2,95.4,yes,2026-11-07 01:00 UTC
-OH-05,Ohio,OH,Rep win,Bob Latta,R,54.3,Brian A. Shaver,D,42.6,11.7,94.4,yes,2026-11-07 01:00 UTC
-OH-06,Ohio,OH,Rep win,Michael A. Rulli,R,60.4,Elizabeth Kirtley,D,39.6,20.8,84.75,yes,2026-11-07 01:00 UTC
-OH-07,Ohio,OH,Dem win,Brian Poindexter,D,54.9,Max Miller,R,45.0,9.9,99,yes,2026-11-07 01:00 UTC
-OH-08,Ohio,OH,Rep win,Warren Davidson,R,52.1,Vanessa Enoch,D,47.9,4.2,99,yes,2026-11-07 01:00 UTC
-OH-09,Ohio,OH,Dem win,Marcy Kaptur,D,52.7,Derek Merrin,R,47.2,5.5,95.03,yes,2026-11-07 01:00 UTC
-OH-10,Ohio,OH,Dem win,Kristina Knickerbocker,D,49.3,Mike Turner,R,47.7,1.6,94.97,yes,2026-11-07 01:00 UTC
-OH-11,Ohio,OH,Dem win,Shontel M. Brown,D,83.5,Mike Kirchner,R,16.5,67.0,83.92,yes,2026-11-07 01:00 UTC
-OH-12,Ohio,OH,Rep win,Troy Balderson,R,59.4,Jerrad Christian,D,40.6,18.8,99,yes,2026-11-07 01:00 UTC
-OH-13,Ohio,OH,Dem win,Emilia Sykes,D,60.0,Carey Coleman,R,38.4,21.6,99,yes,2026-11-07 01:00 UTC
-OH-14,Ohio,OH,Rep win,David P. Joyce,R,55.0,Maria Jukic,D,45.0,10.0,99,yes,2026-11-07 01:00 UTC
-OH-15,Ohio,OH,Dem win,Don Leonard,D,51.9,Mike Carey,R,45.3,6.6,90.42,yes,2026-11-07 01:00 UTC
-OK-01,Oklahoma,OK,Rep win,Mark Tedford,R,52.3,John Croisant,D,47.7,4.6,89.9,yes,2026-11-07 01:00 UTC
-OK-02,Oklahoma,OK,Rep win,Josh Brecheen,R,68.0,Brandon Wade,D,29.0,39.0,78.91,yes,2026-11-07 01:00 UTC
-OK-03,Oklahoma,OK,Rep win,Frank Lucas,R,64.0,Suzie Byrd,D,36.0,28.0,72.07,yes,2026-11-07 01:00 UTC
-OK-04,Oklahoma,OK,Rep win,Tom Cole,R,57.6,Mitchell Jacob,D,39.5,18.1,83.54,yes,2026-11-07 01:00 UTC
-OK-05,Oklahoma,OK,Rep win,Stephanie Bice,R,49.5,Jena Nelson,D,48.2,1.3,99,yes,2026-11-07 01:00 UTC
-OR-01,Oregon,OR,Dem win,Suzanne Bonamici,D,71.0,Barbara Kahl,R,28.8,42.2,89.45,yes,2026-11-07 01:00 UTC
-OR-02,Oregon,OR,Rep win,Cliff Bentz,R,61.6,Chris Beck,D,38.3,23.3,87.42,yes,2026-11-07 01:00 UTC
-OR-03,Oregon,OR,Dem win,Maxine Dexter,D,77.3,Loran Ayles,R,22.5,54.8,88.49,yes,2026-11-07 01:00 UTC
-OR-04,Oregon,OR,Dem win,Val Hoyle,D,53.7,Monique DeSpain,R,42.8,10.9,97.43,yes,2026-11-07 01:00 UTC
-OR-05,Oregon,OR,Dem win,Janelle Bynum,D,54.2,Patti Adair,R,43.5,10.7,99,yes,2026-11-07 01:00 UTC
-OR-06,Oregon,OR,Dem win,Andrea Salinas,D,58.3,David Russ,R,41.6,16.7,73.16,yes,2026-11-07 01:00 UTC
-PA-01,Pennsylvania,PA,Dem win,Bob Harvie,D,52.7,Brian Fitzpatrick,R,47.3,5.4,99,yes,2026-11-07 01:00 UTC
-PA-02,Pennsylvania,PA,Dem win,Brendan Boyle,D,80.8,Jessica Arriaga,R,19.2,61.6,52.03,yes,2026-11-07 01:00 UTC
-PA-03,Pennsylvania,PA,Dem win,Chris Rabb,D,93.6,Dennis Mahoney,Other,6.4,87.2,77.65,yes,2026-11-07 01:00 UTC
-PA-04,Pennsylvania,PA,Dem win,Madeleine Dean,D,67.1,Aurora Stuski,R,32.9,34.2,97.12,yes,2026-11-07 01:00 UTC
-PA-05,Pennsylvania,PA,Dem win,Mary Gay Scanlon,D,72.1,Nicholas Manganaro,R,27.9,44.2,83.65,yes,2026-11-07 01:00 UTC
-PA-06,Pennsylvania,PA,Dem win,Chrissy Houlahan,D,64.3,Marty Young,R,35.7,28.6,86.92,yes,2026-11-07 01:00 UTC
-PA-07,Pennsylvania,PA,Dem win,Bob Brooks,D,56.1,Ryan Mackenzie,R,43.9,12.2,82.22,yes,2026-11-07 01:00 UTC
-PA-08,Pennsylvania,PA,Dem win,Paige Cognetti,D,54.5,Rob Bresnahan,R,45.5,9.0,79.04,yes,2026-11-07 01:00 UTC
-PA-09,Pennsylvania,PA,Rep win,Dan Meuser,R,61.5,Rachel Wallace,D,38.5,23.0,74.89,yes,2026-11-07 01:00 UTC
-PA-10,Pennsylvania,PA,Dem win,Janelle Stelson,D,55.1,Scott Perry,R,44.9,10.2,88.36,yes,2026-11-07 01:00 UTC
-PA-11,Pennsylvania,PA,Rep win,Lloyd Smucker,R,55.5,Nancy Mannion,D,44.5,11.0,84.14,yes,2026-11-07 01:00 UTC
-PA-12,Pennsylvania,PA,Dem win,Summer Lee,D,65.4,James Hayes,R,34.6,30.8,83.63,yes,2026-11-07 01:00 UTC
-PA-13,Pennsylvania,PA,Rep win,John Joyce,R,67.5,Beth Farnham,D,32.5,35.0,78.07,yes,2026-11-07 01:00 UTC
-PA-14,Pennsylvania,PA,Rep win,Guy Reschenthaler,R,57.5,Alan Bradstock,D,42.5,15.0,77,yes,2026-11-07 01:00 UTC
-PA-15,Pennsylvania,PA,Rep win,Glenn Thompson,R,63.9,Ray Bilger,D,36.1,27.8,74.45,yes,2026-11-07 01:00 UTC
-PA-16,Pennsylvania,PA,Rep win,Mike Kelly,R,53.9,Justin Wagner,D,46.1,7.8,79.76,yes,2026-11-07 01:00 UTC
-PA-17,Pennsylvania,PA,Dem win,Chris Deluzio,D,62.8,Tony Guy,R,37.2,25.6,92.87,yes,2026-11-07 01:00 UTC
-RI-01,Rhode Island,RI,Dem win,Gabriel Amo,D,68.6,Kellie Keenan,R,27.5,41.1,77.42,yes,2026-11-07 01:00 UTC
-RI-02,Rhode Island,RI,Dem win,Seth Magaziner,D,61.9,Victor Mellor,R,37.8,24.1,90.74,yes,2026-11-07 01:00 UTC
-SC-01,South Carolina,SC,Dem win,Nancy Lacore,D,49.7,Jenny Costa Honeycutt,R,48.6,1.1,99,yes,2026-11-07 01:00 UTC
-SC-02,South Carolina,SC,Rep lead,Joe Wilson,R,49.8,Zyon Khalifa,D,48.8,1.0,99,no,2026-11-07 01:00 UTC
-SC-03,South Carolina,SC,Rep win,Sheri Biggs,R,63.7,Eunice Lehmacher,D,34.4,29.3,94.74,yes,2026-11-07 01:00 UTC
-SC-04,South Carolina,SC,Rep win,William Timmons,R,51.7,Courtney McClain,D,45.7,6.0,98.05,yes,2026-11-07 01:00 UTC
-SC-05,South Carolina,SC,Rep win,Wes Climer,R,52.8,Mallory Dittmer,D,47.1,5.7,98.95,yes,2026-11-07 01:00 UTC
-SC-06,South Carolina,SC,Dem win,Jim Clyburn,D,69.4,John Peterson,R,30.5,38.9,88.81,yes,2026-11-07 01:00 UTC
-SC-07,South Carolina,SC,Rep win,Russell Fry,R,56.7,John Vincent,D,43.2,13.5,99,yes,2026-11-07 01:00 UTC
-SD-AL,South Dakota,SD,Rep win,Marty Jackley,R,64.0,Nikki Gronli,D,36.0,28.0,79.27,yes,2026-11-07 01:00 UTC
-TN-01,Tennessee,TN,Rep win,Diana Harshbarger,R,63.8,Kristi Burke,D,33.1,30.7,80.3,yes,2026-11-07 01:00 UTC
-TN-02,Tennessee,TN,Rep win,Tim Burchett,R,57.7,Michaela Barnett,D,41.2,16.5,97.19,yes,2026-11-07 01:00 UTC
-TN-03,Tennessee,TN,Rep win,Chuck Fleischmann,R,57.6,Anna Golladay,D,40.2,17.4,91.44,yes,2026-11-07 01:00 UTC
-TN-04,Tennessee,TN,Dem lead,Victoria Broderick,D,48.9,Scott DesJarlais,R,48.7,0.2,75.97,no,2026-11-07 01:00 UTC
-TN-05,Tennessee,TN,Rep win,Charlie Hatcher,R,51.7,Chaz Molder,D,46.7,5.0,83.05,yes,2026-11-07 01:00 UTC
-TN-06,Tennessee,TN,Rep win,Johnny Garrett,R,50.8,Mike Croley,D,47.5,3.3,92.48,yes,2026-11-07 01:00 UTC
-TN-07,Tennessee,TN,Rep win,Matt Van Epps,R,50.3,Darden Copeland,D,48.1,2.2,93.52,yes,2026-11-07 01:00 UTC
-TN-08,Tennessee,TN,Rep win,David Kustoff,R,51.6,Heidi Kuhn,D,46.4,5.2,85.83,yes,2026-11-07 01:00 UTC
-TN-09,Tennessee,TN,Rep win,Brent Taylor,R,49.6,Justin Pearson,D,48.5,1.1,87.57,yes,2026-11-07 01:00 UTC
-TX-01,Texas,TX,Rep win,Nathaniel Moran,R,69.0,Yolanda Prince,D,31.0,38.0,93.96,yes,2026-11-07 01:00 UTC
-TX-02,Texas,TX,Rep win,Steve Toth,R,51.0,Shaun Finnie,D,49.0,2.0,99,yes,2026-11-07 01:00 UTC
-TX-03,Texas,TX,Rep win,Keith Self,R,52.7,Evan Hunt,D,47.3,5.4,99,yes,2026-11-07 01:00 UTC
-TX-04,Texas,TX,Rep win,Pat Fallon,R,56.1,Jason Pearce,D,43.9,12.2,99,yes,2026-11-07 01:00 UTC
-TX-05,Texas,TX,Rep win,Lance Gooden,R,51.5,Chelsey Hockett,D,48.5,3.0,94.67,yes,2026-11-07 01:00 UTC
-TX-06,Texas,TX,Rep win,Jake Ellzey,R,52.2,Danny Minton,D,47.8,4.4,99,yes,2026-11-07 01:00 UTC
-TX-07,Texas,TX,Dem win,Lizzie Fletcher,D,70.8,Alexander Hale,R,27.5,43.3,90.9,yes,2026-11-07 01:00 UTC
-TX-08,Texas,TX,Rep win,Jessica Steinmann,R,53.2,Laura Jones,D,46.8,6.4,98.7,yes,2026-11-07 01:00 UTC
-TX-09,Texas,TX,Dem win,Leticia Gutierrez,D,57.6,Alex Mealer,R,42.4,15.2,63.91,yes,2026-11-07 01:00 UTC
-TX-10,Texas,TX,Rep win,Chris Gober,R,53.8,Caitlin Rourk,D,46.2,7.6,99,yes,2026-11-07 01:00 UTC
-TX-11,Texas,TX,Rep win,August Pfluger,R,59.5,Claire Reynolds,D,40.5,19.0,85.33,yes,2026-11-07 01:00 UTC
-TX-12,Texas,TX,Rep win,Craig Goldman,R,53.1,Angela Rodriguez Prilliman,D,46.9,6.2,99,yes,2026-11-07 01:00 UTC
-TX-13,Texas,TX,Rep win,Ronny Jackson,R,65.3,Mark Nair,D,34.7,30.6,86.93,yes,2026-11-07 01:00 UTC
-TX-14,Texas,TX,Rep win,Randy Weber,R,54.0,Thurman Bartie,D,46.0,8.0,99,yes,2026-11-07 01:00 UTC
-TX-15,Texas,TX,Dem win,Bobby Pulido,D,62.3,Monica De La Cruz,R,37.7,24.6,76.15,yes,2026-11-07 01:00 UTC
-TX-16,Texas,TX,Dem win,Veronica Escobar,D,70.8,Adam Bauman,R,29.2,41.6,78.22,yes,2026-11-07 01:00 UTC
-TX-17,Texas,TX,Rep win,Pete Sessions,R,53.6,Casey Shepard,D,46.4,7.2,99,yes,2026-11-07 01:00 UTC
-TX-18,Texas,TX,Dem win,Christian Menefee,D,86.0,Ronald Whitfield,R,14.0,72.0,95.9,yes,2026-11-07 01:00 UTC
-TX-19,Texas,TX,Rep win,Tom Sell,R,69.5,Kyle Rable,D,30.5,39.0,78.7,yes,2026-11-07 01:00 UTC
-TX-20,Texas,TX,Dem win,Joaquin Castro,D,77.6,Edgardo Baez,R,22.4,55.2,77.96,yes,2026-11-07 01:00 UTC
-TX-21,Texas,TX,Rep win,Mark Teixeira,R,54.5,Kristin Hook,D,45.5,9.0,99,yes,2026-11-07 01:00 UTC
-TX-22,Texas,TX,Rep win,Trever Nehls,R,51.8,Marquette Greene-Scott,D,48.2,3.6,99,yes,2026-11-07 01:00 UTC
-TX-23,Texas,TX,Dem win,Katy Padilla Stout,D,52.1,Brandon Herrera,R,44.0,8.1,99,yes,2026-11-07 01:00 UTC
-TX-24,Texas,TX,Rep win,Beth Van Duyne,R,53.4,Kevin Burge,D,46.6,6.8,99,yes,2026-11-07 01:00 UTC
-TX-25,Texas,TX,Rep win,Roger Williams,R,53.7,Dione Sims,D,46.3,7.4,98.92,yes,2026-11-07 01:00 UTC
-TX-26,Texas,TX,Rep win,Brandon Gill,R,54.5,Steven Shook,D,44.2,10.3,99,yes,2026-11-07 01:00 UTC
-TX-27,Texas,TX,Rep win,Michael Cloud,R,51.1,Tanya Lloyd,D,48.8,2.3,99,yes,2026-11-07 01:00 UTC
-TX-28,Texas,TX,Dem win,Henry Cuellar,D,65.8,Tano Tijerina,R,29.6,36.2,65.59,yes,2026-11-07 01:00 UTC
-TX-29,Texas,TX,Dem win,Sylvia Garcia,D,79.9,Martha Fierro,R,20.1,59.8,68.12,yes,2026-11-07 01:00 UTC
-TX-30,Texas,TX,Dem win,Frederick Haynes III,D,82.6,Everett Jackson,R,17.4,65.2,94.91,yes,2026-11-07 01:00 UTC
-TX-31,Texas,TX,Rep win,John Carter,R,53.8,Justin Early,D,44.8,9.0,99,yes,2026-11-07 01:00 UTC
-TX-32,Texas,TX,Rep win,Jace Yarbrough,R,51.5,Dan Barrios,D,48.5,3.0,99,yes,2026-11-07 01:00 UTC
-TX-33,Texas,TX,Dem win,Colin Allred,D,78.4,Patrick Gillespie,R,21.4,57.0,78.54,yes,2026-11-07 01:00 UTC
-TX-34,Texas,TX,Dem win,Vicente Gonzalez,D,55.6,Eric Flores,R,39.8,15.8,77.17,yes,2026-11-07 01:00 UTC
-TX-35,Texas,TX,Dem win,Johnny Garcia,D,55.4,Carlos De La Cruz,R,44.6,10.8,96.06,yes,2026-11-07 01:00 UTC
-TX-36,Texas,TX,Rep win,Brian Babin,R,53.6,Rhonda Hart,D,46.4,7.2,95.88,yes,2026-11-07 01:00 UTC
-TX-37,Texas,TX,Dem win,Greg Casar,D,83.8,Lauren Peña,R,16.2,67.6,99,yes,2026-11-07 01:00 UTC
-TX-38,Texas,TX,Rep win,Jon Bonck,R,51.5,Melissa McDonough,D,47.3,4.2,99,yes,2026-11-07 01:00 UTC
-UT-01,Utah,UT,Dem win,Ben McAdams,D,71.6,Riley Owen,R,25.0,46.6,82.07,yes,2026-11-07 01:00 UTC
-UT-02,Utah,UT,Rep win,Blake Moore,R,50.1,Peter Crosby,D,42.2,7.9,99,yes,2026-11-07 01:00 UTC
-UT-03,Utah,UT,Rep win,Celeste Maloy,R,57.7,Kent Udell,D,34.9,22.8,85.44,yes,2026-11-07 01:00 UTC
-UT-04,Utah,UT,Rep win,Mike Kennedy,R,53.2,Jonny Larsen,D,39.8,13.4,78.52,yes,2026-11-07 01:00 UTC
-VA-01,Virginia,VA,Dem win,Shannon Taylor,D,51.2,Rob Wittman,R,48.6,2.6,99,yes,2026-11-07 01:00 UTC
-VA-02,Virginia,VA,Dem win,Elaine Luria,D,53.0,Jen Kiggans,R,44.5,8.5,99,yes,2026-11-07 01:00 UTC
-VA-03,Virginia,VA,Dem win,Bobby Scott,D,72.6,Edwin Rivera,R,24.0,48.6,73.97,yes,2026-11-07 01:00 UTC
-VA-04,Virginia,VA,Dem win,Jennifer McClellan,D,72.2,Robert Murray,R,26.2,46.0,92.49,yes,2026-11-07 01:00 UTC
-VA-05,Virginia,VA,Rep win,John McGuire,R,50.1,Tom Perriello,D,48.1,2.0,99,yes,2026-11-07 01:00 UTC
-VA-06,Virginia,VA,Rep win,Ben Cline,R,55.5,Beth Macy,D,44.3,11.2,93.46,yes,2026-11-07 01:00 UTC
-VA-07,Virginia,VA,Dem win,Eugene Vindman,D,59.8,Doug Ollivant,R,37.7,22.1,95.45,yes,2026-11-07 01:00 UTC
-VA-08,Virginia,VA,Dem win,Don Beyer,D,79.4,Tony Sabio,R,17.9,61.5,94.24,yes,2026-11-07 01:00 UTC
-VA-09,Virginia,VA,Rep win,Morgan Griffith,R,65.9,Joy Powers,D,33.9,32.0,86.35,yes,2026-11-07 01:00 UTC
-VA-10,Virginia,VA,Dem win,Suhas Subramanyam,D,61.4,Dave Beckwith,R,36.6,24.8,97.85,yes,2026-11-07 01:00 UTC
-VA-11,Virginia,VA,Dem win,James Walkinshaw,D,74.1,Arthur Purves,R,24.4,49.7,99,yes,2026-11-07 01:00 UTC
-VT-AL,Vermont,VT,Dem win,Becca Balint,D,65.2,Gerald Malloy,R,30.9,34.3,92.73,yes,2026-11-07 01:00 UTC
-WA-01,Washington,WA,Dem win,Suzan DelBene,D,66.8,Mary Silva,R,32.9,33.9,95.27,yes,2026-11-07 01:00 UTC
-WA-02,Washington,WA,Dem win,Rick Larsen,D,66.9,Edwin H. Feller,R,32.7,34.2,99,yes,2026-11-07 01:00 UTC
-WA-03,Washington,WA,Dem win,Marie Gluesenkamp Perez,D,53.8,John Braun,R,45.3,8.5,99,yes,2026-11-07 01:00 UTC
-WA-04,Washington,WA,Rep win,Amanda McKinney,R,54.2,John Duresky,D,45.6,8.6,78.24,yes,2026-11-07 01:00 UTC
-WA-05,Washington,WA,Rep lead,Michael Baumgartner,R,51.4,Carmela Conroy,D,48.2,3.2,87.47,no,2026-11-07 01:00 UTC
-WA-06,Washington,WA,Dem win,Emily Randall,D,63.9,Teresa Fox,R,35.9,28.0,99,yes,2026-11-07 01:00 UTC
-WA-07,Washington,WA,Dem win,Pramila Jayapal,D,87.4,Nirav Sheth,R,12.2,75.2,99,yes,2026-11-07 01:00 UTC
-WA-08,Washington,WA,Dem win,Kim Schrier,D,56.2,Spencer Meline,R,43.5,12.7,99,yes,2026-11-07 01:00 UTC
-WA-09,Washington,WA,Dem win,Adam Smith,D,75.2,Doug Basler,R,24.1,51.1,73.93,yes,2026-11-07 01:00 UTC
-WA-10,Washington,WA,Dem win,Marilyn Strickland,D,63.5,Chris D. Chung,R,35.9,27.6,85.14,yes,2026-11-07 01:00 UTC
-WI-01,Wisconsin,WI,Dem win,Mitchell Berman,D,52.0,Bryan Steil,R,48.0,4.0,81.35,yes,2026-11-07 01:00 UTC
-WI-02,Wisconsin,WI,Dem win,Mark Pocan,D,100.0,,,,,84.53,yes,2026-11-07 01:00 UTC
-WI-03,Wisconsin,WI,Dem win,Rebecca Cooke,D,52.4,Derrick Van Orden,R,45.8,6.6,87.64,yes,2026-11-07 01:00 UTC
-WI-04,Wisconsin,WI,Dem win,Gwen Moore,D,80.0,Tim Rogers,R,17.5,62.5,70.75,yes,2026-11-07 01:00 UTC
-WI-05,Wisconsin,WI,Rep win,Scott Fitzgerald,R,59.0,Andrew Beck,D,41.0,18.0,99,yes,2026-11-07 01:00 UTC
-WI-06,Wisconsin,WI,Rep win,Glenn Grothman,R,52.8,Brad Smith,D,43.3,9.5,86.75,yes,2026-11-07 01:00 UTC
-WI-07,Wisconsin,WI,Rep win,Michael Alfonso,R,56.9,Fred Clark,D,43.1,13.8,90.61,yes,2026-11-07 01:00 UTC
-WI-08,Wisconsin,WI,Rep win,Tony Wied,R,53.9,Rick Crosson,D,46.1,7.8,87.44,yes,2026-11-07 01:00 UTC
-WV-01,West Virginia,WV,Rep win,Carol Miller,R,57.1,Vince George,D,39.6,17.5,68.3,yes,2026-11-07 01:00 UTC
-WV-02,West Virginia,WV,Rep win,Riley Moore,R,59.4,Ace Parsi,D,40.6,18.8,79.29,yes,2026-11-07 01:00 UTC
-WY-AL,Wyoming,WY,Rep win,Chuck Gray,R,54.5,Lisa F. Kinney,D,33.7,20.8,84.04,yes,2026-11-07 01:00 UTC
+AK-AL,Alaska,AK,Rep lead,Nick Begich III,R,49.6,Bill Hill,Other,40.4,9.2,73.3,no,2026-11-07 07:01 UTC
+AL-01,Alabama,AL,Rep win,Jerry Carl,R,59.1,Clyde Jones,D,40.9,18.2,94.41,yes,2026-11-07 07:01 UTC
+AL-02,Alabama,AL,Dem win,Shomari Figures,D,53.8,Rhett Marques,R,46.2,7.6,93.53,yes,2026-11-07 07:01 UTC
+AL-03,Alabama,AL,Rep win,Mike Rogers,R,64.0,Lee McInnis,D,36.0,28.0,90.58,yes,2026-11-07 07:01 UTC
+AL-04,Alabama,AL,Rep win,Robert Aderholt,R,74.9,Amanda Pusczek,D,25.1,49.8,88.1,yes,2026-11-07 07:01 UTC
+AL-05,Alabama,AL,Rep win,Dale Strong,R,53.2,Andrew Sneed,D,46.8,6.4,99,yes,2026-11-07 07:01 UTC
+AL-06,Alabama,AL,Rep win,Gary Palmer,R,57.5,Maurice Mercer,D,42.5,15.0,99,yes,2026-11-07 07:01 UTC
+AL-07,Alabama,AL,Dem win,Terri Sewell,D,69.4,Ammie Akin,R,30.6,38.8,99,yes,2026-11-07 07:01 UTC
+AR-01,Arkansas,AR,Rep win,Rick Crawford,R,65.5,Terri Yarbrough Green,D,31.0,34.5,78.4,yes,2026-11-07 07:01 UTC
+AR-02,Arkansas,AR,Rep win,French Hill,R,50.9,Chris Jones,D,49.1,1.8,99,yes,2026-11-07 07:01 UTC
+AR-03,Arkansas,AR,Rep win,Steve Womack,R,54.9,Robb Ryerse,D,41.5,13.4,94.28,yes,2026-11-07 07:01 UTC
+AR-04,Arkansas,AR,Rep win,Bruce Westerman,R,65.5,James Russell,D,34.5,31.0,81.11,yes,2026-11-07 07:01 UTC
+AZ-01,Arizona,AZ,Dem win,Amish Shah,D,52.3,Jay Feely,R,45.4,6.9,99,yes,2026-11-07 07:01 UTC
+AZ-02,Arizona,AZ,Rep lead,Eli Crane,R,49.7,Jonathan Nez,D,48.5,1.2,93.15,no,2026-11-07 07:01 UTC
+AZ-03,Arizona,AZ,Dem win,Yassamin Ansari,D,86.6,Alan Aversa,Other,6.0,80.6,41.27,yes,2026-11-07 07:01 UTC
+AZ-04,Arizona,AZ,Dem win,Greg Stanton,D,62.3,Zuhdi Jasser,R,35.2,27.1,71.28,yes,2026-11-07 07:01 UTC
+AZ-05,Arizona,AZ,Rep win,Mark Lamb,R,51.6,Elizabeth Lee,D,48.2,3.4,92.08,yes,2026-11-07 07:01 UTC
+AZ-06,Arizona,AZ,Dem win,JoAnna Mendoza,D,52.9,Juan Ciscomani,R,44.9,8.0,99,yes,2026-11-07 07:01 UTC
+AZ-07,Arizona,AZ,Dem win,Adelita Grijalva,D,71.9,Daniel Butierez,R,27.9,44.0,54.95,yes,2026-11-07 07:01 UTC
+AZ-08,Arizona,AZ,Rep win,Abraham Hamadeh,R,51.1,Bernadette Greene-Placentia,D,48.7,2.4,81.26,yes,2026-11-07 07:01 UTC
+AZ-09,Arizona,AZ,Rep win,Paul Gosar,R,57.3,Danielle Sterbinsky,D,42.6,14.7,80.31,yes,2026-11-07 07:01 UTC
+CA-01,California,CA,Dem win,Mike McGuire,D,55.2,James Gallagher,R,44.8,10.4,68.7,yes,2026-11-07 07:01 UTC
+CA-02,California,CA,Dem win,Jared Huffman,D,65.0,Robin Littau,R,35.0,30.0,69.9,yes,2026-11-07 07:01 UTC
+CA-03,California,CA,Dem win,Ami Bera,D,58.0,Robb Tucker,R,42.0,16.0,81,yes,2026-11-07 07:01 UTC
+CA-04,California,CA,Dem lead,Eric Jones,D,51.4,Mike Thompson,D,48.6,2.8,53.87,no,2026-11-07 07:01 UTC
+CA-05,California,CA,Rep win,Tom McClintock,R,56.4,Michael Masuda,D,43.6,12.8,88.59,yes,2026-11-07 07:01 UTC
+CA-06,California,CA,Dem win,Richard Pan,D,58.6,Kevin Kiley,I,41.4,17.2,72.26,yes,2026-11-07 07:01 UTC
+CA-07,California,CA,Dem lead,Doris Matsui,D,55.7,Mai Vang,D,44.3,11.4,68.37,no,2026-11-07 07:01 UTC
+CA-08,California,CA,Dem win,John Garamendi,D,72.7,Rudy Recile,R,27.3,45.4,84.83,yes,2026-11-07 07:01 UTC
+CA-09,California,CA,Dem win,Josh Harder,D,66.9,John McBride,R,33.1,33.8,65.24,yes,2026-11-07 07:01 UTC
+CA-10,California,CA,Dem win,Mark DeSaulnier,D,69.7,Jeff Frese,R,30.3,39.4,96.85,yes,2026-11-07 07:01 UTC
+CA-11,California,CA,Dem win,Scott Wiener,D,54.0,Connie Chan,D,46.0,8.0,94.33,yes,2026-11-07 07:01 UTC
+CA-12,California,CA,Dem win,Lateefah Simon,D,80.6,Jamie Joyce,D,19.4,61.2,69.31,yes,2026-11-07 07:01 UTC
+CA-13,California,CA,Dem win,Adam Gray,D,61.7,Kevin Lincoln,R,38.3,23.4,45.06,yes,2026-11-07 07:01 UTC
+CA-14,California,CA,Dem win,Aisha Wahab,D,57.5,Melissa Hernandez,D,42.5,15.0,60.37,yes,2026-11-07 07:01 UTC
+CA-15,California,CA,Dem win,Kevin Mullin,D,78.5,Charles Hoelter,R,21.5,57.0,60.34,yes,2026-11-07 07:01 UTC
+CA-16,California,CA,Dem win,Sam Liccardo,D,76.8,Peter Sundin Soulé,R,23.2,53.6,68.25,yes,2026-11-07 07:01 UTC
+CA-17,California,CA,Dem win,Ro Khanna,D,71.2,Ritesh Tandon,R,28.8,42.4,51.54,yes,2026-11-07 07:01 UTC
+CA-18,California,CA,Dem win,Zoe Lofgren,D,72.1,Shane Lewis,R,27.9,44.2,49.69,yes,2026-11-07 07:01 UTC
+CA-19,California,CA,Dem win,Jimmy Panetta,D,72.3,Peter Verbica,R,27.7,44.6,84.17,yes,2026-11-07 07:01 UTC
+CA-20,California,CA,Rep win,Vince Fong,R,61.9,Sandra Van Scotter,D,38.1,23.8,69.77,yes,2026-11-07 07:01 UTC
+CA-21,California,CA,Dem win,Jim Costa,D,62.7,Kyle Kirkland,R,37.3,25.4,39.27,yes,2026-11-07 07:01 UTC
+CA-22,California,CA,Dem win,Randy Villegas,D,66.6,David Valadao,R,33.4,33.2,37.07,yes,2026-11-07 07:01 UTC
+CA-23,California,CA,Rep lead,Jay Obernolte,R,51.9,Tessa Lynn Hodge,D,48.1,3.8,70.11,no,2026-11-07 07:01 UTC
+CA-24,California,CA,Dem win,Salud Carbajal,D,66.0,Bob Smith,R,34.0,32.0,72.69,yes,2026-11-07 07:01 UTC
+CA-25,California,CA,Dem win,Raul Ruiz,D,65.0,Joe Males,R,35.0,30.0,55.65,yes,2026-11-07 07:01 UTC
+CA-26,California,CA,Dem win,Jacqui Irwin,D,62.0,Sam Gallucci,R,38.0,24.0,80.51,yes,2026-11-07 07:01 UTC
+CA-27,California,CA,Dem win,George Whitesides,D,63.4,Jason Gibbs,R,36.6,26.8,81.14,yes,2026-11-07 07:01 UTC
+CA-28,California,CA,Dem win,Judy Chu,D,69.6,April Verlato,R,30.4,39.2,86.03,yes,2026-11-07 07:01 UTC
+CA-29,California,CA,Dem win,Luz Rivas,D,58.4,Angélica María Dueñas,D,41.6,16.8,56.54,yes,2026-11-07 07:01 UTC
+CA-30,California,CA,Dem win,Laura Friedman,D,76.9,Scott Meyers,R,23.1,53.8,85.49,yes,2026-11-07 07:01 UTC
+CA-31,California,CA,Dem win,Gil Cisneros,D,65.3,Eric Ching,R,34.7,30.6,79.36,yes,2026-11-07 07:01 UTC
+CA-32,California,CA,Dem win,Brad Sherman,D,67.2,Larry Thompson,R,32.8,34.4,89.16,yes,2026-11-07 07:01 UTC
+CA-33,California,CA,Dem win,Pete Aguilar,D,67.9,Stephanie Vargas,R,32.1,35.8,60.31,yes,2026-11-07 07:01 UTC
+CA-34,California,CA,Dem win,Angela Gonzales-Torres,D,61.0,Jimmy Gomez,D,39.0,22.0,54.99,yes,2026-11-07 07:01 UTC
+CA-35,California,CA,Dem win,Norma Torres,D,66.0,Mike Cargile,R,34.0,32.0,55.84,yes,2026-11-07 07:01 UTC
+CA-36,California,CA,Dem win,Ted Lieu,D,72.3,Houston Brignano,R,27.7,44.6,99,yes,2026-11-07 07:01 UTC
+CA-37,California,CA,Dem win,Sydney Kamlager-Dove,D,61.5,Samantha Mota,D,38.5,23.0,57.69,yes,2026-11-07 07:01 UTC
+CA-38,California,CA,Dem win,Hilda Solis,D,66.8,Pedro Antonio Casas,R,33.2,33.6,72.92,yes,2026-11-07 07:01 UTC
+CA-39,California,CA,Dem win,Mark Takano,D,66.6,Steve Manos,R,33.4,33.2,41.08,yes,2026-11-07 07:01 UTC
+CA-40,California,CA,Rep lead,Ken Calvert,R,53.9,Young Kim,R,46.1,7.8,65.68,no,2026-11-07 07:01 UTC
+CA-41,California,CA,Dem win,Linda Sánchez,D,66.9,Mitch Clemmons,R,33.1,33.8,84.95,yes,2026-11-07 07:01 UTC
+CA-42,California,CA,Dem win,Robert Garcia,D,60.7,Brian Burley,R,39.3,21.4,92.88,yes,2026-11-07 07:01 UTC
+CA-43,California,CA,Dem win,Maxine Waters,D,82.4,Cristian Morales,R,17.6,64.8,59.55,yes,2026-11-07 07:01 UTC
+CA-44,California,CA,Dem win,Nanette Barragán,D,81.1,Genevieve Angel,R,18.9,62.2,58.74,yes,2026-11-07 07:01 UTC
+CA-45,California,CA,Dem win,Derek Tran,D,59.9,Chuong Vo,R,40.1,19.8,80.61,yes,2026-11-07 07:01 UTC
+CA-46,California,CA,Dem win,Lou Correa,D,69.6,David Pan,R,30.4,39.2,57.79,yes,2026-11-07 07:01 UTC
+CA-47,California,CA,Dem win,Dave Min,D,57.5,Jenny Le Roux,R,42.5,15.0,92.63,yes,2026-11-07 07:01 UTC
+CA-48,California,CA,Dem win,Marni von Wilpert,D,59.4,Jim Desmond,R,40.6,18.8,74.35,yes,2026-11-07 07:01 UTC
+CA-49,California,CA,Dem win,Mike Levin,D,57.8,Armen Kurdian,R,42.2,15.6,93.72,yes,2026-11-07 07:01 UTC
+CA-50,California,CA,Dem win,Scott Peters,D,61.8,Steve Cohen,R,38.2,23.6,86.14,yes,2026-11-07 07:01 UTC
+CA-51,California,CA,Dem win,Sara Jacobs,D,64.0,Ricardo Cabrera,R,36.0,28.0,78.4,yes,2026-11-07 07:01 UTC
+CA-52,California,CA,Dem win,Juan Vargas,D,69.7,Jeff Belle,R,30.3,39.4,59.15,yes,2026-11-07 07:01 UTC
+CO-01,Colorado,CO,Dem win,Melat Kiros,D,78.3,Christy Peterson,R,14.1,64.2,85.63,yes,2026-11-07 07:01 UTC
+CO-02,Colorado,CO,Dem win,Joe Neguse,D,74.5,Kelley Anne Dennison,R,23.7,50.8,99,yes,2026-11-07 07:01 UTC
+CO-03,Colorado,CO,Rep win,Jeff Hurd,R,49.3,Dwayne L. Romero,D,47.4,1.9,93.41,yes,2026-11-07 07:01 UTC
+CO-04,Colorado,CO,Dem lead,Eileen Laubacher,D,48.8,Lauren Boebert,R,47.9,0.9,99,no,2026-11-07 07:01 UTC
+CO-05,Colorado,CO,Dem win,Jessica Killin,D,50.5,Jeff Crank,R,45.8,4.7,86.63,yes,2026-11-07 07:01 UTC
+CO-06,Colorado,CO,Dem win,Jason Crow,D,65.7,Jason Clark,R,31.2,34.5,81.02,yes,2026-11-07 07:01 UTC
+CO-07,Colorado,CO,Dem win,Brittany Pettersen,D,60.7,Tim Bennett,R,36.1,24.6,99,yes,2026-11-07 07:01 UTC
+CO-08,Colorado,CO,Dem win,Manny Rutinel,D,55.4,Gabe Evans,R,40.7,14.7,80.61,yes,2026-11-07 07:01 UTC
+CT-01,Connecticut,CT,Dem win,Luke Bronin,D,67.3,Amy Chai,R,31.0,36.3,86.34,yes,2026-11-07 07:01 UTC
+CT-02,Connecticut,CT,Dem win,Joe Courtney,D,62.4,George Austin,R,37.6,24.8,99,yes,2026-11-07 07:01 UTC
+CT-03,Connecticut,CT,Dem win,Rosa DeLauro,D,61.3,Christopher Lancia,R,35.5,25.8,85.27,yes,2026-11-07 07:01 UTC
+CT-04,Connecticut,CT,Dem win,Jim Himes,D,65.6,Michael Goldstein,R,32.5,33.1,81.82,yes,2026-11-07 07:01 UTC
+CT-05,Connecticut,CT,Dem win,Jahana Hayes,D,57.8,Chris Shea,R,42.1,15.7,88.01,yes,2026-11-07 07:01 UTC
+DE-AL,Delaware,DE,Dem win,Sarah McBride,D,64.3,"Joseph ""Dr. Joe"" Arminio",R,35.7,28.6,90.47,yes,2026-11-07 07:01 UTC
+FL-01,Florida,FL,Rep win,Jimmy Patronis,R,62.6,Gay Valimont,D,35.6,27.0,83.74,yes,2026-11-07 07:01 UTC
+FL-02,Florida,FL,Rep win,Austin Rogers,R,52.1,Amanda Green,D,47.9,4.2,94.68,yes,2026-11-07 07:01 UTC
+FL-03,Florida,FL,Rep win,Kat Cammack,R,55.1,Seth Harp,D,43.0,12.1,91.14,yes,2026-11-07 07:01 UTC
+FL-04,Florida,FL,Rep win,Aaron Bean,R,50.2,LaShonda Holloway,D,48.1,2.1,93.95,yes,2026-11-07 07:01 UTC
+FL-05,Florida,FL,Rep win,John Rutherford,R,56.4,Rachel Grage,D,43.6,12.8,99,yes,2026-11-07 07:01 UTC
+FL-06,Florida,FL,Rep win,Randy Fine,R,58.9,Eric Yonce,D,39.9,19.0,98.08,yes,2026-11-07 07:01 UTC
+FL-07,Florida,FL,Rep lead,Ryan Elijah,R,49.7,Bale Dalton,D,49.2,0.5,99,no,2026-11-07 07:01 UTC
+FL-08,Florida,FL,Rep win,Mike Haridopolos,R,53.2,Jennifer Jenkins,D,46.8,6.4,98.46,yes,2026-11-07 07:01 UTC
+FL-09,Florida,FL,Dem lead,Darren Soto,D,50.3,Dan Green,R,49.7,0.6,87.42,no,2026-11-07 07:01 UTC
+FL-10,Florida,FL,Dem win,Maxwell Frost,D,,,,,,0,yes,2026-11-07 07:01 UTC
+FL-11,Florida,FL,Rep win,Joe Strada,R,52.9,James Pericola,D,46.0,6.9,99,yes,2026-11-07 07:01 UTC
+FL-12,Florida,FL,Rep win,Gus Bilirakis,R,52.7,Kimberly Overman,D,45.9,6.8,88.34,yes,2026-11-07 07:01 UTC
+FL-13,Florida,FL,Rep win,Anna Paulina Luna,R,49.5,Leela Gray,D,48.7,0.8,97.45,yes,2026-11-07 07:01 UTC
+FL-14,Florida,FL,Dem win,Kathy Castor,D,51.2,Mike Beltran,R,45.9,5.3,93.98,yes,2026-11-07 07:01 UTC
+FL-15,Florida,FL,Rep win,Laurel Lee,R,54.3,Robert People,D,45.7,8.6,91.76,yes,2026-11-07 07:01 UTC
+FL-16,Florida,FL,Rep win,Sydney Gruters,R,51.2,Kelly Kirschner,D,47.0,4.2,99,yes,2026-11-07 07:01 UTC
+FL-17,Florida,FL,Rep win,Greg Steube,R,58.5,Matthew Montavon,D,40.1,18.4,99,yes,2026-11-07 07:01 UTC
+FL-18,Florida,FL,Rep win,Scott Franklin,R,50.4,Curtis Gibson,D,46.7,3.7,84.04,yes,2026-11-07 07:01 UTC
+FL-19,Florida,FL,Rep win,Jim Schwartzel,R,61.1,Victor Arias,D,37.6,23.5,96.26,yes,2026-11-07 07:01 UTC
+FL-20,Florida,FL,Dem win,Debbie Wasserman Schultz,D,74.4,Brent Andersen,R,21.7,52.7,89.46,yes,2026-11-07 07:01 UTC
+FL-21,Florida,FL,Rep win,Brian Mast,R,53.9,James Martin,D,44.7,9.2,99,yes,2026-11-07 07:01 UTC
+FL-22,Florida,FL,Dem win,Pia Dandiya,D,51.9,Casey Askar,R,48.1,3.8,92.45,yes,2026-11-07 07:01 UTC
+FL-23,Florida,FL,Dem win,Lois Frankel,D,65.6,Deborah Adeimy,R,34.4,31.2,87.13,yes,2026-11-07 07:01 UTC
+FL-24,Florida,FL,Dem win,Oliver Gilbert,D,80.7,Mayonna Te Brown,R,19.3,61.4,74.94,yes,2026-11-07 07:01 UTC
+FL-25,Florida,FL,Dem win,Jared Moskowitz,D,51.3,Scott Singer,R,46.6,4.7,88.23,yes,2026-11-07 07:01 UTC
+FL-26,Florida,FL,Rep lead,Mario Diaz-Balart,R,49.9,Nicole Locklin,D,49.1,0.8,70.34,no,2026-11-07 07:01 UTC
+FL-27,Florida,FL,Rep lead,Maria Elvira Salazar,R,50.2,Eliott Rodriguez,D,49.8,0.4,76.75,no,2026-11-07 07:01 UTC
+FL-28,Florida,FL,Rep win,Carlos Giménez,R,52.9,Phil Ehr,D,45.6,7.3,70.95,yes,2026-11-07 07:01 UTC
+GA-01,Georgia,GA,Rep win,Jim Kingston,R,51.4,Amanda Hollowell,D,48.6,2.8,81.37,yes,2026-11-07 07:01 UTC
+GA-02,Georgia,GA,Dem win,Sanford Bishop,D,60.8,Matt Day,R,39.2,21.6,72.81,yes,2026-11-07 07:01 UTC
+GA-03,Georgia,GA,Rep win,Brian Jack,R,58.6,Maura Keller,D,41.4,17.2,95.95,yes,2026-11-07 07:01 UTC
+GA-04,Georgia,GA,Dem win,Hank Johnson,D,82.6,James Duffie,R,17.4,65.2,78.55,yes,2026-11-07 07:01 UTC
+GA-05,Georgia,GA,Dem win,Nikema Williams,D,90.2,John Salvesen,R,9.8,80.4,91.06,yes,2026-11-07 07:01 UTC
+GA-06,Georgia,GA,Dem win,Lucy McBath,D,80.9,Kevin Martin,R,19.1,61.8,97.49,yes,2026-11-07 07:01 UTC
+GA-07,Georgia,GA,Rep win,Rich McCormick,R,56.2,Anthony Kozycki,D,43.8,12.4,99,yes,2026-11-07 07:01 UTC
+GA-08,Georgia,GA,Rep win,Austin Scott,R,60.4,Kelly Esti,D,39.6,20.8,79.05,yes,2026-11-07 07:01 UTC
+GA-09,Georgia,GA,Rep win,Andrew Clyde,R,59.3,Caitlyn Gegen,D,40.7,18.6,92.01,yes,2026-11-07 07:01 UTC
+GA-10,Georgia,GA,Rep win,Houston Gaines,R,53.6,Pamela DeLancy,D,46.4,7.2,97.01,yes,2026-11-07 07:01 UTC
+GA-11,Georgia,GA,Rep win,John Cowan,R,55.4,Chris Harden,D,44.6,10.8,98.13,yes,2026-11-07 07:01 UTC
+GA-12,Georgia,GA,Rep win,Rick Allen,R,52.1,Ceretta Smith,D,47.9,4.2,80.69,yes,2026-11-07 07:01 UTC
+GA-13,Georgia,GA,Dem win,Jasmine Clark,D,79.8,Jonathan Chavez,R,20.2,59.6,92.78,yes,2026-11-07 07:01 UTC
+GA-14,Georgia,GA,Rep win,Clay Fuller,R,58.8,Shawn Harris,D,41.2,17.6,85.6,yes,2026-11-07 07:01 UTC
+HI-01,Hawaii,HI,Dem win,Ed Case,D,71.8,Adriel Lam,R,22.9,48.9,75.18,yes,2026-11-07 07:01 UTC
+HI-02,Hawaii,HI,Dem win,Jill Tokuda,D,66.5,Brenton Awa,R,33.5,33.0,86.95,yes,2026-11-07 07:01 UTC
+IA-01,Iowa,IA,Dem win,Christina Bohannan,D,52.7,Mariannette Miller-Meeks,R,43.5,9.2,99,yes,2026-11-07 07:01 UTC
+IA-02,Iowa,IA,Dem win,Lindsay James,D,49.5,Joe Mitchell,R,45.5,4.0,99,yes,2026-11-07 07:01 UTC
+IA-03,Iowa,IA,Dem win,Sarah Trone Garriott,D,53.5,Zach Nunn,R,46.2,7.3,99,yes,2026-11-07 07:01 UTC
+IA-04,Iowa,IA,Rep win,Chris McGowan,R,59.0,Dave Dawson,D,40.9,18.1,88.63,yes,2026-11-07 07:01 UTC
+ID-01,Idaho,ID,Rep win,Russ Fulcher,R,64.3,Kaylee Peterson,D,28.8,35.5,99,yes,2026-11-07 07:01 UTC
+ID-02,Idaho,ID,Rep win,Mike Simpson,R,51.7,Ellie Gilbreath,D,40.3,11.4,88.76,yes,2026-11-07 07:01 UTC
+IL-01,Illinois,IL,Dem win,Jonathan Jackson,D,71.7,Christian Maxwell,R,28.3,43.4,88.11,yes,2026-11-07 07:01 UTC
+IL-02,Illinois,IL,Dem win,Donna Miller,D,73.2,Mike Noack,R,26.8,46.4,81.36,yes,2026-11-07 07:01 UTC
+IL-03,Illinois,IL,Dem win,Delia Ramirez,D,76.6,Angel Oakley,R,23.4,53.2,72.98,yes,2026-11-07 07:01 UTC
+IL-04,Illinois,IL,Dem win,Patty Garcia,D,71.1,Lupe Castillo,R,16.1,55.0,59.47,yes,2026-11-07 07:01 UTC
+IL-05,Illinois,IL,Dem win,Mike Quigley,D,76.0,Tom Hanson,R,24.0,52.0,97.95,yes,2026-11-07 07:01 UTC
+IL-06,Illinois,IL,Dem win,Sean Casten,D,62.8,Niki Conforti,R,37.2,25.6,93.21,yes,2026-11-07 07:01 UTC
+IL-07,Illinois,IL,Dem win,La Shawn Ford,D,89.2,Chad Koppie,R,10.8,78.4,80.83,yes,2026-11-07 07:01 UTC
+IL-08,Illinois,IL,Dem win,Melissa Bean,D,64.1,Jennifer Davis,R,35.9,28.2,76.94,yes,2026-11-07 07:01 UTC
+IL-09,Illinois,IL,Dem win,Daniel K. Biss,D,76.2,John Elleson,R,23.8,52.4,96.62,yes,2026-11-07 07:01 UTC
+IL-10,Illinois,IL,Dem win,Brad Schneider,D,70.0,Carl Lambrecht,R,30.0,40.0,87.04,yes,2026-11-07 07:01 UTC
+IL-11,Illinois,IL,Dem win,Bill Foster,D,64.3,Jeffrey Walter,R,35.7,28.6,96.67,yes,2026-11-07 07:01 UTC
+IL-12,Illinois,IL,Rep win,Mike Bost,R,69.7,Julie Fortier,D,30.3,39.4,90.54,yes,2026-11-07 07:01 UTC
+IL-13,Illinois,IL,Dem win,Nikki Budzinski,D,62.6,Jeff Wilson,R,37.4,25.2,91.14,yes,2026-11-07 07:01 UTC
+IL-14,Illinois,IL,Dem win,Lauren Underwood,D,62.6,James Marter,R,37.4,25.2,88.02,yes,2026-11-07 07:01 UTC
+IL-15,Illinois,IL,Rep win,Mary Miller,R,66.9,Jennifer Todd,D,33.1,33.8,93.98,yes,2026-11-07 07:01 UTC
+IL-16,Illinois,IL,Rep win,Darin LaHood,R,58.8,Paul Nolley,D,41.2,17.6,99,yes,2026-11-07 07:01 UTC
+IL-17,Illinois,IL,Dem win,Eric Sorensen,D,60.2,Dillan Vancil,R,39.8,20.4,84.72,yes,2026-11-07 07:01 UTC
+IN-01,Indiana,IN,Dem win,Frank Mrvan,D,62.9,Barb Regnitz,R,37.1,25.8,99,yes,2026-11-07 07:01 UTC
+IN-02,Indiana,IN,Rep win,Rudy Yakym,R,51.1,Jamee Decio,D,46.2,4.9,93.02,yes,2026-11-07 07:01 UTC
+IN-03,Indiana,IN,Rep win,Marlin Stutzman,R,54.9,Kelly Thompson,D,45.1,9.8,96.12,yes,2026-11-07 07:01 UTC
+IN-04,Indiana,IN,Rep win,Jim Baird,R,54.2,Drew Cox,D,45.8,8.4,99,yes,2026-11-07 07:01 UTC
+IN-05,Indiana,IN,Dem win,J. D. Ford,D,51.6,Victoria Spartz,R,48.4,3.2,99,yes,2026-11-07 07:01 UTC
+IN-06,Indiana,IN,Rep win,Jefferson Shreve,R,55.1,Cinde Wirth,D,44.9,10.2,96.8,yes,2026-11-07 07:01 UTC
+IN-07,Indiana,IN,Dem win,André Carson,D,77.0,Patrick McAuley,R,20.4,56.6,99,yes,2026-11-07 07:01 UTC
+IN-08,Indiana,IN,Rep win,Mark Messmer,R,55.3,Mary Allen,D,44.7,10.6,99,yes,2026-11-07 07:01 UTC
+IN-09,Indiana,IN,Rep win,Erin Houchin,R,54.0,Brad Meyer,D,43.5,10.5,99,yes,2026-11-07 07:01 UTC
+KS-01,Kansas,KS,Rep win,Tracey Mann,R,59.4,Lauren Reinhold,D,37.9,21.5,87.85,yes,2026-11-07 07:01 UTC
+KS-02,Kansas,KS,Rep win,Derek Schmidt,R,51.2,Don Coover,D,45.0,6.2,85.13,yes,2026-11-07 07:01 UTC
+KS-03,Kansas,KS,Dem win,Sharice Davids,D,59.6,Eric Jenkins,R,38.4,21.2,99,yes,2026-11-07 07:01 UTC
+KS-04,Kansas,KS,Rep win,Ron Estes,R,53.5,Katy Tyndell,D,44.1,9.4,90.06,yes,2026-11-07 07:01 UTC
+KY-01,Kentucky,KY,Rep win,James Comer,R,67.6,Drew Williams,D,32.4,35.2,83.22,yes,2026-11-07 07:01 UTC
+KY-02,Kentucky,KY,Rep win,Brett Guthrie,R,62.8,Megan Wingfield,D,35.1,27.7,83.98,yes,2026-11-07 07:01 UTC
+KY-03,Kentucky,KY,Dem win,Morgan McGarvey,D,70.3,Maria Teresa Rodriguez,R,29.7,40.6,86.82,yes,2026-11-07 07:01 UTC
+KY-04,Kentucky,KY,Rep win,Ed Gallrein,R,54.2,Melissa Strange,D,40.9,13.3,91.94,yes,2026-11-07 07:01 UTC
+KY-05,Kentucky,KY,Rep win,Hal Rogers,R,71.1,Ned Pillersdorf,D,25.3,45.8,72.95,yes,2026-11-07 07:01 UTC
+KY-06,Kentucky,KY,Dem win,Zach Dembo,D,52.7,Ralph Alvarado,R,43.3,9.4,93.96,yes,2026-11-07 07:01 UTC
+LA-01,Louisiana,LA,Rep win,Steve Scalise,R,60.7,Lauren Jewett,D,34.0,26.7,99,yes,2026-11-07 07:01 UTC
+LA-02,Louisiana,LA,Dem win,Troy Carter,D,79.9,Peter Williams,R,15.1,64.8,93.36,yes,2026-11-07 07:01 UTC
+LA-03,Louisiana,LA,Rep win,Clay Higgins,R,55.0,John Day,D,20.9,34.1,92.79,yes,2026-11-07 07:01 UTC
+LA-04,Louisiana,LA,Rep win,Mike Johnson,R,58.5,Conrad Cable,D,23.0,35.5,90.9,yes,2026-11-07 07:01 UTC
+LA-05,Louisiana,LA,Dem lead,"Patricia ""Pat"" Moore",D,17.9,Gabe Firment,R,17.2,0.7,89.93,no,2026-11-07 07:01 UTC
+LA-06,Louisiana,LA,Dem lead,Chauna Banks,D,19.4,Blake Miguez,R,19.2,0.2,99,no,2026-11-07 07:01 UTC
+MA-01,Massachusetts,MA,Dem win,Richard E. Neal,D,65.4,Nadia Donya Milleron,I,34.6,30.8,83.21,yes,2026-11-07 07:01 UTC
+MA-02,Massachusetts,MA,Dem win,James P. McGovern,D,100.0,,,,,62.2,yes,2026-11-07 07:01 UTC
+MA-03,Massachusetts,MA,Dem win,Lori Loureiro Trahan,D,67.2,Gary J. Grossi,R,30.3,36.9,79.97,yes,2026-11-07 07:01 UTC
+MA-04,Massachusetts,MA,Dem win,Jake Auchincloss,D,66.4,Thomas Stalcup,R,33.6,32.8,90.14,yes,2026-11-07 07:01 UTC
+MA-05,Massachusetts,MA,Dem win,Katherine M. Clark,D,100.0,,,,,67.68,yes,2026-11-07 07:01 UTC
+MA-06,Massachusetts,MA,Dem win,Dan Koh,D,63.4,Micah Quinney Jones,R,36.6,26.8,99,yes,2026-11-07 07:01 UTC
+MA-07,Massachusetts,MA,Dem win,Ayanna S. Pressley,D,100.0,,,,,54.33,yes,2026-11-07 07:01 UTC
+MA-08,Massachusetts,MA,Dem win,Stephen F. Lynch,D,69.4,Robert G. Burke,R,26.8,42.6,88.5,yes,2026-11-07 07:01 UTC
+MA-09,Massachusetts,MA,Dem win,Bill Keating,D,60.9,R. Tyler Macallister,R,39.1,21.8,99,yes,2026-11-07 07:01 UTC
+MD-01,Maryland,MD,Rep win,Andy Harris,R,53.4,Dan Schwartz,D,46.5,6.9,88.63,yes,2026-11-07 07:01 UTC
+MD-02,Maryland,MD,Dem win,Johnny Olszewski,D,62.6,Dave Wallace,R,37.2,25.4,78.72,yes,2026-11-07 07:01 UTC
+MD-03,Maryland,MD,Dem win,Sarah Elfreth,D,66.8,Berney Flowers,R,32.9,33.9,90.56,yes,2026-11-07 07:01 UTC
+MD-04,Maryland,MD,Dem win,Glenn Ivey,D,89.1,George McDermott,R,6.2,82.9,59.7,yes,2026-11-07 07:01 UTC
+MD-05,Maryland,MD,Dem win,Adrian Boafo,D,69.3,Chris Chaffee,R,30.0,39.3,93.15,yes,2026-11-07 07:01 UTC
+MD-06,Maryland,MD,Dem win,April McClain Delaney,D,57.8,Robin Ficker,R,39.2,18.6,78.92,yes,2026-11-07 07:01 UTC
+MD-07,Maryland,MD,Dem win,Kweisi Mfume,D,83.9,Scott Collier,R,15.7,68.2,60.93,yes,2026-11-07 07:01 UTC
+MD-08,Maryland,MD,Dem win,Jamie Raskin,D,82.7,Cheryl Riley,R,15.4,67.3,82.12,yes,2026-11-07 07:01 UTC
+ME-01,Maine,ME,Dem win,Chellie Pingree,D,66.1,Ronald Russell,R,33.9,32.2,97.15,yes,2026-11-07 07:01 UTC
+ME-02,Maine,ME,Rep lead,Paul LePage,R,50.8,Matthew Dunlap,D,49.2,1.6,94.18,no,2026-11-07 07:01 UTC
+MI-01,Michigan,MI,Rep win,Jack Bergman,R,53.8,Callie Barr,D,44.2,9.6,99,yes,2026-11-07 07:01 UTC
+MI-02,Michigan,MI,Rep win,John Moolenaar,R,61.4,Benjamin Ambrose,D,36.9,24.5,92.05,yes,2026-11-07 07:01 UTC
+MI-03,Michigan,MI,Dem win,Hillary Scholten,D,57.1,Terri DeBoer,R,41.4,15.7,97.79,yes,2026-11-07 07:01 UTC
+MI-04,Michigan,MI,Dem win,Sean McCann,D,50.1,Bill Huizenga,R,48.3,1.8,97.21,yes,2026-11-07 07:01 UTC
+MI-05,Michigan,MI,Rep win,Tim Walberg,R,59.1,Christian Vukasovich,D,38.5,20.6,86.85,yes,2026-11-07 07:01 UTC
+MI-06,Michigan,MI,Dem win,Debbie Dingell,D,67.4,Heather Smiley,R,30.3,37.1,99,yes,2026-11-07 07:01 UTC
+MI-07,Michigan,MI,Dem win,William Lawrence,D,51.0,Tom Barrett,R,47.7,3.3,99,yes,2026-11-07 07:01 UTC
+MI-08,Michigan,MI,Dem win,Kristen McDonald Rivet,D,55.5,Tom Smith,R,41.9,13.6,92.6,yes,2026-11-07 07:01 UTC
+MI-09,Michigan,MI,Rep win,Lisa McClain,R,62.6,Ray Pooley,D,34.7,27.9,99,yes,2026-11-07 07:01 UTC
+MI-10,Michigan,MI,Dem win,Christina Hines,D,52.4,Michael Bouchard Jr.,R,45.2,7.2,93.9,yes,2026-11-07 07:01 UTC
+MI-11,Michigan,MI,Dem win,Jeremy Moss,D,60.9,Ethan Baker,R,36.8,24.1,99,yes,2026-11-07 07:01 UTC
+MI-12,Michigan,MI,Dem win,Rashida Tlaib,D,75.8,James Hooper,R,21.2,54.6,88.25,yes,2026-11-07 07:01 UTC
+MI-13,Michigan,MI,Dem win,Donavan McKinney,D,76.3,T.P. Nykoriak,R,19.8,56.5,74.72,yes,2026-11-07 07:01 UTC
+MN-01,Minnesota,MN,Dem lead,Jake Johnson,D,50.0,Brad Finstad,R,49.9,0.1,93.57,no,2026-11-07 07:01 UTC
+MN-02,Minnesota,MN,Dem win,Matt Little,D,57.1,Eric Pratt,R,42.8,14.3,99,yes,2026-11-07 07:01 UTC
+MN-03,Minnesota,MN,Dem win,Kelly Morrison,D,64.0,Tyler Bass,R,35.8,28.2,99,yes,2026-11-07 07:01 UTC
+MN-04,Minnesota,MN,Dem win,Betty McCollum,D,73.1,Paul Wikstrom,R,26.8,46.3,96.02,yes,2026-11-07 07:01 UTC
+MN-05,Minnesota,MN,Dem win,Ilhan Omar,D,76.5,John Nagel,R,16.2,60.3,97.76,yes,2026-11-07 07:01 UTC
+MN-06,Minnesota,MN,Rep win,Tom Emmer,R,55.7,Doug Chapin,D,44.2,11.5,99,yes,2026-11-07 07:01 UTC
+MN-07,Minnesota,MN,Rep win,Michelle Fischbach,R,64.9,Erik Osberg,D,35.0,29.9,95.08,yes,2026-11-07 07:01 UTC
+MN-08,Minnesota,MN,Rep win,Pete Stauber,R,53.0,Trina Swanson,D,46.9,6.1,99,yes,2026-11-07 07:01 UTC
+MO-01,Missouri,MO,Dem win,Wesley Bell,D,81.5,Paul Berry,R,13.9,67.6,99,yes,2026-11-07 07:01 UTC
+MO-02,Missouri,MO,Dem win,Fred Wellman,D,51.1,Ann Wagner,R,46.2,4.9,99,yes,2026-11-07 07:01 UTC
+MO-03,Missouri,MO,Rep win,Bob Onder,R,52.9,Bethany Mann,D,44.4,8.5,99,yes,2026-11-07 07:01 UTC
+MO-04,Missouri,MO,Rep win,Mark Alford,R,61.5,Jordan Herrera,D,35.6,25.9,99,yes,2026-11-07 07:01 UTC
+MO-05,Missouri,MO,Dem win,Emanuel Cleaver,D,69.5,Rick Brattin,R,28.1,41.4,99,yes,2026-11-07 07:01 UTC
+MO-06,Missouri,MO,Rep win,Chris Stigall,R,58.7,Josh Smead,D,39.0,19.7,99,yes,2026-11-07 07:01 UTC
+MO-07,Missouri,MO,Rep win,Eric Burlison,R,62.2,Missi Hesketh,D,35.4,26.8,99,yes,2026-11-07 07:01 UTC
+MO-08,Missouri,MO,Rep win,Jason Smith,R,67.7,Christopher Reichard,D,29.2,38.5,94.51,yes,2026-11-07 07:01 UTC
+MS-01,Mississippi,MS,Rep win,Trent Kelly,R,58.3,Cliff Johnson,D,40.3,18.0,98.82,yes,2026-11-07 07:01 UTC
+MS-02,Mississippi,MS,Dem win,Bennie Thompson,D,67.6,Ron Eller,R,30.0,37.6,99,yes,2026-11-07 07:01 UTC
+MS-03,Mississippi,MS,Rep win,Michael Guest,R,57.5,Michael Chiaradio,D,41.2,16.3,99,yes,2026-11-07 07:01 UTC
+MS-04,Mississippi,MS,Rep win,Mike Ezell,R,61.1,Jeffrey Hulum,D,35.8,25.3,88.77,yes,2026-11-07 07:01 UTC
+MT-01,Montana,MT,Dem win,Sam Forstag,D,50.3,Aaron Flint,R,46.8,3.5,92.7,yes,2026-11-07 07:01 UTC
+MT-02,Montana,MT,Rep win,Troy Downing,R,58.2,Brian Miller,D,32.2,26.0,76.98,yes,2026-11-07 07:01 UTC
+NC-01,North Carolina,NC,Dem win,Don Davis,D,50.1,Laurie Buckhout,R,46.8,3.3,99,yes,2026-11-07 07:01 UTC
+NC-02,North Carolina,NC,Dem win,Deborah Ross,D,75.1,Gene Douglass,R,23.5,51.6,99,yes,2026-11-07 07:01 UTC
+NC-03,North Carolina,NC,Rep lead,Greg Murphy,R,49.4,Raymond Smith Jr.,D,49.3,0.1,75.48,no,2026-11-07 07:01 UTC
+NC-04,North Carolina,NC,Dem win,Valerie Foushee,D,79.1,Max Ganorkar,R,18.9,60.2,99,yes,2026-11-07 07:01 UTC
+NC-05,North Carolina,NC,Dem lead,Chuck Hubbard,D,48.7,Virginia Foxx,R,48.7,0.0,90.72,no,2026-11-07 07:01 UTC
+NC-06,North Carolina,NC,Dem win,Cyril Jefferson,D,51.1,Addison McDowell,R,48.9,2.2,86.97,yes,2026-11-07 07:01 UTC
+NC-07,North Carolina,NC,Rep lead,David Rouzer,R,49.9,Kim Hardy,D,49.1,0.8,99,no,2026-11-07 07:01 UTC
+NC-08,North Carolina,NC,Rep win,Mark Harris,R,50.4,Colby Watson,D,48.6,1.8,92.81,yes,2026-11-07 07:01 UTC
+NC-09,North Carolina,NC,Dem win,Richard Ojeda,D,51.1,Richard Hudson,R,48.9,2.2,86.15,yes,2026-11-07 07:01 UTC
+NC-10,North Carolina,NC,Rep lead,Pat Harrigan,R,49.7,Ashley Bell,D,48.7,1.0,93.45,no,2026-11-07 07:01 UTC
+NC-11,North Carolina,NC,Dem win,Jamie Ager,D,57.1,Jennifer Balkcom,R,41.3,15.8,99,yes,2026-11-07 07:01 UTC
+NC-12,North Carolina,NC,Dem win,Alma Adams,D,81.2,Jack Codiga,R,18.8,62.4,83.26,yes,2026-11-07 07:01 UTC
+NC-13,North Carolina,NC,Dem win,Paul Barringer,D,50.5,Brad Knott,R,48.1,2.4,99,yes,2026-11-07 07:01 UTC
+NC-14,North Carolina,NC,Dem win,Lakesha Womack,D,51.1,Tim Moore,R,48.9,2.2,91.48,yes,2026-11-07 07:01 UTC
+ND-AL,North Dakota,ND,Rep win,Julie Fedorchak,R,57.3,Trygve Hammer,D,36.6,20.7,99,yes,2026-11-07 07:01 UTC
+NE-01,Nebraska,NE,Rep win,Mike  Flood,R,50.0,Chris  Backemeyer,D,46.5,3.5,99,yes,2026-11-07 07:01 UTC
+NE-02,Nebraska,NE,Dem win,Denise  Powell,D,56.6,Brinker  Harding,R,40.8,15.8,99,yes,2026-11-07 07:01 UTC
+NE-03,Nebraska,NE,Rep win,Adrian  Smith,R,71.0,Becky Stille,D,20.0,51.0,91.84,yes,2026-11-07 07:01 UTC
+NH-01,New Hampshire,NH,Dem win,Stefany Shaheen,D,57.0,Anthony DiLorenzo,R,42.9,14.1,91.77,yes,2026-11-07 07:01 UTC
+NH-02,New Hampshire,NH,Dem win,Maggie Goodlander,D,59.0,Lily Tang Williams,R,38.6,20.4,92.37,yes,2026-11-07 07:01 UTC
+NJ-01,New Jersey,NJ,Dem win,Donald Norcross,D,70.3,Damon Galdo,R,29.6,40.7,89.5,yes,2026-11-07 07:01 UTC
+NJ-02,New Jersey,NJ,Dem win,Zack Mullock,D,50.8,Jeff Van Drew,R,48.1,2.7,85.58,yes,2026-11-07 07:01 UTC
+NJ-03,New Jersey,NJ,Dem win,Herb Conaway,D,62.6,Michael McGuire,R,35.3,27.3,92.71,yes,2026-11-07 07:01 UTC
+NJ-04,New Jersey,NJ,Rep win,Chris Smith,R,58.9,Rachel Peace,D,40.9,18.0,80.17,yes,2026-11-07 07:01 UTC
+NJ-05,New Jersey,NJ,Dem win,Josh Gottheimer,D,62.4,Sean Kirrane,R,34.7,27.7,89.17,yes,2026-11-07 07:01 UTC
+NJ-06,New Jersey,NJ,Dem win,Frank Pallone,D,69.1,Hillary Herzig,R,30.5,38.6,71.12,yes,2026-11-07 07:01 UTC
+NJ-07,New Jersey,NJ,Dem win,Rebecca Bennett,D,57.2,Thomas Kean Jr.,R,41.2,16.0,99,yes,2026-11-07 07:01 UTC
+NJ-08,New Jersey,NJ,Dem win,Rob Menendez,D,88.0,Craig Honts,Other,4.2,83.8,43.8,yes,2026-11-07 07:01 UTC
+NJ-09,New Jersey,NJ,Dem win,Nellie Pou,D,66.6,Rosie Pino,R,31.8,34.8,60.5,yes,2026-11-07 07:01 UTC
+NJ-10,New Jersey,NJ,Dem win,LaMonica McIver,D,84.5,Carmen Bucco,R,15.4,69.1,70.22,yes,2026-11-07 07:01 UTC
+NJ-11,New Jersey,NJ,Dem win,Analilia Mejia,D,60.7,Joe Hathaway,R,38.3,22.4,94.46,yes,2026-11-07 07:01 UTC
+NJ-12,New Jersey,NJ,Dem win,Adam Hamawy,D,70.2,Gregg Mele,R,28.0,42.2,82.85,yes,2026-11-07 07:01 UTC
+NM-01,New Mexico,NM,Dem win,Melanie Stansbury,D,63.6,Didi Okpareke,R,36.4,27.2,99,yes,2026-11-07 07:01 UTC
+NM-02,New Mexico,NM,Dem win,Gabe Vasquez,D,58.8,Greg Cunningham,R,41.2,17.6,78.82,yes,2026-11-07 07:01 UTC
+NM-03,New Mexico,NM,Dem win,Teresa Leger Fernandez,D,61.7,Martin Zamora,R,38.3,23.4,84.41,yes,2026-11-07 07:01 UTC
+NV-01,Nevada,NV,Dem win,Dina Titus,D,59.2,Carrie Buck,R,37.7,21.5,78.25,yes,2026-11-07 07:01 UTC
+NV-02,Nevada,NV,Dem win,Teresa Benitez-Thompson,D,50.3,Dave Flippo,R,44.3,6.0,99,yes,2026-11-07 07:01 UTC
+NV-03,Nevada,NV,Dem win,Susie Lee,D,59.6,Martin O'Donnell,R,38.1,21.5,88.31,yes,2026-11-07 07:01 UTC
+NV-04,Nevada,NV,Dem win,Steven Horsford,D,60.7,Cody Whipple,R,37.4,23.3,81.98,yes,2026-11-07 07:01 UTC
+NY-01,New York,NY,Rep win,Nick LaLota,R,51.1,Chris Gallant,D,48.9,2.2,99,yes,2026-11-07 07:01 UTC
+NY-02,New York,NY,Rep win,Andrew Garbarino,R,51.1,Patrick Halpin,D,48.8,2.3,80.68,yes,2026-11-07 07:01 UTC
+NY-03,New York,NY,Dem win,Tom Suozzi,D,55.0,Mike LiPetri,R,44.7,10.3,88.46,yes,2026-11-07 07:01 UTC
+NY-04,New York,NY,Dem win,Laura Gillen,D,56.6,Jeanine Driscoll,R,43.1,13.5,90.66,yes,2026-11-07 07:01 UTC
+NY-05,New York,NY,Dem win,Gregory Meeks,D,80.5,George Marsh,R,19.3,61.2,67.22,yes,2026-11-07 07:01 UTC
+NY-06,New York,NY,Dem win,Grace Meng,D,68.6,Joseph Chou,R,30.6,38.0,48,yes,2026-11-07 07:01 UTC
+NY-07,New York,NY,Dem win,Claire Valdez,D,83.3,Melvin Rivera,R,15.0,68.3,69.05,yes,2026-11-07 07:01 UTC
+NY-08,New York,NY,Dem win,Hakeem Jeffries,D,78.9,Lewis Mizrahi,R,19.7,59.2,68.34,yes,2026-11-07 07:01 UTC
+NY-09,New York,NY,Dem win,Yvette Clarke,D,82.1,Joel Anabilah-Azumah,R,17.0,65.1,73.51,yes,2026-11-07 07:01 UTC
+NY-10,New York,NY,Dem win,Brad Lander,D,83.2,Jennifer Moore,R,15.9,67.3,93.46,yes,2026-11-07 07:01 UTC
+NY-11,New York,NY,Rep win,Nicole Malliotakis,R,56.1,Michael DeCillis,D,43.8,12.3,57.79,yes,2026-11-07 07:01 UTC
+NY-12,New York,NY,Dem win,Micah Lasher,D,77.2,Caroline Shinkle,R,20.0,57.2,99,yes,2026-11-07 07:01 UTC
+NY-13,New York,NY,Dem win,Darializa Avila Chevalier,D,87.5,"Manual ""Jomo"" Williams",R,11.4,76.1,74.34,yes,2026-11-07 07:01 UTC
+NY-14,New York,NY,Dem win,Alexandria Ocasio-Cortez,D,78.2,Diamant Hysenaj,R,21.5,56.7,54.32,yes,2026-11-07 07:01 UTC
+NY-15,New York,NY,Dem win,Ritchie Torres,D,76.8,Stylo Sapaskis,R,10.6,66.2,52.83,yes,2026-11-07 07:01 UTC
+NY-16,New York,NY,Dem win,George Latimer,D,75.7,Joseph Cinquemani,R,24.0,51.7,88.96,yes,2026-11-07 07:01 UTC
+NY-17,New York,NY,Dem win,Cait Conley,D,53.0,Mike Lawler,R,46.9,6.1,99,yes,2026-11-07 07:01 UTC
+NY-18,New York,NY,Dem win,Pat Ryan,D,62.9,Jacqueline Auringer,R,37.1,25.8,94.63,yes,2026-11-07 07:01 UTC
+NY-19,New York,NY,Dem win,Josh Riley,D,57.3,Peter Oberacker,R,42.6,14.7,99,yes,2026-11-07 07:01 UTC
+NY-20,New York,NY,Dem win,Paul Tonko,D,63.6,Ralph Ambrosio,R,36.3,27.3,99,yes,2026-11-07 07:01 UTC
+NY-21,New York,NY,Rep win,Anthony Constantino,R,50.8,Blake Gendebien,D,48.9,1.9,89.02,yes,2026-11-07 07:01 UTC
+NY-22,New York,NY,Dem win,John Mannion,D,58.3,Kailee Buller,R,41.6,16.7,98.12,yes,2026-11-07 07:01 UTC
+NY-23,New York,NY,Rep win,Nick Langworthy,R,60.2,Aaron Gies,D,39.7,20.5,97.4,yes,2026-11-07 07:01 UTC
+NY-24,New York,NY,Rep win,Claudia Tenney,R,60.4,Alissa Ellman,D,39.5,20.9,90.77,yes,2026-11-07 07:01 UTC
+NY-25,New York,NY,Dem win,Joseph Morelle,D,62.9,Virginia McIntyre,R,36.9,26.0,99,yes,2026-11-07 07:01 UTC
+NY-26,New York,NY,Dem win,Tim Kennedy,D,65.8,Dennis Hannon,R,34.0,31.8,93.21,yes,2026-11-07 07:01 UTC
+OH-01,Ohio,OH,Dem win,Greg Landsman,D,54.4,Eric Conroy,R,42.9,11.5,99,yes,2026-11-07 07:01 UTC
+OH-02,Ohio,OH,Rep win,David J. Taylor,R,64.2,Jen Mazzuckelli,D,35.8,28.4,85.26,yes,2026-11-07 07:01 UTC
+OH-03,Ohio,OH,Dem win,Joyce Beatty,D,77.2,Cleophus Dulaney,R,22.8,54.4,95.36,yes,2026-11-07 07:01 UTC
+OH-04,Ohio,OH,Rep win,Jim Jordan,R,64.5,Joshua D. Kolasinski,D,31.3,33.2,95.4,yes,2026-11-07 07:01 UTC
+OH-05,Ohio,OH,Rep win,Bob Latta,R,54.3,Brian A. Shaver,D,42.6,11.7,94.4,yes,2026-11-07 07:01 UTC
+OH-06,Ohio,OH,Rep win,Michael A. Rulli,R,60.4,Elizabeth Kirtley,D,39.6,20.8,84.75,yes,2026-11-07 07:01 UTC
+OH-07,Ohio,OH,Dem win,Brian Poindexter,D,54.9,Max Miller,R,45.0,9.9,99,yes,2026-11-07 07:01 UTC
+OH-08,Ohio,OH,Rep win,Warren Davidson,R,52.1,Vanessa Enoch,D,47.9,4.2,99,yes,2026-11-07 07:01 UTC
+OH-09,Ohio,OH,Dem win,Marcy Kaptur,D,52.7,Derek Merrin,R,47.2,5.5,95.03,yes,2026-11-07 07:01 UTC
+OH-10,Ohio,OH,Dem win,Kristina Knickerbocker,D,49.3,Mike Turner,R,47.7,1.6,94.97,yes,2026-11-07 07:01 UTC
+OH-11,Ohio,OH,Dem win,Shontel M. Brown,D,83.5,Mike Kirchner,R,16.5,67.0,83.92,yes,2026-11-07 07:01 UTC
+OH-12,Ohio,OH,Rep win,Troy Balderson,R,59.4,Jerrad Christian,D,40.6,18.8,99,yes,2026-11-07 07:01 UTC
+OH-13,Ohio,OH,Dem win,Emilia Sykes,D,60.0,Carey Coleman,R,38.4,21.6,99,yes,2026-11-07 07:01 UTC
+OH-14,Ohio,OH,Rep win,David P. Joyce,R,55.0,Maria Jukic,D,45.0,10.0,99,yes,2026-11-07 07:01 UTC
+OH-15,Ohio,OH,Dem win,Don Leonard,D,51.9,Mike Carey,R,45.3,6.6,90.42,yes,2026-11-07 07:01 UTC
+OK-01,Oklahoma,OK,Rep win,Mark Tedford,R,52.3,John Croisant,D,47.7,4.6,89.9,yes,2026-11-07 07:01 UTC
+OK-02,Oklahoma,OK,Rep win,Josh Brecheen,R,68.0,Brandon Wade,D,29.0,39.0,78.91,yes,2026-11-07 07:01 UTC
+OK-03,Oklahoma,OK,Rep win,Frank Lucas,R,64.0,Suzie Byrd,D,36.0,28.0,72.07,yes,2026-11-07 07:01 UTC
+OK-04,Oklahoma,OK,Rep win,Tom Cole,R,57.6,Mitchell Jacob,D,39.5,18.1,83.54,yes,2026-11-07 07:01 UTC
+OK-05,Oklahoma,OK,Rep win,Stephanie Bice,R,49.5,Jena Nelson,D,48.2,1.3,99,yes,2026-11-07 07:01 UTC
+OR-01,Oregon,OR,Dem win,Suzanne Bonamici,D,71.0,Barbara Kahl,R,28.8,42.2,89.45,yes,2026-11-07 07:01 UTC
+OR-02,Oregon,OR,Rep win,Cliff Bentz,R,61.6,Chris Beck,D,38.3,23.3,87.42,yes,2026-11-07 07:01 UTC
+OR-03,Oregon,OR,Dem win,Maxine Dexter,D,77.3,Loran Ayles,R,22.5,54.8,88.49,yes,2026-11-07 07:01 UTC
+OR-04,Oregon,OR,Dem win,Val Hoyle,D,53.7,Monique DeSpain,R,42.8,10.9,97.43,yes,2026-11-07 07:01 UTC
+OR-05,Oregon,OR,Dem win,Janelle Bynum,D,54.2,Patti Adair,R,43.6,10.6,99,yes,2026-11-07 07:01 UTC
+OR-06,Oregon,OR,Dem win,Andrea Salinas,D,58.2,David Russ,R,41.6,16.6,75.03,yes,2026-11-07 07:01 UTC
+PA-01,Pennsylvania,PA,Dem win,Bob Harvie,D,52.7,Brian Fitzpatrick,R,47.3,5.4,99,yes,2026-11-07 07:01 UTC
+PA-02,Pennsylvania,PA,Dem win,Brendan Boyle,D,80.8,Jessica Arriaga,R,19.2,61.6,52.03,yes,2026-11-07 07:01 UTC
+PA-03,Pennsylvania,PA,Dem win,Chris Rabb,D,93.6,Dennis Mahoney,Other,6.4,87.2,77.65,yes,2026-11-07 07:01 UTC
+PA-04,Pennsylvania,PA,Dem win,Madeleine Dean,D,67.1,Aurora Stuski,R,32.9,34.2,97.12,yes,2026-11-07 07:01 UTC
+PA-05,Pennsylvania,PA,Dem win,Mary Gay Scanlon,D,72.1,Nicholas Manganaro,R,27.9,44.2,83.65,yes,2026-11-07 07:01 UTC
+PA-06,Pennsylvania,PA,Dem win,Chrissy Houlahan,D,64.3,Marty Young,R,35.7,28.6,86.92,yes,2026-11-07 07:01 UTC
+PA-07,Pennsylvania,PA,Dem win,Bob Brooks,D,56.1,Ryan Mackenzie,R,43.9,12.2,82.22,yes,2026-11-07 07:01 UTC
+PA-08,Pennsylvania,PA,Dem win,Paige Cognetti,D,54.5,Rob Bresnahan,R,45.5,9.0,79.04,yes,2026-11-07 07:01 UTC
+PA-09,Pennsylvania,PA,Rep win,Dan Meuser,R,61.5,Rachel Wallace,D,38.5,23.0,74.89,yes,2026-11-07 07:01 UTC
+PA-10,Pennsylvania,PA,Dem win,Janelle Stelson,D,55.1,Scott Perry,R,44.9,10.2,88.36,yes,2026-11-07 07:01 UTC
+PA-11,Pennsylvania,PA,Rep win,Lloyd Smucker,R,55.5,Nancy Mannion,D,44.5,11.0,84.14,yes,2026-11-07 07:01 UTC
+PA-12,Pennsylvania,PA,Dem win,Summer Lee,D,65.4,James Hayes,R,34.6,30.8,83.63,yes,2026-11-07 07:01 UTC
+PA-13,Pennsylvania,PA,Rep win,John Joyce,R,67.5,Beth Farnham,D,32.5,35.0,78.07,yes,2026-11-07 07:01 UTC
+PA-14,Pennsylvania,PA,Rep win,Guy Reschenthaler,R,57.5,Alan Bradstock,D,42.5,15.0,77,yes,2026-11-07 07:01 UTC
+PA-15,Pennsylvania,PA,Rep win,Glenn Thompson,R,63.9,Ray Bilger,D,36.1,27.8,74.45,yes,2026-11-07 07:01 UTC
+PA-16,Pennsylvania,PA,Rep win,Mike Kelly,R,53.9,Justin Wagner,D,46.1,7.8,79.76,yes,2026-11-07 07:01 UTC
+PA-17,Pennsylvania,PA,Dem win,Chris Deluzio,D,62.8,Tony Guy,R,37.2,25.6,92.87,yes,2026-11-07 07:01 UTC
+RI-01,Rhode Island,RI,Dem win,Gabriel Amo,D,68.6,Kellie Keenan,R,27.5,41.1,77.42,yes,2026-11-07 07:01 UTC
+RI-02,Rhode Island,RI,Dem win,Seth Magaziner,D,61.9,Victor Mellor,R,37.8,24.1,90.74,yes,2026-11-07 07:01 UTC
+SC-01,South Carolina,SC,Dem win,Nancy Lacore,D,49.7,Jenny Costa Honeycutt,R,48.6,1.1,99,yes,2026-11-07 07:01 UTC
+SC-02,South Carolina,SC,Rep lead,Joe Wilson,R,49.8,Zyon Khalifa,D,48.8,1.0,99,no,2026-11-07 07:01 UTC
+SC-03,South Carolina,SC,Rep win,Sheri Biggs,R,63.7,Eunice Lehmacher,D,34.4,29.3,94.74,yes,2026-11-07 07:01 UTC
+SC-04,South Carolina,SC,Rep win,William Timmons,R,51.7,Courtney McClain,D,45.7,6.0,98.05,yes,2026-11-07 07:01 UTC
+SC-05,South Carolina,SC,Rep win,Wes Climer,R,52.8,Mallory Dittmer,D,47.1,5.7,98.95,yes,2026-11-07 07:01 UTC
+SC-06,South Carolina,SC,Dem win,Jim Clyburn,D,69.4,John Peterson,R,30.5,38.9,88.81,yes,2026-11-07 07:01 UTC
+SC-07,South Carolina,SC,Rep win,Russell Fry,R,56.7,John Vincent,D,43.2,13.5,99,yes,2026-11-07 07:01 UTC
+SD-AL,South Dakota,SD,Rep win,Marty Jackley,R,64.0,Nikki Gronli,D,36.0,28.0,79.27,yes,2026-11-07 07:01 UTC
+TN-01,Tennessee,TN,Rep win,Diana Harshbarger,R,63.8,Kristi Burke,D,33.1,30.7,80.3,yes,2026-11-07 07:01 UTC
+TN-02,Tennessee,TN,Rep win,Tim Burchett,R,57.7,Michaela Barnett,D,41.2,16.5,97.19,yes,2026-11-07 07:01 UTC
+TN-03,Tennessee,TN,Rep win,Chuck Fleischmann,R,57.6,Anna Golladay,D,40.2,17.4,91.44,yes,2026-11-07 07:01 UTC
+TN-04,Tennessee,TN,Dem lead,Victoria Broderick,D,48.9,Scott DesJarlais,R,48.7,0.2,75.97,no,2026-11-07 07:01 UTC
+TN-05,Tennessee,TN,Rep win,Charlie Hatcher,R,51.7,Chaz Molder,D,46.7,5.0,83.05,yes,2026-11-07 07:01 UTC
+TN-06,Tennessee,TN,Rep win,Johnny Garrett,R,50.8,Mike Croley,D,47.5,3.3,92.48,yes,2026-11-07 07:01 UTC
+TN-07,Tennessee,TN,Rep win,Matt Van Epps,R,50.3,Darden Copeland,D,48.1,2.2,93.52,yes,2026-11-07 07:01 UTC
+TN-08,Tennessee,TN,Rep win,David Kustoff,R,51.6,Heidi Kuhn,D,46.4,5.2,85.83,yes,2026-11-07 07:01 UTC
+TN-09,Tennessee,TN,Rep win,Brent Taylor,R,49.6,Justin Pearson,D,48.5,1.1,87.57,yes,2026-11-07 07:01 UTC
+TX-01,Texas,TX,Rep win,Nathaniel Moran,R,69.0,Yolanda Prince,D,31.0,38.0,93.96,yes,2026-11-07 07:01 UTC
+TX-02,Texas,TX,Rep win,Steve Toth,R,51.0,Shaun Finnie,D,49.0,2.0,99,yes,2026-11-07 07:01 UTC
+TX-03,Texas,TX,Rep win,Keith Self,R,52.7,Evan Hunt,D,47.3,5.4,99,yes,2026-11-07 07:01 UTC
+TX-04,Texas,TX,Rep win,Pat Fallon,R,56.1,Jason Pearce,D,43.9,12.2,99,yes,2026-11-07 07:01 UTC
+TX-05,Texas,TX,Rep win,Lance Gooden,R,51.5,Chelsey Hockett,D,48.5,3.0,94.67,yes,2026-11-07 07:01 UTC
+TX-06,Texas,TX,Rep win,Jake Ellzey,R,52.2,Danny Minton,D,47.8,4.4,99,yes,2026-11-07 07:01 UTC
+TX-07,Texas,TX,Dem win,Lizzie Fletcher,D,70.8,Alexander Hale,R,27.5,43.3,90.9,yes,2026-11-07 07:01 UTC
+TX-08,Texas,TX,Rep win,Jessica Steinmann,R,53.2,Laura Jones,D,46.8,6.4,98.7,yes,2026-11-07 07:01 UTC
+TX-09,Texas,TX,Dem win,Leticia Gutierrez,D,57.6,Alex Mealer,R,42.4,15.2,63.91,yes,2026-11-07 07:01 UTC
+TX-10,Texas,TX,Rep win,Chris Gober,R,53.8,Caitlin Rourk,D,46.2,7.6,99,yes,2026-11-07 07:01 UTC
+TX-11,Texas,TX,Rep win,August Pfluger,R,59.5,Claire Reynolds,D,40.5,19.0,85.33,yes,2026-11-07 07:01 UTC
+TX-12,Texas,TX,Rep win,Craig Goldman,R,53.1,Angela Rodriguez Prilliman,D,46.9,6.2,99,yes,2026-11-07 07:01 UTC
+TX-13,Texas,TX,Rep win,Ronny Jackson,R,65.3,Mark Nair,D,34.7,30.6,86.93,yes,2026-11-07 07:01 UTC
+TX-14,Texas,TX,Rep win,Randy Weber,R,54.0,Thurman Bartie,D,46.0,8.0,99,yes,2026-11-07 07:01 UTC
+TX-15,Texas,TX,Dem win,Bobby Pulido,D,62.3,Monica De La Cruz,R,37.7,24.6,76.15,yes,2026-11-07 07:01 UTC
+TX-16,Texas,TX,Dem win,Veronica Escobar,D,70.8,Adam Bauman,R,29.2,41.6,78.22,yes,2026-11-07 07:01 UTC
+TX-17,Texas,TX,Rep win,Pete Sessions,R,53.6,Casey Shepard,D,46.4,7.2,99,yes,2026-11-07 07:01 UTC
+TX-18,Texas,TX,Dem win,Christian Menefee,D,86.0,Ronald Whitfield,R,14.0,72.0,95.9,yes,2026-11-07 07:01 UTC
+TX-19,Texas,TX,Rep win,Tom Sell,R,69.5,Kyle Rable,D,30.5,39.0,78.7,yes,2026-11-07 07:01 UTC
+TX-20,Texas,TX,Dem win,Joaquin Castro,D,77.6,Edgardo Baez,R,22.4,55.2,77.96,yes,2026-11-07 07:01 UTC
+TX-21,Texas,TX,Rep win,Mark Teixeira,R,54.5,Kristin Hook,D,45.5,9.0,99,yes,2026-11-07 07:01 UTC
+TX-22,Texas,TX,Rep win,Trever Nehls,R,51.8,Marquette Greene-Scott,D,48.2,3.6,99,yes,2026-11-07 07:01 UTC
+TX-23,Texas,TX,Dem win,Katy Padilla Stout,D,52.1,Brandon Herrera,R,44.0,8.1,99,yes,2026-11-07 07:01 UTC
+TX-24,Texas,TX,Rep win,Beth Van Duyne,R,53.4,Kevin Burge,D,46.6,6.8,99,yes,2026-11-07 07:01 UTC
+TX-25,Texas,TX,Rep win,Roger Williams,R,53.7,Dione Sims,D,46.3,7.4,98.92,yes,2026-11-07 07:01 UTC
+TX-26,Texas,TX,Rep win,Brandon Gill,R,54.5,Steven Shook,D,44.2,10.3,99,yes,2026-11-07 07:01 UTC
+TX-27,Texas,TX,Rep win,Michael Cloud,R,51.1,Tanya Lloyd,D,48.8,2.3,99,yes,2026-11-07 07:01 UTC
+TX-28,Texas,TX,Dem win,Henry Cuellar,D,65.8,Tano Tijerina,R,29.6,36.2,65.59,yes,2026-11-07 07:01 UTC
+TX-29,Texas,TX,Dem win,Sylvia Garcia,D,79.9,Martha Fierro,R,20.1,59.8,68.12,yes,2026-11-07 07:01 UTC
+TX-30,Texas,TX,Dem win,Frederick Haynes III,D,82.6,Everett Jackson,R,17.4,65.2,94.91,yes,2026-11-07 07:01 UTC
+TX-31,Texas,TX,Rep win,John Carter,R,53.8,Justin Early,D,44.8,9.0,99,yes,2026-11-07 07:01 UTC
+TX-32,Texas,TX,Rep win,Jace Yarbrough,R,51.5,Dan Barrios,D,48.5,3.0,99,yes,2026-11-07 07:01 UTC
+TX-33,Texas,TX,Dem win,Colin Allred,D,78.4,Patrick Gillespie,R,21.4,57.0,78.54,yes,2026-11-07 07:01 UTC
+TX-34,Texas,TX,Dem win,Vicente Gonzalez,D,55.6,Eric Flores,R,39.8,15.8,77.17,yes,2026-11-07 07:01 UTC
+TX-35,Texas,TX,Dem win,Johnny Garcia,D,55.4,Carlos De La Cruz,R,44.6,10.8,96.06,yes,2026-11-07 07:01 UTC
+TX-36,Texas,TX,Rep win,Brian Babin,R,53.6,Rhonda Hart,D,46.4,7.2,95.88,yes,2026-11-07 07:01 UTC
+TX-37,Texas,TX,Dem win,Greg Casar,D,83.8,Lauren Peña,R,16.2,67.6,99,yes,2026-11-07 07:01 UTC
+TX-38,Texas,TX,Rep win,Jon Bonck,R,51.5,Melissa McDonough,D,47.3,4.2,99,yes,2026-11-07 07:01 UTC
+UT-01,Utah,UT,Dem win,Ben McAdams,D,70.3,Riley Owen,R,26.0,44.3,99,yes,2026-11-07 07:01 UTC
+UT-02,Utah,UT,Rep win,Blake Moore,R,50.1,Peter Crosby,D,42.2,7.9,99,yes,2026-11-07 07:01 UTC
+UT-03,Utah,UT,Rep win,Celeste Maloy,R,57.4,Kent Udell,D,34.9,22.5,94.95,yes,2026-11-07 07:01 UTC
+UT-04,Utah,UT,Rep win,Mike Kennedy,R,53.7,Jonny Larsen,D,38.8,14.9,99,yes,2026-11-07 07:01 UTC
+VA-01,Virginia,VA,Dem win,Shannon Taylor,D,51.2,Rob Wittman,R,48.6,2.6,99,yes,2026-11-07 07:01 UTC
+VA-02,Virginia,VA,Dem win,Elaine Luria,D,53.0,Jen Kiggans,R,44.5,8.5,99,yes,2026-11-07 07:01 UTC
+VA-03,Virginia,VA,Dem win,Bobby Scott,D,72.6,Edwin Rivera,R,24.0,48.6,73.97,yes,2026-11-07 07:01 UTC
+VA-04,Virginia,VA,Dem win,Jennifer McClellan,D,72.2,Robert Murray,R,26.2,46.0,92.49,yes,2026-11-07 07:01 UTC
+VA-05,Virginia,VA,Rep win,John McGuire,R,50.1,Tom Perriello,D,48.1,2.0,99,yes,2026-11-07 07:01 UTC
+VA-06,Virginia,VA,Rep win,Ben Cline,R,55.5,Beth Macy,D,44.3,11.2,93.46,yes,2026-11-07 07:01 UTC
+VA-07,Virginia,VA,Dem win,Eugene Vindman,D,59.8,Doug Ollivant,R,37.7,22.1,95.45,yes,2026-11-07 07:01 UTC
+VA-08,Virginia,VA,Dem win,Don Beyer,D,79.4,Tony Sabio,R,17.9,61.5,95.06,yes,2026-11-07 07:01 UTC
+VA-09,Virginia,VA,Rep win,Morgan Griffith,R,65.9,Joy Powers,D,33.9,32.0,86.35,yes,2026-11-07 07:01 UTC
+VA-10,Virginia,VA,Dem win,Suhas Subramanyam,D,61.4,Dave Beckwith,R,36.6,24.8,97.89,yes,2026-11-07 07:01 UTC
+VA-11,Virginia,VA,Dem win,James Walkinshaw,D,74.3,Arthur Purves,R,24.2,50.1,99,yes,2026-11-07 07:01 UTC
+VT-AL,Vermont,VT,Dem win,Becca Balint,D,65.2,Gerald Malloy,R,30.9,34.3,92.73,yes,2026-11-07 07:01 UTC
+WA-01,Washington,WA,Dem win,Suzan DelBene,D,66.8,Mary Silva,R,32.9,33.9,95.27,yes,2026-11-07 07:01 UTC
+WA-02,Washington,WA,Dem win,Rick Larsen,D,66.8,Edwin H. Feller,R,32.9,33.9,99,yes,2026-11-07 07:01 UTC
+WA-03,Washington,WA,Dem win,Marie Gluesenkamp Perez,D,53.6,John Braun,R,45.5,8.1,99,yes,2026-11-07 07:01 UTC
+WA-04,Washington,WA,Rep win,Amanda McKinney,R,54.3,John Duresky,D,45.5,8.8,81.61,yes,2026-11-07 07:01 UTC
+WA-05,Washington,WA,Rep lead,Michael Baumgartner,R,51.5,Carmela Conroy,D,48.1,3.4,99,no,2026-11-07 07:01 UTC
+WA-06,Washington,WA,Dem win,Emily Randall,D,63.8,Teresa Fox,R,36.1,27.7,99,yes,2026-11-07 07:01 UTC
+WA-07,Washington,WA,Dem win,Pramila Jayapal,D,87.4,Nirav Sheth,R,12.2,75.2,99,yes,2026-11-07 07:01 UTC
+WA-08,Washington,WA,Dem win,Kim Schrier,D,56.2,Spencer Meline,R,43.6,12.6,99,yes,2026-11-07 07:01 UTC
+WA-09,Washington,WA,Dem win,Adam Smith,D,75.2,Doug Basler,R,24.1,51.1,73.93,yes,2026-11-07 07:01 UTC
+WA-10,Washington,WA,Dem win,Marilyn Strickland,D,63.5,Chris D. Chung,R,35.9,27.6,88.22,yes,2026-11-07 07:01 UTC
+WI-01,Wisconsin,WI,Dem win,Mitchell Berman,D,52.0,Bryan Steil,R,48.0,4.0,81.35,yes,2026-11-07 07:01 UTC
+WI-02,Wisconsin,WI,Dem win,Mark Pocan,D,100.0,,,,,84.53,yes,2026-11-07 07:01 UTC
+WI-03,Wisconsin,WI,Dem win,Rebecca Cooke,D,52.4,Derrick Van Orden,R,45.8,6.6,87.64,yes,2026-11-07 07:01 UTC
+WI-04,Wisconsin,WI,Dem win,Gwen Moore,D,80.0,Tim Rogers,R,17.5,62.5,70.75,yes,2026-11-07 07:01 UTC
+WI-05,Wisconsin,WI,Rep win,Scott Fitzgerald,R,59.0,Andrew Beck,D,41.0,18.0,99,yes,2026-11-07 07:01 UTC
+WI-06,Wisconsin,WI,Rep win,Glenn Grothman,R,52.8,Brad Smith,D,43.3,9.5,86.75,yes,2026-11-07 07:01 UTC
+WI-07,Wisconsin,WI,Rep win,Michael Alfonso,R,56.9,Fred Clark,D,43.1,13.8,90.61,yes,2026-11-07 07:01 UTC
+WI-08,Wisconsin,WI,Rep win,Tony Wied,R,53.9,Rick Crosson,D,46.1,7.8,87.44,yes,2026-11-07 07:01 UTC
+WV-01,West Virginia,WV,Rep win,Carol Miller,R,57.1,Vince George,D,39.6,17.5,68.3,yes,2026-11-07 07:01 UTC
+WV-02,West Virginia,WV,Rep win,Riley Moore,R,59.4,Ace Parsi,D,40.6,18.8,79.29,yes,2026-11-07 07:01 UTC
+WY-AL,Wyoming,WY,Rep win,Chuck Gray,R,54.5,Lisa F. Kinney,D,33.7,20.8,84.04,yes,2026-11-07 07:01 UTC
